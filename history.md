@@ -57,3 +57,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
   - Pending owner: sizes and delivery charges for Rawalpindi. Pictures: share the fiorire.pk Lilies & Roses post or ask owner for photos.
 - Sidra (sheikh.sahiba2477): replied "Ok" to the artificial tulips option. Pending: her choice (artificial bouquet, quantity, budget, date).
 - maryum: asks "Local flowers mein bhi nai ho skta?" (can it be made with local flowers). Pending: owner to confirm local lily/rose availability and rate before quoting.
+
+## 26 Oct 2026 (6:10 PM): Fatima (thedoc_lens) reply
+- Our earlier message (4:05 PM): imported roses, same-day delivery Islamabad/Rawalpindi, 800 per stem, asked how many roses and date/time.
+- Her reply: sent a photo of a dark red rose bouquet and said "Like this, I want long stems".
+- Her reply: "Ok thank u, in November I will contact u again for order".
+- Status: no order yet. Ordering in November. Pending owner: confirm long-stem rose availability and rate before promising.
+- Do not push for an order now. Keep it short. Note her November contact.

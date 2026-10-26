@@ -147,3 +147,8 @@ Rules:
 - Check: whether salam, hi or welcome was already done, what we said earlier, what the customer said last, and what is pending.
 - Only after checking the files, write the reply.
 - After any new update: save to cloud.md and history.md, commit and push immediately.
+
+### Fatima (thedoc_lens) update 26 Oct 2026
+- Wants long-stem red roses like the photo. She will contact us in November to order.
+- Owner to confirm long-stem rate and availability.
+- Do not push for an order now. Only reply politely and keep the November follow-up noted.
