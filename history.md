@@ -64,3 +64,6 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Her reply: "Ok thank u, in November I will contact u again for order".
 - Status: no order yet. Ordering in November. Pending owner: confirm long-stem rose availability and rate before promising.
 - Do not push for an order now. Keep it short. Note her November contact.
+
+## 26 Oct 2026 (6:15 PM): Owner knowledge
+- Owner: imported roses have long stems. Added to cloud.md flower knowledge with research source.
