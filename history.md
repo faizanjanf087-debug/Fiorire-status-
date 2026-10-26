@@ -36,3 +36,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Confirm 48,000 for Cruise bouquet.
 - Big bouquet package rule (4000 to 5000 with two lilies).
 - Full instruction on lily package still to come.
+
+## 26 Oct 2026 (later): Syeda Hamna Shifa (hamna.shifa), NEW customer
+- Asked: price and delivery for Lilies & Roses bouquet (story from Oct 19).
+- We replied: Walaikum assalam, welcome, sorry for late reply, high volume bouquet, asked budget, city and date.
+- Her reply: needs it on 18 November in Rawalpindi. No budget yet. Wants prices for different bouquets, as a graduation gift for her best friend.
+- Next: give per-stem rates (imported lily 3500 per stem, imported rose 800 per stem) and ask her to pick a budget range so we can customize. Do not quote full bouquet price without a budget.
+- Status: waiting for her budget.

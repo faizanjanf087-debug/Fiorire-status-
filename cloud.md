@@ -129,3 +129,10 @@ Rules:
 - Cigar and gold topper on cake: included in 2700/lb or extra?
 - Daniyal: confirm 48,000 for the pink Cruise bouquet.
 - Tulips: artificial bouquet customer reply.
+
+## Update 26 Oct 2026: Syeda Hamna Shifa (hamna.shifa)
+- Type: NEW. Welcome and salam done. Sorry for late reply done.
+- Needs: delivery in Rawalpindi on 18 November. Graduation gift for best friend.
+- Budget: none yet. She wants prices for different bouquets.
+- Owner rule: do not quote full bouquet price without budget. Give per-stem rates and ask for a budget range.
+- Next: wait for budget range reply.
