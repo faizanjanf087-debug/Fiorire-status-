@@ -43,3 +43,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Her reply: needs it on 18 November in Rawalpindi. No budget yet. Wants prices for different bouquets, as a graduation gift for her best friend.
 - Next: give per-stem rates (imported lily 3500 per stem, imported rose 800 per stem) and ask her to pick a budget range so we can customize. Do not quote full bouquet price without a budget.
 - Status: waiting for her budget.
+
+## 26 Oct 2026 (later): Syeda Hamna Shifa, budget received
+- Her reply: budget around 5k to 6k. Asked what options are available in this range.
+- Options to offer (per-stem rates, owner to confirm before sending):
+  - 1 imported lily (3500) + 3 imported roses (2400) = 5900
+  - 7 imported roses = 5600
+- Delivery: Rawalpindi on 18 Nov. Delivery charges separate.
+- Status: reply with options and ask which one she likes.
