@@ -165,3 +165,9 @@ Rules:
 4. Check the owner's latest instruction in this chat (for example "only long stem").
 5. Write the reply in a copy box with Roman Urdu meaning below.
 6. After the reply, update cloud.md and history.md, commit and push.
+
+## UPDATED lily pricing rule (owner, 26 Oct 2026, 6:35 PM) - supersedes older lily rules
+- One imported lily stick contains 3 imported lilies.
+- Price per lily stick: customize within 3000 to 3400 (owner's instruction). Quote charges from this range, not 3500.
+- Older notes that said "one stem has 2 lilies" and "single stem 3500" are replaced by this rule.
+- Use when quoting any bouquet with imported lily sticks. Owner to confirm the exact final price per customer.

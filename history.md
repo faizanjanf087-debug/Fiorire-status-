@@ -80,3 +80,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Her message: sent 5 photos of bouquets (red roses with lilies, and a pink and white arrangement with lilies, roses and white daisies). Said "I would prefer this" about the pink and white one.
 - Note: the pink and white photo looks like another shop's design, not ours. Do not claim it is our work. Offer our own similar design.
 - Pending: her budget (5k to 6k range), size, and delivery charges (owner to confirm).
+
+## 26 Oct 2026 (6:35 PM): Hamna chose a design, owner pricing update
+- Hamna chose the pink and white design: pink roses plus 3 pink imported lilies with chrysanthemums (white daisies, from the 5-photo set).
+- Owner: 1 imported lily stick = 3 imported lilies, price customized 3000 to 3400 per stick.
+- Reply to send: we will customize this design, and ask her order date.
+- Pending: her order date, budget confirmation, and final price (owner to confirm).
