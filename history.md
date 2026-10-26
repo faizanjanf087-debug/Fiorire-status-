@@ -86,3 +86,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: 1 imported lily stick = 3 imported lilies, price customized 3000 to 3400 per stick.
 - Reply to send: we will customize this design, and ask her order date.
 - Pending: her order date, budget confirmation, and final price (owner to confirm).
+
+## 26 Oct 2026 (6:40 PM): Hamna order date
+- Owner correction: she already gave the date earlier: 18 November, Rawalpindi.
+- Next: confirm the design and the 18 November Rawalpindi order. Do not ask the date again.
+- Pending: final price for the design (lily sticks 3000 to 3400 range), owner to confirm.
