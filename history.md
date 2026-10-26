@@ -71,3 +71,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 26 Oct 2026 (6:20 PM): Fatima long stems
 - Owner: long stem imported roses are available at this time.
 - Reply to Fatima: long stems available now; November contact noted.
+
+## 26 Oct 2026 (6:22 PM): Owner correction
+- I replied without checking GitHub history first. Owner asked to always check repo first and note the rules.
+- Fatima: owner already sent the earlier reply. Owner now wants only the long-stem reply.

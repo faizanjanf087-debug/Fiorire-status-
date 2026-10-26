@@ -157,3 +157,11 @@ Rules:
 - Imported roses have LONG stems (owner's info). Use "long stem" for imported roses when talking to customers.
 - Research: The Flower Studio Pakistan says local roses usually have stems of 8 to 25 cm, and the best quality is about 30 cm. Imported roses are shipped frozen by air, mostly from Kenya, South Africa, Thailand and China. Exact imported stem length not confirmed. Owner to confirm exact cm before quoting a size.
 - Source: https://theflowerstudio.pk/local-vs-imported-roses/
+
+## Checklist before every reply (owner rule, 26 Oct 2026)
+1. Open GitHub repo first. Read cloud.md and history.md.
+2. Read the customer's full screenshot and message. Do not assume.
+3. Check the customer history: welcome done? salam done? what we said last? what is pending?
+4. Check the owner's latest instruction in this chat (for example "only long stem").
+5. Write the reply in a copy box with Roman Urdu meaning below.
+6. After the reply, update cloud.md and history.md, commit and push.
