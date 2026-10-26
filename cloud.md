@@ -171,3 +171,11 @@ Rules:
 - Price per lily stick: customize within 3000 to 3400 (owner's instruction). Quote charges from this range, not 3500.
 - Older notes that said "one stem has 2 lilies" and "single stem 3500" are replaced by this rule.
 - Use when quoting any bouquet with imported lily sticks. Owner to confirm the exact final price per customer.
+
+## Synced from DeepSeek copy (26 Oct 2026, 8:49 PM) - needs owner confirmation
+- Row 18 Hassan (حسن): "Begum" red roses post, "Price". Budget 3k to 4k. Said "Name Sidra". Waiting for rose quantity. Rate for 3-4 roses in this budget: owner to confirm.
+- Row 19 Hamna Sajid (hamna_97): "Signature Rose Bouquet" video, "Hello. How much?" (twice). NEW. Welcome and ask budget first. Waiting for budget.
+- Row 20 Alaya: story reply, big red roses and pink lilies bouquet, "How much is the price for same one". Owner gave high-volume quote approx 1,69,000 (8 imported lilies + 200 imported red roses). Low-volume options: 3 lilies + 30 roses = 33k, 6 lilies + 60 roses = 55k. Waiting for her budget range.
+- Hamna Shifa (hamna.shifa): DeepSeek copy says date changed to 19 Nov (voice note) and she wants FRESH flowers. Our earlier record says 18 Nov. CONFLICT: owner to confirm the date before we reply.
+- Pricing check from copy: 6 imported lilies = 2 sticks = 6000 to 6800.
+- Old 21,000 for 6 lilies and old 48,000 for Cruise bouquet need recalculation with 3000 to 3400 per stick. Owner to confirm.

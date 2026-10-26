@@ -91,3 +91,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner correction: she already gave the date earlier: 18 November, Rawalpindi.
 - Next: confirm the design and the 18 November Rawalpindi order. Do not ask the date again.
 - Pending: final price for the design (lily sticks 3000 to 3400 range), owner to confirm.
+
+## 26 Oct 2026 (8:49 PM): Sync from DeepSeek copy
+- New entries added from DeepSeek records: Hassan (Begum, budget 3k-4k), Hamna Sajid (hamna_97, NEW, Signature Rose Bouquet), Alaya (big bouquet, owner quote approx 1,69,000; low-volume 33k and 55k options).
+- CONFLICT: Hamna Shifa date. DeepSeek copy says 19 Nov (voice note) with fresh flowers. Our earlier record says 18 Nov. Owner to confirm.
+- Recalculation pending: Cruise bouquet and 6-lily bouquet prices must use 3000 to 3400 per stick.
