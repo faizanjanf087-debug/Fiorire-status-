@@ -51,3 +51,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
   - 7 imported roses = 5600
 - Delivery: Rawalpindi on 18 Nov. Delivery charges separate.
 - Status: reply with options and ask which one she likes.
+
+## 26 Oct 2026 (6:00 PM): new messages
+- Syeda Hamna Shifa: asks (1) pictures of these bouquets, (2) maximum bouquet size, (3) delivery charges.
+  - Pending owner: sizes and delivery charges for Rawalpindi. Pictures: share the fiorire.pk Lilies & Roses post or ask owner for photos.
+- Sidra (sheikh.sahiba2477): replied "Ok" to the artificial tulips option. Pending: her choice (artificial bouquet, quantity, budget, date).
+- maryum: asks "Local flowers mein bhi nai ho skta?" (can it be made with local flowers). Pending: owner to confirm local lily/rose availability and rate before quoting.
