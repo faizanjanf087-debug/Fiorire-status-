@@ -75,3 +75,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 26 Oct 2026 (6:22 PM): Owner correction
 - I replied without checking GitHub history first. Owner asked to always check repo first and note the rules.
 - Fatima: owner already sent the earlier reply. Owner now wants only the long-stem reply.
+
+## 26 Oct 2026 (6:30 PM): Hamna sent 5 photos, prefers one
+- Her message: sent 5 photos of bouquets (red roses with lilies, and a pink and white arrangement with lilies, roses and white daisies). Said "I would prefer this" about the pink and white one.
+- Note: the pink and white photo looks like another shop's design, not ours. Do not claim it is our work. Offer our own similar design.
+- Pending: her budget (5k to 6k range), size, and delivery charges (owner to confirm).
