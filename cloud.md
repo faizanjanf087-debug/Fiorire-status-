@@ -141,3 +141,9 @@ Rules:
 - Do not repeat "Hi" or greeting after the welcome is already sent.
 - Avoid awkward phrasing such as "aap kis range mein sochti hain". Ask plainly: "aap ka budget kis range mein hai?"
 - Keep replies professional and polished.
+
+## Owner workflow rule 26 Oct 2026 (mandatory)
+- Before every customer reply: first open cloud.md and history.md from the GitHub repo (faizanjanf087-debug/fiorire-status-), check the customer's history, then draft the reply.
+- Check: whether salam, hi or welcome was already done, what we said earlier, what the customer said last, and what is pending.
+- Only after checking the files, write the reply.
+- After any new update: save to cloud.md and history.md, commit and push immediately.
