@@ -136,3 +136,8 @@ Rules:
 - Budget: none yet. She wants prices for different bouquets.
 - Owner rule: do not quote full bouquet price without budget. Give per-stem rates and ask for a budget range.
 - Next: wait for budget range reply.
+
+## Owner correction 26 Oct 2026 (reply style)
+- Do not repeat "Hi" or greeting after the welcome is already sent.
+- Avoid awkward phrasing such as "aap kis range mein sochti hain". Ask plainly: "aap ka budget kis range mein hai?"
+- Keep replies professional and polished.
