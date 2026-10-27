@@ -179,3 +179,58 @@ Rules:
 - Hamna Shifa (hamna.shifa): DeepSeek copy says date changed to 19 Nov (voice note) and she wants FRESH flowers. Our earlier record says 18 Nov. CONFLICT: owner to confirm the date before we reply.
 - Pricing check from copy: 6 imported lilies = 2 sticks = 6000 to 6800.
 - Old 21,000 for 6 lilies and old 48,000 for Cruise bouquet need recalculation with 3000 to 3400 per stick. Owner to confirm.
+
+## 27 Oct 2026 UPDATE (from the newer records file, owner confirmed)
+Supersedes the lily rules above (the 3000-3400 per stick rule and the 3500 per stem rule). Old quotes stay locked.
+
+### NEW LILY RATE CARD (owner confirmed 27 Oct 2026)
+- 1 stem = 3 buds (lilies).
+- Single lily (1 bud): 1500 PKR.
+- Double lily (2 buds): 2500 PKR.
+- Triple lily (3 buds / 1 stem): 3500 PKR. Sale range 3200 to 3400. Standard client rate 3800. Sale maximum 4000.
+- Old records rule: customers already quoted at the old rate keep their quote. Do not change it unless they raise it.
+
+### Branches (VERY IMPORTANT)
+- Fiorire.pk: Islamabad, F-11 Markaz (near Layers Bakery).
+- Fiorire Exclusive (fiorireexclusive.pk): Bahria Town Phase 4 (near Arena).
+- Every customer record must say which branch they belong to. If unsure, ask the owner.
+
+### Decor rule
+- If a customer asks about event decor, do NOT give prices. Ask for their contact number and say the supervisor will call them. Do not offer decor to every random customer.
+
+### Other prices (owner confirmed)
+- Imported pink, white and red roses: 800 per stem.
+- Baby's breath: included in bouquets.
+- Death by chocolate cake: min 4 lb, 2700 per lb. Extra decoration charged separately.
+- Big bouquets with many imported lilies and roses: package around 4000 to 5000 with two lilies included (owner to confirm exact rule).
+
+### Customer table (27 Oct 2026)
+| # | Branch | Customer | Product | Status / next step |
+|---|---|---|---|---|
+| 1 | Fiorire.pk | Sara (sara.rehann) | Lilies & baby's breath | Agreed 13,500 PKR. Will confirm order in 2 days. |
+| 2 | Fiorire.pk | hi_mad (the_lost_escape) | Pink Cruise (Haripur) | 10k budget. Offered 2 lilies + 8 roses. Waiting for final confirmation. |
+| 3 | Fiorire.pk | DingU (dingu1210_) | Custom pink design (10k) | Design approved. Wants custom card. Waiting for delivery date, address, contact. |
+| 4 | Fiorire.pk | Alaya | Big red roses & pink lilies | Quoted 1.69L (8 lilies, 200 roses) + low options. Waiting for budget. |
+| 5 | Fiorire.pk | abdulbasit | Begum bouquet | Quoted 1.6L (200 roses) + 3 low options. Waiting for reply. |
+| 6 | Fiorire.pk | Talha Arshad | Pink Cruise | Quoted 41,000 (7 lilies, 25 roses). Waiting for reply. |
+| 7 | Fiorire.pk | Syeda Hamna (hamna.shifa) | Pink/white design (fresh) | Needs it 19 Nov, Rawalpindi (CONFLICT: earlier record said 18 Nov, owner to confirm). Pending final price and delivery charges. |
+| 8 | Fiorire.pk | عجیبہ (um41mahh_) | Pink lilies & roses | Drafted 41k quote + low options. Pending send. |
+| 9 | Fiorire.pk | emo (_shahzadi_eman) | Cruise bouquet | Ad inquiry. Welcome sent. Waiting for budget. |
+| 10 | Fiorire.pk | Adeel Nawab | Begum bouquet (Lahore) | Welcome sent. Waiting for budget. |
+| 11 | Fiorire.pk | khann0525 | Begum bouquet | Quoted 1.6L + custom option. Waiting for reply. |
+| 12 | Fiorire.pk | Amal Ghouri | Begum bouquet | Welcome sent. Waiting for budget. |
+| 13 | Fiorire.pk | Hassan (حسن) | Begum bouquet | Budget 3k-4k. Name "Sidra". Waiting for rose quantity. |
+| 14 | Fiorire.pk | Hamna Sajid (hamna_97) | Signature rose bouquet | Welcome sent. Waiting for budget. |
+| 15 | Fiorire.pk | smeerrx | 6 lilies + baby's breath | Asked for time to confirm. Polite reply sent. Follow up later. |
+| 16 | Fiorire.pk | عبد اللہ (mianabdulla...) | Begum bouquet | Asked for best work and budget. Waiting for reply. |
+| 17 | Exclusive | Iqra (iqra855026) | Event decor | Asked for contact number to forward to supervisor. Waiting for reply. |
+| 18 | Exclusive | Nooreyyy (nooreyy_7) | Not specified | Welcome sent. Waiting for inquiry. |
+
+### Pending owner decisions (27 Oct 2026)
+- Hamna Shifa: final price for pink/white design, delivery charges for 19 Nov, and confirm date (18 or 19 Nov).
+- Maryum: local flower availability and rates.
+- Nimra: balloon service and rates.
+- Saryia: cake cigar and gold topper charges.
+
+### Order history
+- No confirmed or booked orders yet. Sara is closest to confirming.

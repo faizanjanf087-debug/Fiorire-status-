@@ -96,3 +96,19 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - New entries added from DeepSeek records: Hassan (Begum, budget 3k-4k), Hamna Sajid (hamna_97, NEW, Signature Rose Bouquet), Alaya (big bouquet, owner quote approx 1,69,000; low-volume 33k and 55k options).
 - CONFLICT: Hamna Shifa date. DeepSeek copy says 19 Nov (voice note) with fresh flowers. Our earlier record says 18 Nov. Owner to confirm.
 - Recalculation pending: Cruise bouquet and 6-lily bouquet prices must use 3000 to 3400 per stick.
+
+## 27 Oct 2026: Records merged from newer file
+### Rule updates
+- New lily rate card: single 1500, double 2500, triple (1 stem) 3500 (sale 3200-3400, standard 3800, max 4000). Old quotes stay locked. Supersedes the 3000-3400 per stick rule.
+- Branches: Fiorire.pk is F-11 Markaz, Islamabad. Fiorire Exclusive is Bahria Town Phase 4.
+- Decor: do not give prices. Take contact number and forward to supervisor.
+
+### Chat log (27 Oct)
+- 2:07 PM (Exclusive): Nooreyyy said Aoa. Walaikum assalam and welcome sent.
+- 1:34 PM (Exclusive): Iqra sent decor video. Asked for contact number for supervisor.
+- 1:14 AM (Fiorire.pk): smeerrx asked for time to confirm. Polite reply sent.
+- 12:32 AM (Fiorire.pk): Sara agreed to 13,500 PKR. Will confirm in 2 days.
+- 12:15 AM (Fiorire.pk): hi_mad asked for same-to-same bouquet (3 lilies, 8 roses). Offered 10k budget option.
+
+### Open conflict
+- Hamna Shifa date: 18 Nov (earlier) vs 19 Nov (later). Owner to confirm.
