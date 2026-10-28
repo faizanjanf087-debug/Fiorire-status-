@@ -1,5 +1,9 @@
 # Fiorire Chat History
 
+## 28 Oct 2026 (7:24 PM): RULE #1 added
+- Owner rule #1: when order is ready and we discuss payment and address, delivery charges are extra and depend on area-wise location. Do not quote a fixed charge without checking the area.
+
+
 Log of key conversations and decisions, newest first. Update after every chat with a new entry. Full customer details are in cloud.md.
 
 ## 26 Oct 2026

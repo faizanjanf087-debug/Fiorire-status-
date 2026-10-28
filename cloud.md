@@ -1,3 +1,7 @@
+## RULE #1 (owner, 28 Oct 2026, top priority)
+- When an order is READY and we are discussing payment and address, tell the customer that delivery charges are EXTRA.
+- Delivery charges depend on the area/location (area-wise). Do not quote a fixed delivery charge. Ask for the exact address or area, then confirm the charge with the owner.
+
 # Cloud Notes
 
 ## Owner preferences (how to talk)
