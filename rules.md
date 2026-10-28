@@ -56,3 +56,7 @@
 - Delivery orders must always have a contact number for the receiver (and sender if different) before the order is confirmed.
 - Invoice format (owner's approved ChatGPT design): logo at top, gold divider, INVOICE heading with Invoice No. and Date of Issue, PAID badge, sections: Customer and Delivery Details (sender, receiver, contact, delivery address, scheduled time), Order Details (product, qty, price), Subtotal, Delivery Charges, TOTAL AMOUNT PAID, Payment Method and Reference, footer "Thank you for choosing Fiorire".
 - Conflict to fix: Invoice INV-FIORIRE-1028-02 (Hafsa) shows "Delivery Charges: Not separately charged". Rule #1 says delivery charges are EXTRA and depend on area. Owner to confirm what was charged for Hafsa's delivery before using this invoice format again.
+
+## Conflicts to check (28 Oct 2026, full data file)
+- Triple lily: full data says "3200-3500". Owner rate card says triple = 3500, sale 3200-3400, standard 3800, max 4000. Use the rate card until owner says otherwise.
+- Hafsa invoice (INV-FIORIRE-1028-02) said delivery "not separately charged"; owner later confirmed PKR 800 was collected separately (Rule #1).
