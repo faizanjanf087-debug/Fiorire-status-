@@ -112,3 +112,31 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 
 ### Open conflict
 - Hamna Shifa date: 18 Nov (earlier) vs 19 Nov (later). Owner to confirm.
+
+## 28 Oct 2026: Records merged
+### Confirmed today
+1. Ilsa (@ilsa_.sajid): 13,500 PAID. 4 lilies + 2 lb cake. Self pickup 11 AM.
+2. Hafsa Mansoor (@hafsamansoorr): 8,000 PAID. Roses + baby's breath + "28" balloons. Delivery 5-6 PM today to F-11/1 Markaz. WhatsApp picture to be sent to 0336-3910212.
+
+### Rules added
+- Reply formats (owner): "Customize details", "Order details", "Aaj ka order".
+- Cake: min 4 lb, 2700 per lb.
+- Delivery questions: always ask date, address, contact.
+
+### Chat log (28 Oct, latest first)
+- 3:34 PM: Shazaq Fatima ordered from another bakery. Closed.
+- 3:36 PM: Hafsa sent 8,000 payment screenshot. Confirmed.
+- 3:28 PM: Dawood Matloob asked price for bouquet.
+- 3:27 PM: Noor (noor_mehar42) asked availability of lily bouquets.
+- 3:26 PM: irsaakhan07 asked price of pink lilies.
+- 3:25 PM: Zainab Sheikh asked price of Begum bouquet.
+- 3:24 PM: ishwa_khan_ reacted to Pink Cruise video.
+- 3:23 PM: Shazaq Fatima asked 3 lb cake for Friday (told min 4 lb).
+- 3:21 PM: Hamna (@hamna.0905) asked custom gift boxes and jewellery displays.
+- 3:20 PM: mominawasif asked price of Pink Cruise.
+- 3:18 PM: fajerrrr4 asked price of Pink Cruise.
+- 3:15 PM: Hafsa shared WhatsApp number.
+- 3:12 PM: Aliya Amin asked prices of 3 designs.
+
+### Open conflict
+- Hamna Shifa date: 18 Nov (earlier) vs 19 Nov (later). Owner to confirm.

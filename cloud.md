@@ -234,3 +234,47 @@ Supersedes the lily rules above (the 3000-3400 per stick rule and the 3500 per s
 
 ### Order history
 - No confirmed or booked orders yet. Sara is closest to confirming.
+
+## 28 Oct 2026 UPDATE (from the latest records file)
+Adds to the 27 Oct section above. Where the customer table or invoices differ, this section is the newer record.
+
+### Reply rules (new, owner instructions)
+- If owner asks for "Customize details": give ONLY the customization details (flowers, quantity, card, balloons, etc.) for that order.
+- If owner asks for "Order details": give full order details (customer, address, payment, delivery).
+- If owner asks for "Aaj ka order": give the list of all orders to be delivered or picked up today.
+
+### Rules and prices (added)
+- Cake: minimum 4 lb, 2700 per lb (4 lb = 10,800). Extra decoration (cigar, gold topper, flowers) charged separately. Do not quote a total without asking size and budget.
+- When a customer asks about delivery, always ask for date, address and contact number.
+
+### Customer table (28 Oct 2026, newer)
+| # | Branch | Customer | Product | Status / next step |
+|---|---|---|---|---|
+| 1 | Fiorire.pk | Ilsa (@ilsa_.sajid) | 4 lilies + 2 lb cake | CONFIRMED, 13,500 PAID. Self pickup 28 Oct 11 AM. |
+| 2 | Fiorire.pk | Hafsa Mansoor (hafsamansoorr) | Roses + baby's breath + "28" balloons | CONFIRMED, 8,000 PAID. Delivery today 5-6 PM to Fatima Shaikh (F-11/1 Markaz). |
+| 3 | Fiorire.pk | Sara (@sara.rehann) | 4 lilies bouquet | Agreed 13,500. Will confirm in 2 days. |
+| 4 | Fiorire.pk | DingU (@dingu1210_) | 2 lilies + 8 roses + custom card | 10k budget. Waiting for delivery date, address, number. |
+| 5 | Fiorire.pk | Momina (@momina.rahim2) | 4 lb cake + bridal topper | 10,800 (cake). Waiting for friends' confirmation for Friday. |
+| 6 | Fiorire.pk | Syeda Hamna (@hamna.shifa) | Pink/white fresh design | 19 Nov, Rawalpindi (CONFLICT: earlier 18 Nov). Budget 5k-6k. Final price pending. |
+| 7 | Fiorire.pk | hi_mad (@the_lost_escape) | Pink Cruise (Haripur) | 10k budget. Offered 2 lilies + 8 roses. Waiting for final confirmation. |
+| 8 | Fiorire.pk | Ayesha Verse | Begum bouquet | Budget 2000. Advised to raise to 13k-15k range. |
+| 9 | Fiorire.pk | mishaal (@misha4l_) | Pink Cruise | Options shared: 10k / 15k. Waiting for reply. |
+| 10 | Fiorire.pk | Hassan (حسن) | Begum bouquet | Budget 3k-4k. Name to be "Sidra". Waiting for rose quantity. |
+| 11 | Fiorire.pk | Aliya Amin | 3 designs (roses, yellow/white, sunflowers) | Asked budget and cake confirmation. |
+| 12 | Fiorire.pk | Hamna (@hamna.0905) | Custom gift boxes and jewellery displays | Asked for measurements and pictures. |
+| 13 | Fiorire.pk | Shazaq Fatima (@shazaq_fatima) | 3 lb cake (Friday) | Told minimum 4 lb. Ordered from another bakery. CLOSED. |
+| 14 | Fiorire.pk | FAJNAIN, مومنہ, ishwa khan, Zainab Sheikh, ارسه خان, Noor, Dawood Matloob | Pink Cruise, Begum, lilies | New message requests. Welcome + budget ask pending. |
+| 15 | Exclusive | Waniya (@_waniyazahid) | 7 lilies, 25 roses | Quoted 30,500. Waiting for reply. |
+| 16 | Exclusive | Q4SIM, Tarab Ali, Eiman Kiani, Maida Khan, Iqra | Event decor | Supervisor coordination. Location and contact requested. |
+| 17 | Exclusive | Nooreyyy (@nooreyy_7) | New inquiry | Welcome sent. Waiting for inquiry details. |
+
+### Invoices (confirmed)
+- INV-FIORIRE-1028-01: Ilsa Sajid (@ilsa_.sajid), contact 03099111444, Fiorire.pk F-11 Markaz, 28 Oct 2026. Self pickup 11:00 AM. 4 lilies bouquet + 2 lb cake. Total 13,500 PKR. PAID (ref 57781901339). Note: 500 PKR lily charge confusion, supervisor handled it.
+- INV-FIORIRE-1028-02: Hafsa Mansoor (@hafsamansoorr, sender), receiver Fatima Shaikh. Contacts 0331-3331587 and 0336-3910212. Fiorire.pk F-11 Markaz, 28 Oct 2026. Delivery at Appt 208, 2nd floor, Executive Suites, Hilal Road, F-11/1 Markaz, Islamabad, between 5-6 PM today. Custom bouquet (6 imported roses + baby's breath) + "28" foil balloons. Total 8,000 PKR. PAID (ref 413842).
+
+### Pending owner decisions (28 Oct 2026)
+- Hamna: final price for pink/white design, delivery charges for 19 Nov, and confirm date (18 or 19 Nov).
+- Maryum: local flower availability and rates.
+- Nimra: balloon service and rates.
+- Saryia: cake cigar and gold topper charges.
+- Momina: bridal topper rate.
