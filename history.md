@@ -151,3 +151,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Delivery charge: PKR 800 collected separately from Hafsa's order, after the supervisor contacted the customer. Not included in the 8,000 invoice total.
 - Correction: the invoice's "Delivery Charges: Not separately charged" was wrong. Rule #1 applies (delivery charges extra, area-wise). Owner made a mistake in the earlier conversation; supervisor handled the charge.
 - Owner will collect more rules and procedures from the supervisor and send them later. Add them to rules.md when received.
+
+## 28 Oct 2026 (7:41 PM): Ayisha Saeed (@ayesha_saeed__), red and black bouquet price
+- Earlier: 6:19 PM message request. 6:30 PM asked price for red/black bouquet. 7:20 PM asked if real or fake, we confirmed real.
+- Now (7:40 PM): "Wow, tell me the price please, I really love them, but tell me the price first".
+- Owner: supervisor is confirming the black spray on the roses. Price is NOT final yet.
+- Plan: ask budget, quantity and date. Offer options with per-stem rate (imported rose 800 per stem, confirmed). Say the final price after black finish is confirmed. Do not quote a total as final.

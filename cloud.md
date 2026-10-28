@@ -287,3 +287,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - INV-FIORIRE-1028-01 Ilsa Sajid: DELIVERED (self pickup, 11-12 AM). Paid 13,500.
 - INV-FIORIRE-1028-02 Hafsa Mansoor: DELIVERED today. Paid 8,000. Extra delivery charge 800 collected separately (Rule #1).
 - Pending: owner to get more rules and procedures from supervisor and send them later.
+
+### Ayisha Saeed (@ayesha_saeed__), red and black bouquet, 28 Oct 2026 7:41 PM
+- Asked: price (wants it first). Earlier asked real or fake; we said real.
+- Owner: black spray on roses being confirmed by supervisor. Final price pending.
+- Next: ask budget, quantity, date. Quote per-stem rate (800 imported rose) and say final price after confirmation.
