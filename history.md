@@ -144,3 +144,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 
 ### Open conflict
 - Hamna Shifa date: 18 Nov (earlier) vs 19 Nov (later). Owner to confirm.
+
+## 28 Oct 2026 (7:40 PM): Deliveries completed, correction
+- Ilsa Sajid (INV-FIORIRE-1028-01): self pickup, delivered 11-12 AM on 28 Oct. Status: DELIVERED. Paid 13,500.
+- Hafsa Mansoor (INV-FIORIRE-1028-02): delivered to Fatima Shaikh, F-11/1 Markaz, today. Status: DELIVERED. Paid 8,000.
+- Delivery charge: PKR 800 collected separately from Hafsa's order, after the supervisor contacted the customer. Not included in the 8,000 invoice total.
+- Correction: the invoice's "Delivery Charges: Not separately charged" was wrong. Rule #1 applies (delivery charges extra, area-wise). Owner made a mistake in the earlier conversation; supervisor handled the charge.
+- Owner will collect more rules and procedures from the supervisor and send them later. Add them to rules.md when received.

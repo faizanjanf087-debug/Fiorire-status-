@@ -282,3 +282,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - Nimra: balloon service and rates.
 - Saryia: cake cigar and gold topper charges.
 - Momina: bridal topper rate.
+
+## Order status update 28 Oct 2026 (7:40 PM)
+- INV-FIORIRE-1028-01 Ilsa Sajid: DELIVERED (self pickup, 11-12 AM). Paid 13,500.
+- INV-FIORIRE-1028-02 Hafsa Mansoor: DELIVERED today. Paid 8,000. Extra delivery charge 800 collected separately (Rule #1).
+- Pending: owner to get more rules and procedures from supervisor and send them later.
