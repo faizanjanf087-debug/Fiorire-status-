@@ -45,3 +45,9 @@
 - Never send bank or payment details before the order is confirmed.
 - Never promise stock (fresh tulips, long stems, balloons) before the owner confirms.
 - Never block or delete a possible customer.
+
+## Added 28 Oct 2026 (from DeepSeek 28 Oct data)
+- Imported sunflower: single stem = 600 PKR.
+- Decor (strict): never give decor prices. Ask location and contact number, say supervisor will call.
+- Budget rule: once budget is asked and answered, do not repeat the budget question. Only answer what the customer asks.
+- Real/fake rule: if customer asks for fresh or real flowers, do not mention artificial unless the customer asks about artificial first.
