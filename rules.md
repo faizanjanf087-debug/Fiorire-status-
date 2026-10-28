@@ -51,3 +51,8 @@
 - Decor (strict): never give decor prices. Ask location and contact number, say supervisor will call.
 - Budget rule: once budget is asked and answered, do not repeat the budget question. Only answer what the customer asks.
 - Real/fake rule: if customer asks for fresh or real flowers, do not mention artificial unless the customer asks about artificial first.
+
+## Added 28 Oct 2026 (invoice format and delivery contact)
+- Delivery orders must always have a contact number for the receiver (and sender if different) before the order is confirmed.
+- Invoice format (owner's approved ChatGPT design): logo at top, gold divider, INVOICE heading with Invoice No. and Date of Issue, PAID badge, sections: Customer and Delivery Details (sender, receiver, contact, delivery address, scheduled time), Order Details (product, qty, price), Subtotal, Delivery Charges, TOTAL AMOUNT PAID, Payment Method and Reference, footer "Thank you for choosing Fiorire".
+- Conflict to fix: Invoice INV-FIORIRE-1028-02 (Hafsa) shows "Delivery Charges: Not separately charged". Rule #1 says delivery charges are EXTRA and depend on area. Owner to confirm what was charged for Hafsa's delivery before using this invoice format again.
