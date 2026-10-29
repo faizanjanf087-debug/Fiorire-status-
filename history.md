@@ -157,3 +157,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Now (7:40 PM): "Wow, tell me the price please, I really love them, but tell me the price first".
 - Owner: supervisor is confirming the black spray on the roses. Price is NOT final yet.
 - Plan: ask budget, quantity and date. Offer options with per-stem rate (imported rose 800 per stem, confirmed). Say the final price after black finish is confirmed. Do not quote a total as final.
+
+## 29 Oct 2026 (9:17 PM): sarathecrackhead, Cruise bouquet price (NEW)
+- Source: fiorire.pk "A New Wave of Luxury" Cruise Bouquet post (ad inquiry, WhatsApp button shown). Customer asked "price of this bouquet" at 6:39 PM.
+- Photo: pink imported lilies and pink roses with baby's breath, pink wrap. Matches the Cruise Bouquet.
+- Customer type: NEW. No earlier record in repo.
+- Draft reply (English + Roman Urdu meaning): welcome, custom bouquet with imported lilies and roses, ask budget, quantity, date and city. No total price quoted.
+- Pending owner: Cruise bouquet 48,000 is still unconfirmed (Daniyal entry). Do not quote until owner confirms.
+- Status: draft shown to owner, NOT sent. Waiting for owner approval and her budget.
