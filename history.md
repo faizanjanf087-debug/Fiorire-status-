@@ -165,3 +165,13 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft reply (English + Roman Urdu meaning): welcome, custom bouquet with imported lilies and roses, ask budget, quantity, date and city. No total price quoted.
 - Pending owner: Cruise bouquet 48,000 is still unconfirmed (Daniyal entry). Do not quote until owner confirms.
 - Status: draft shown to owner, NOT sent. Waiting for owner approval and her budget.
+
+## 29 Oct 2026 (9:26 PM): M. (me_maluuu), budget 1000 for pink bouquet
+- Source: Instagram DM. She sent a pink bouquet video and asked "What's the price for this one btw".
+- Earlier shop message (7:59 PM): asked date and delivery address or area. No answer in record yet.
+- 8:59 PM: asked budget (price depends on customization).
+- Her reply: 1000.
+- Problem: 1000 cannot buy imported lilies (3500 per stem) or enough imported roses (800 per stem). Budget too low for this bouquet.
+- Draft reply: no total quoted. Say imported bouquet is not possible in 1000. Offer to raise budget a little, or a smaller alternative. Ask date and area.
+- Pending owner: which low-budget alternative to offer (local flowers or artificial) and its price. Do not quote until owner confirms.
+- Status: draft shown to owner, NOT sent.

@@ -92,6 +92,7 @@ Rules for every reply:
 | 16 | bakeista (bakeista) | Blue and white rose bouquet with jewellery, "Price for this bouquet" (Oct 20) | Sorry for late reply; fresh or artificial, flowers, budget, date | Say it is possible, mention jewellery work and imported flowers. Ask fresh or artificial, budget, date. | No reply yet | Waiting for our reply |
 | 17 | Anita George | Ad inquiry: "It will be a delivery, and its..." (16h, from notifications) | Not checked | Read the chat before replying | Not checked | To check |
 | 18 | sarathecrackhead (ad inquiry, fiorire.pk) | Cruise Bouquet post, "price of this bouquet" (29 Oct, 6:39 PM) | Nothing yet. Draft: welcome, Cruise bouquet is custom with imported lilies and roses, ask budget, quantity, date, city. No price quoted. | Draft shown to owner, not sent | Waiting for her budget |
+| 19 | M. (me_maluuu) | Pink bouquet video (replied to themselves), "What is the price for this one btw" | Asked date and delivery address/area (7:59 PM, earlier shop message, no answer in record). Asked budget (8:59 PM). | Budget 1000 is too low for an imported lily and rose bouquet (lily 3500, rose 800 per stem). Draft: no total quoted. Offer to raise budget or a smaller alternative (owner to confirm alternative price). Ask date and area. | "1000" | Draft shown to owner, NOT sent |
 
 ### Syeda Hamna Shifa (hamna.shifa) - NEW customer, 26 Oct 2026
 - Type: NEW (first contact). Message request not accepted yet.
