@@ -392,3 +392,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Instagram comment on the post from M.: "2lilies hi to hai" (says the reel shows only 2 lilies). Owner to check the reel and reply on the post.
 - Draft: yes, we can make this bouquet in Islamabad for December, dates can be confirmed later, ask budget. Owner to give the price if he wants to quote.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (8:27 PM): _.aroobaa, bouquet detail
+- Owner: tell her the bouquet can have 6 to 7 imported red lilies, customized in our style, with baby's breath included.
+- Draft: 6 to 7 imported red lilies, customized, baby's breath included, ask budget. No price yet.
+- Status: revised draft shown to owner, NOT sent.
