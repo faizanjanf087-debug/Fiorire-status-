@@ -271,3 +271,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: the draft sounds like a robot. Use a natural, warm, human shopkeeper tone for WhatsApp.
 - Revised: short message, supervisor will get in touch, ask order date and time, complete address, cake pounds (2700 per lb, min 4 lb), and budget 10-15 thousand.
 - Status: revised draft shown to owner, NOT sent by assistant.
+
+## 30 Oct 2026 (4:00 PM): _.aroobaa (follows you), cost of bouquet reel
+- Message request. 4:06 AM: shared Fiorire.pk pink stargazer lily and baby's breath bouquet reel, asked "Cost ?".
+- Draft: welcome, bouquet customized to budget, ask budget first, quantity, date and city. No price.
+- Status: draft shown to owner, NOT sent.
