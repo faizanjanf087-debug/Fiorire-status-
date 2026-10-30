@@ -311,3 +311,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - WhatsApp: 03332268886
 - Date: 17 Nov 2026. Budget: 10-15 thousand (confirmed).
 - Occasion: birthday cake and bouquet with card. Forwarded to supervisor on 30 Oct, 6:06 PM.
+
+## Saved contact: Rbaloch (romaisahassni)
+- WhatsApp: 03001786613
+- Wants: chocolate basket and flowers. Cake and flowers possible by tomorrow (31 Oct). Asked if flowers can be done if the cake cannot be ready by tomorrow.
+- Forwarded to supervisor on 30 Oct, 6:08 PM.

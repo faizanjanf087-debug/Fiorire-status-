@@ -308,3 +308,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Cake: round cream cake, piped border, red strawberries, birthday plaque (name to confirm). Pounds not given yet. Min 4 lb, 2700 per lb. Owner to confirm if strawberry decoration is extra.
 - Bouquet: "very beautiful". Card wanted. Colour, flowers, card message not given yet.
 - Still missing: order time, complete address, cake pounds, cake name.
+
+## 30 Oct 2026 (6:08 PM): Rbaloch (romaisahassni), contact saved
+- Contact: 03001786613 (WhatsApp).
+- Wants chocolate basket and flowers, by tomorrow (31 Oct). Asked if flowers can go ahead if the cake cannot be ready.
+- Owner told her the details are forwarded to the supervisor, who will contact her on WhatsApp.
+- Status: waiting for supervisor. Branch and address not given yet.
