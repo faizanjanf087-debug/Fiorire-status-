@@ -306,3 +306,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - Asked: price (wants it first). Earlier asked real or fake; we said real.
 - Owner: black spray on roses being confirmed by supervisor. Final price pending.
 - Next: ask budget, quantity, date. Quote per-stem rate (800 imported rose) and say final price after confirmation.
+
+## Saved contact: Syeda (lead, Syeda Ay...)
+- WhatsApp: 03332268886
+- Date: 17 Nov 2026. Budget: 10-15 thousand (confirmed).
+- Occasion: birthday cake and bouquet with card. Forwarded to supervisor on 30 Oct, 6:06 PM.

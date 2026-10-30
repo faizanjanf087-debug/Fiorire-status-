@@ -300,3 +300,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Her reply at 5:46 PM: "Yes" (budget 10-15 thousand confirmed) and "17th Nov" (order date).
 - Still missing: order time, complete delivery address, cake pounds.
 - Status: owner to send next message asking time, address, and cake pounds.
+
+## 30 Oct 2026 (6:06 PM): Syeda (lead), details forwarded to supervisor
+- Contact: 03332268886 (WhatsApp). Name on lead: Syeda Ay...
+- Owner told her the details are forwarded to the supervisor, who will contact her on WhatsApp shortly.
+- Order so far: birthday, date 17 Nov 2026, budget 10-15 thousand (confirmed "Yes").
+- Cake: round cream cake, piped border, red strawberries, birthday plaque (name to confirm). Pounds not given yet. Min 4 lb, 2700 per lb. Owner to confirm if strawberry decoration is extra.
+- Bouquet: "very beautiful". Card wanted. Colour, flowers, card message not given yet.
+- Still missing: order time, complete address, cake pounds, cake name.
