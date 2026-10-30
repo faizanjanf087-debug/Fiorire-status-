@@ -376,3 +376,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - 3 lilies = one stem with 3 buds. Possible. Price not given yet (budget not answered).
 - Draft: yes 3 lilies is possible, Islamabad delivery, ask date, delivery address, and budget. No price, no delivery charges.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (8:00 PM): noor, price for 3 lilies with baby's breath
+- Owner: quote 4,500 for the 3-lily bouquet including baby's breath.
+- Draft: 4,500 with baby's breath. Ask if she wants any other flowers added, delivery date, and address. Delivery charges extra, area-wise, shared after she gives the address (Rule 1).
+- Status: draft shown to owner, NOT sent.
