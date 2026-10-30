@@ -247,3 +247,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Message request (not accepted). 7:42 AM: "Hi! How much do you sell lily bouquets for?"
 - Draft: welcome, lily bouquets can be customized to budget. Ask budget first, number of lilies, date and city. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:52 PM): Syeda Ay... (lead), cake and bouquet for him
+- Earlier shop message (cut off) asked budget and date. Customer replied at 5:28 AM: "May be within 10-15". Unclear if this is budget (thousands) or days. Owner to confirm.
+- Then: "I need a nice cake and beautiful bouquet", "It's for him", and phone 03332268886 (lead card, WhatsApp and call buttons).
+- Draft: clarify 10-15, ask date, delivery address or area, cake size (min 4 lb, 2700 per lb). No total price.
+- Status: draft shown to owner, NOT sent.
