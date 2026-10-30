@@ -335,3 +335,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Decor rule: no prices. Ask location and contact number, supervisor will call.
 - Draft: welcome, yes you can book, supervisor will call, ask contact number and event location. Reply once, not twice.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:32 PM): Haya Asif (hayasif624), decor cost
+- Replied to our story (Exclusive decor setup, balloons and bed). 3:35 PM: "Aoa cost".
+- Decor rule: no prices. Ask location and contact number, supervisor will call.
+- Draft: Walaikum assalam, welcome to Fiorire Exclusive, supervisor will call, ask contact number and event location. No price.
+- Status: draft shown to owner, NOT sent.
