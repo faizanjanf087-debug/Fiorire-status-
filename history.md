@@ -323,3 +323,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Decor rule: no prices. Ask location and contact number, supervisor will call.
 - Draft: reply to Aoa with Walaikum assalam (customer greeting), welcome, ask location and contact number, supervisor will call. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:30 PM): Maheen Khan (_maheenkha...), Exclusive, large sunflower bouquet for a man
+- Replied to our story with a pink lily bouquet. Aug 16, 3:54 PM: "Hello! How much is this made for?" (no reply in record).
+- 7:28 PM: "Aoa... Have you guys previously made a large sunflower bouquet suitable for gifting men?"
+- Draft: Walaikum assalam, yes we can make a large sunflower bouquet, customized to budget, ask budget, quantity and date. No price. Do not say scented. Owner to confirm sunflower stock.
+- Status: draft shown to owner, NOT sent.
