@@ -427,3 +427,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Branch: Fiorire Exclusive, Bahria Town Phase 4. Decor: no price. Step order: location, then decor type, then contact.
 - Draft: name branch and Bahria Town Phase 4, ask event location, and the kind of setup (like our post). No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (11:01 PM): Hisham Sohail, contact saved
+- Shared number 03125814019 at 9:46 PM. Owner sent voice reply at 11:00 PM (supervisor will contact).
+- Missing: event location, decor type. Step order for decor was location, then decor type, then contact. Contact was asked first in the earlier draft.

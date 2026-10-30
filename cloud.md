@@ -300,3 +300,9 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - Steps: suggest around 10,000, then 12,000, then 15,000, and say it makes a fuller bouquet. Do this warmly, not as a lock-in or pressure.
 - Only for high-volume bouquets. Do not push every customer.
 - Apply to: Sana Noman (sana_naziir), budget around 5k for a red rose bouquet with writing.
+
+## Saved contact: Hisham Sohail (hisham_sohail...), Exclusive decor
+- WhatsApp: 03125814019 (shared at 9:46 PM, 30 Oct).
+- Interest: Fiorire Exclusive "keep it simple" decor setup.
+- Owner sent a voice reply at 11:00 PM (details forwarded to supervisor, supervisor will contact).
+- Still missing: event location and decor type.
