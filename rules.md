@@ -60,3 +60,10 @@
 ## Conflicts to check (28 Oct 2026, full data file)
 - Triple lily: full data says "3200-3500". Owner rate card says triple = 3500, sale 3200-3400, standard 3800, max 4000. Use the rate card until owner says otherwise.
 - Hafsa invoice (INV-FIORIRE-1028-02) said delivery "not separately charged"; owner later confirmed PKR 800 was collected separately (Rule #1).
+
+## Added 30 Oct 2026 (owner: natural tone)
+- Replies must sound like a real human account holder (Instagram or WhatsApp shop staff), not an AI or a robot.
+- Be warm, natural and professional. Use simple, everyday wording. Avoid stiff phrases like "kindly confirm", "please be informed" and "we are pleased to".
+- Answer every point the customer raised. Do not skip a question.
+- Keep replies short. One or two sentences for the greeting, then the question.
+- Do not repeat the same question or greeting twice in one thread.
