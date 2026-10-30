@@ -397,3 +397,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: tell her the bouquet can have 6 to 7 imported red lilies, customized in our style, with baby's breath included.
 - Draft: 6 to 7 imported red lilies, customized, baby's breath included, ask budget. No price yet.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (8:36 PM): berrwinkle (67 followers), price of Urdu-inspired red rose bouquet
+- Message request. 8:29 PM: "Heyy" and shared fiorire.pk post "AN URDU-INSPIRED FLORAL MASTERPIECE" (dense red roses, black wrap, baby's breath border, scroll with pearl name "Begum", red ribbon). Then "Price of this?"
+- No price quoted (rose count not confirmed by owner). Ask budget first, date and city.
+- Draft: welcome, customize including the name on the scroll, ask budget, date and city.
+- Status: draft shown to owner, NOT sent.
