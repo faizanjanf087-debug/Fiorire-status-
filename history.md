@@ -370,3 +370,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: no budget question. Tell her we make cakes customized with a minimum of 4 lb. Ask date and pounds.
 - Draft: branch Fiorire.pk, minimum 4 lb customized cake, ask date and pounds. Owner to attach cake photos.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:58 PM): noor (noorhameddd), 3 lilies, Islamabad delivery
+- 7:42 AM: asked lily bouquet price. 3:52 PM: we asked budget, lily count, date and city. 6:41 PM: "3 lilies? And I want it delivered to islamabad".
+- 3 lilies = one stem with 3 buds. Possible. Price not given yet (budget not answered).
+- Draft: yes 3 lilies is possible, Islamabad delivery, ask date, delivery address, and budget. No price, no delivery charges.
+- Status: draft shown to owner, NOT sent.
