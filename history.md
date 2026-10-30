@@ -262,3 +262,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: he will handle the delivery address himself, so do not ask for address. Cake is 2700 per lb (min 4 lb). Ask how many pounds.
 - Revised draft: supervisor call check, confirm 10-15 budget (thousands), order date and time, cake pounds at 2700 per lb (min 4 lb). No address question. No delivery charges.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:59 PM): Syeda WhatsApp draft (owner sends on WhatsApp to 03332268886)
+- Owner: he will message her on WhatsApp. Ask her to confirm the order if the supervisor has not spoken with her: order date and time, complete delivery address, cake pounds to customize (2700 per lb, min 4 lb). Also clarify whether 10-15 is budget in thousands.
+- Status: WhatsApp draft shown to owner, NOT sent by assistant.
