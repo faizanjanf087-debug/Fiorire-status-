@@ -408,3 +408,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: remove the junk in the behaviour section and keep a professional, natural tone as customer and owner.
 - Replaced the old "Owner preferences / My role / profile template" block in cloud.md with a short Behaviour section. Business data (prices, customers, invoices) not touched.
 - Rule: read rules.md, cloud.md and history.md first, then act.
+
+## 30 Oct 2026 (8:57 PM): sana_naziir (Sana Noman), red rose bouquet with writing and 20 air balloons
+- Lead. 8:55 PM: "Hi, red rose's bouquet with writing on top and 20 air balloons how much it will cost". Also sent a Fiorire post (Begum red rose design).
+- Owner: we customize in low and high volume, according to the customer's budget. Ask budget, then guide.
+- Balloon rates still pending owner (Nimra entry). Do not quote balloons.
+- Draft: yes we can make red rose bouquet with writing, customized to budget, ask budget and date, balloons details to confirm with team. No total.
+- Status: draft shown to owner, NOT sent.
