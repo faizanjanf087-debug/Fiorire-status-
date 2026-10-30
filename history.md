@@ -314,3 +314,6 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Wants chocolate basket and flowers, by tomorrow (31 Oct). Asked if flowers can go ahead if the cake cannot be ready.
 - Owner told her the details are forwarded to the supervisor, who will contact her on WhatsApp.
 - Status: waiting for supervisor. Branch and address not given yet.
+
+## 30 Oct 2026 (6:20 PM): branch correction
+- Owner: Syeda and Rbaloch are both Fiorire.pk, F-11 Markaz (Islamabad). Branch corrected in upcoming-orders.html.
