@@ -230,3 +230,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner says he asked about the same pink lily and rose bouquet as dua.fatima_. The dua.fatima_ screenshot was only a reference photo, not part of this chat.
 - Draft: welcome, yes ordering is possible, confirm the bouquet, ask budget first, quantity, date and city. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:41 PM): snoops, price of shared Fiorire.pk bouquet reel
+- Ad inquiry. Asked "Can you check the price of a product?" at 8:13 AM and shared the Fiorire.pk pink lily and rose bouquet reel (Cruise-style design).
+- "Previous replies: Assalamualaikum" is the owner's automated Instagram greeting, not the customer's. No salam reply needed.
+- Not welcomed yet. Draft: welcome, confirm it is our pink bouquet, customized to budget, ask budget, quantity, date and city. No price.
+- Status: draft shown to owner, NOT sent.
