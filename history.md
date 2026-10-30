@@ -415,3 +415,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Balloon rates still pending owner (Nimra entry). Do not quote balloons.
 - Draft: yes we can make red rose bouquet with writing, customized to budget, ask budget and date, balloons details to confirm with team. No total.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (9:01 PM): sana_naziir budget 5k, high volume push
+- Sana: "Bouquet around 5k".
+- Owner: for high-volume bouquets, gently ask to raise budget (around 10k, 12k, 15k). Only for high volume, not every customer. Saved in cloud.md.
+- Draft: thanks, at 5k we can do a smaller version, a fuller bouquet with more roses is around 10 to 12 thousand, would you raise the budget a little, and what date.
+- Status: draft shown to owner, NOT sent.

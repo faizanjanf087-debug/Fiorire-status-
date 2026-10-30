@@ -294,3 +294,9 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - WhatsApp: 03001786613
 - Wants: chocolate basket and flowers. Cake and flowers possible by tomorrow (31 Oct). Asked if flowers can be done if the cake cannot be ready by tomorrow.
 - Forwarded to supervisor on 30 Oct, 6:08 PM.
+
+## High volume budget push (owner, 30 Oct 2026, 9:01 PM)
+- For high-volume packages (for example 100, 150 or 200 roses), if the customer gives a low budget, gently ask them to raise it.
+- Steps: suggest around 10,000, then 12,000, then 15,000, and say it makes a fuller bouquet. Do this warmly, not as a lock-in or pressure.
+- Only for high-volume bouquets. Do not push every customer.
+- Apply to: Sana Noman (sana_naziir), budget around 5k for a red rose bouquet with writing.
