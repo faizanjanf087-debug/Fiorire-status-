@@ -358,3 +358,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft: share our designs, sunflower 600 per stem, baby's breath included, imported roses as second option at 800 per stem, ask budget. No total. Do not repeat salam.
 - Owner to confirm sunflower stock and send photos.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:48 PM): Maheen Khan, correction
+- Owner: do not give sunflower price now. Baby's breath is charged separately at 700 per bunch, so it is NOT included. Draft corrected.
+- Revised draft: share designs, ask budget, imported roses as second option (no price). No sunflower price, no baby's breath claim.
+- Status: revised draft shown to owner, NOT sent.
