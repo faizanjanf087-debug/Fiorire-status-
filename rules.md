@@ -72,3 +72,10 @@
 - Imported lily single bud (1 bud): 1500.
 - Imported lily stem: 3 buds (1 small, 2 big). Usually about 3500. Sometimes 3200, depending on how many imported lilies the whole bouquet has.
 - Ask the customer: how many lilies in the bouquet, budget, date and city. Do not quote the price before the budget is known.
+
+## Tone update (owner, 30 Oct 2026, 4:06 PM)
+- Sound like a real account holder who knows the product, not a clerk or a bot.
+- Open with a short hook about the bouquet (for example: "This one is one of our favourites").
+- Give a VIP feel: "for you", "made just for you", warm and confident.
+- Do not describe internal records or updates in chat replies.
+- Do not use stiff phrases such as "Please find", "Kindly" or "We are pleased".
