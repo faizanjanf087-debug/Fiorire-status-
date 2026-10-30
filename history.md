@@ -421,3 +421,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: for high-volume bouquets, gently ask to raise budget (around 10k, 12k, 15k). Only for high volume, not every customer. Saved in cloud.md.
 - Draft: thanks, at 5k we can do a smaller version, a fuller bouquet with more roses is around 10 to 12 thousand, would you raise the budget a little, and what date.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (10:56 PM): sardar_zargham (ZARGHAM), Exclusive decor
+- Ad inquiry on the Fiorire Exclusive "keep it simple" decor post. 10:01 PM: "Can you check the price of a product?" Then "Where are you located?"
+- Branch: Fiorire Exclusive, Bahria Town Phase 4. Decor: no price. Step order: location, then decor type, then contact.
+- Draft: name branch and Bahria Town Phase 4, ask event location, and the kind of setup (like our post). No price.
+- Status: draft shown to owner, NOT sent.
