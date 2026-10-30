@@ -257,3 +257,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 30 Oct 2026 (3:55 PM): Syeda follow-up draft
 - Second draft for Syeda (lead, 03332268886). Ask whether she has already spoken with our supervisor, or if we should arrange a call. Kindly confirm whether 10-15 is her budget in thousands. Ask order date and time, delivery address or area, and cake pounds (min 4 lb).
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:57 PM): Syeda draft revised by owner
+- Owner: he will handle the delivery address himself, so do not ask for address. Cake is 2700 per lb (min 4 lb). Ask how many pounds.
+- Revised draft: supervisor call check, confirm 10-15 budget (thousands), order date and time, cake pounds at 2700 per lb (min 4 lb). No address question. No delivery charges.
+- Status: revised draft shown to owner, NOT sent.
