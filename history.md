@@ -183,3 +183,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft reply: give branch and location. Ask contact number and event location so supervisor can call. No decor prices.
 - Note: this handle (talhariaz_) is different from earlier Talha Arshad (Fiorire.pk, Pink Cruise, 41,000 quoted) and Talha Khan (Fiorire.pk). Owner to confirm if it is the same person.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:28 PM): Nabila Javed (nabilajaved6481), balloon videos
+- Sent Fiorire.pk balloon videos (bubble balloons with bows, foil stars and hearts, confetti and chrome balloons, mirror wall). Message: "Want this Prize?" (1:34 PM).
+- Owner says these look like a balloon package, not decor. Balloon rates are still pending owner (Nimra entry).
+- Message request not accepted. Message is unclear ("prize"), so possibly a giveaway or spam. Do not accept or click unknown links until owner checks.
+- Status: owner to check. NO reply drafted or sent.
