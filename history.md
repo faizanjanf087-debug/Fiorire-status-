@@ -345,3 +345,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 30 Oct 2026 (7:33 PM): decor step order
 - Owner: on decor enquiries, do not ask for the contact number first. Ask location, then the type of decor, then contact number.
 - Drafts for Marwan Kundi, Hisham Sohail and Haya Asif revised to step order.
+
+## 30 Oct 2026 (7:42 PM): Haya Asif, revised logic
+- She replied to the balloon and bed setup story and asked "cost". So she likes this style.
+- Draft: Walaikum assalam, ask if she wants this kind of setup, then event location and occasion. Decor type comes from the setup she picked. Contact number later.
+- Owner: the other drafts (Marwan, Hisham) were already sent earlier. This is the only new one.
+- Status: revised draft shown to owner, NOT sent.
