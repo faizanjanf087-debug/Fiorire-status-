@@ -67,3 +67,8 @@
 - Answer every point the customer raised. Do not skip a question.
 - Keep replies short. One or two sentences for the greeting, then the question.
 - Do not repeat the same question or greeting twice in one thread.
+
+## Lily rate clarification (owner, 30 Oct 2026)
+- Imported lily single bud (1 bud): 1500.
+- Imported lily stem: 3 buds (1 small, 2 big). Usually about 3500. Sometimes 3200, depending on how many imported lilies the whole bouquet has.
+- Ask the customer: how many lilies in the bouquet, budget, date and city. Do not quote the price before the budget is known.
