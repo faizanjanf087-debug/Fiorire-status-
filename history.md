@@ -386,3 +386,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: do not mention delivery charges now. Ask address only.
 - Draft: 4,500 with baby's breath. Offer add-on flowers (red, pink or white roses, other flowers). Ask date and address. No delivery charges.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (8:24 PM): _.aroobaa, cost of same bouquet, Islamabad, December
+- 4:03 PM: we asked lilies, budget, date and city. 6:12 PM: "I just want to know the cost of the exact same bouquet to get the idea. City Isb, need it in December, cannot confirm dates."
+- Instagram comment on the post from M.: "2lilies hi to hai" (says the reel shows only 2 lilies). Owner to check the reel and reply on the post.
+- Draft: yes, we can make this bouquet in Islamabad for December, dates can be confirmed later, ask budget. Owner to give the price if he wants to quote.
+- Status: draft shown to owner, NOT sent.
