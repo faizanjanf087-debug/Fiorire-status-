@@ -294,3 +294,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - No chocolate basket price in rules. Owner to provide basket options and rates.
 - Draft: welcome, yes we make chocolate baskets with flowers, ask budget, number of flowers, date.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (5:55 PM): Syeda, budget and date answered
+- Our question at 4:00 PM: date and time, full address, cake pounds (2700 per lb, min 4 lb), and budget 10-15 thousand.
+- Her reply at 5:46 PM: "Yes" (budget 10-15 thousand confirmed) and "17th Nov" (order date).
+- Still missing: order time, complete delivery address, cake pounds.
+- Status: owner to send next message asking time, address, and cake pounds.
