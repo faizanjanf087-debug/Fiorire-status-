@@ -253,3 +253,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Then: "I need a nice cake and beautiful bouquet", "It's for him", and phone 03332268886 (lead card, WhatsApp and call buttons).
 - Draft: clarify 10-15, ask date, delivery address or area, cake size (min 4 lb, 2700 per lb). No total price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:55 PM): Syeda follow-up draft
+- Second draft for Syeda (lead, 03332268886). Ask whether she has already spoken with our supervisor, or if we should arrange a call. Kindly confirm whether 10-15 is her budget in thousands. Ask order date and time, delivery address or area, and cake pounds (min 4 lb).
+- Status: draft shown to owner, NOT sent.
