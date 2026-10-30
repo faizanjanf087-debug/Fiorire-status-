@@ -317,3 +317,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 
 ## 30 Oct 2026 (6:20 PM): branch correction
 - Owner: Syeda and Rbaloch are both Fiorire.pk, F-11 Markaz (Islamabad). Branch corrected in upcoming-orders.html.
+
+## 30 Oct 2026 (7:27 PM): Marwan Kundi (marwan_kundi001), Exclusive gift package price
+- Ad inquiry on the Fiorire Exclusive decor ad. 6:22 PM: "Aoa price of this complete Gift package".
+- Decor rule: no prices. Ask location and contact number, supervisor will call.
+- Draft: reply to Aoa with Walaikum assalam (customer greeting), welcome, ask location and contact number, supervisor will call. No price.
+- Status: draft shown to owner, NOT sent.
