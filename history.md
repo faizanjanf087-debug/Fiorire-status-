@@ -236,3 +236,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - "Previous replies: Assalamualaikum" is the owner's automated Instagram greeting, not the customer's. No salam reply needed.
 - Not welcomed yet. Draft: welcome, confirm it is our pink bouquet, customized to budget, ask budget, quantity, date and city. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:42 PM): hariskassana, bouquet in I-8 today
+- Ad inquiry on the Fiorire.pk Cruise Bouquet ad. 8:09 AM: "Where are you located?", "I want a bouquet in I-8 today", "can you send me the photos along with prices?"
+- Branch: Fiorire.pk, F-11 Markaz, Islamabad. Same-day delivery in Islamabad is available. I-8 is in Islamabad.
+- Draft: welcome, name the branch, send the Cruise photo (owner to attach), price depends on budget, ask budget first, I-8 delivery address and contact number. No price. Delivery charges not mentioned (Rule 1 applies when order is ready).
+- Status: draft shown to owner, NOT sent.
