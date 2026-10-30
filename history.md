@@ -206,3 +206,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Do not repeat salam. Ask budget first. No price quoted (Cruise bouquet 48,000 still pending owner).
 - Draft: confirm it is our bouquet, ask budget, quantity, date and city.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:36 PM): correction, dua.fatima_ (Dua Fatima)
+- Owner correction: we did not welcome her and did not answer her name. Earlier draft wrongly assumed salam was already done. The "Assalamualaikum" in the chat is HER greeting, not ours.
+- Corrected draft: walaikum assalam, welcome to Fiorire, use her name Dua, confirm it is our pink bouquet, ask budget first, quantity, date and city. No price.
+- Status: corrected draft shown to owner, NOT sent.
