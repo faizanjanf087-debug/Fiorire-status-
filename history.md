@@ -242,3 +242,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Branch: Fiorire.pk, F-11 Markaz, Islamabad. Same-day delivery in Islamabad is available. I-8 is in Islamabad.
 - Draft: welcome, name the branch, send the Cruise photo (owner to attach), price depends on budget, ask budget first, I-8 delivery address and contact number. No price. Delivery charges not mentioned (Rule 1 applies when order is ready).
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:51 PM): noor (noorhameddd), lily bouquet price
+- Message request (not accepted). 7:42 AM: "Hi! How much do you sell lily bouquets for?"
+- Draft: welcome, lily bouquets can be customized to budget. Ask budget first, number of lilies, date and city. No price.
+- Status: draft shown to owner, NOT sent.
