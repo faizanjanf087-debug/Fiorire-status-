@@ -194,3 +194,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner says to ask for address and time as well.
 - Draft (English + Roman Urdu): ask date and time, delivery address or area, contact number, and event type. No price.
 - Status: draft given to owner to send. Waiting for her reply.
+
+## 30 Oct 2026 (3:33 PM): R. (rafiiaazainab_), pink lily bouquet video
+- Our earlier shop message (1:33 PM) lists branch "Kohsar Market f-6/3 & Phase 4 Bahria Town Rawalpindi". This address is NOT in rules.md (rules: Fiorire.pk = F-11 Markaz, Fiorire Exclusive = Bahria Town Phase 4). Owner to check.
+- Customer sent a pink lily and rose bouquet video with a TikTok-style watermark. Not confirmed as our design. Do not claim it is ours.
+- Draft: ask if this is the bouquet she wants, then budget first, quantity, date and city. No price.
+- Status: draft shown to owner, NOT sent.
