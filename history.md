@@ -329,3 +329,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - 7:28 PM: "Aoa... Have you guys previously made a large sunflower bouquet suitable for gifting men?"
 - Draft: Walaikum assalam, yes we can make a large sunflower bouquet, customized to budget, ask budget, quantity and date. No price. Do not say scented. Owner to confirm sunflower stock.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:31 PM): Hisham Sohail (hisham_sohail...), Exclusive decor setup
+- Shared the Fiorire Exclusive "keep it simple" decor reel twice. Asked "Can you check the price of a product?" and "Can I make a purchase?" (sent twice).
+- Decor rule: no prices. Ask location and contact number, supervisor will call.
+- Draft: welcome, yes you can book, supervisor will call, ask contact number and event location. Reply once, not twice.
+- Status: draft shown to owner, NOT sent.
