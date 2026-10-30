@@ -288,3 +288,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner details: 8 imported lilies, 28 imported roses (pink and white). Price not given by owner yet. Do not quote until confirmed.
 - Draft: hook, the 8 lilies and 28 roses, customized in low or high volume to budget, ask budget.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (4:20 PM): romaisahassni (Rbalochi), chocolate basket and flower options
+- Message request. 4:18 PM: "Can you please send me options for chocolate basket and flower".
+- No chocolate basket price in rules. Owner to provide basket options and rates.
+- Draft: welcome, yes we make chocolate baskets with flowers, ask budget, number of flowers, date.
+- Status: draft shown to owner, NOT sent.
