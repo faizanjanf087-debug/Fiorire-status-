@@ -363,3 +363,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: do not give sunflower price now. Baby's breath is charged separately at 700 per bunch, so it is NOT included. Draft corrected.
 - Revised draft: share designs, ask budget, imported roses as second option (no price). No sunflower price, no baby's breath claim.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:55 PM): angelina_abbi28, father birthday cake
+- Message request. 7:10 PM: "Kindly send me the cake photos. Wants for Father birthday".
+- Branch: Fiorire.pk (owner).
+- Owner: no budget question. Tell her we make cakes customized with a minimum of 4 lb. Ask date and pounds.
+- Draft: branch Fiorire.pk, minimum 4 lb customized cake, ask date and pounds. Owner to attach cake photos.
+- Status: revised draft shown to owner, NOT sent.
