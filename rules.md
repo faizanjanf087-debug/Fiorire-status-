@@ -79,3 +79,10 @@
 - Give a VIP feel: "for you", "made just for you", warm and confident.
 - Do not describe internal records or updates in chat replies.
 - Do not use stiff phrases such as "Please find", "Kindly" or "We are pleased".
+
+## Decor step order (owner, 30 Oct 2026, 7:33 PM)
+- Do not ask for the contact number straight away on decor enquiries.
+- Step 1: ask the event location.
+- Step 2: ask what kind of decor they want.
+- Step 3: after they answer, ask for the contact number and say the supervisor will call.
+- Never give decor prices.

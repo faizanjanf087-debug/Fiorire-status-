@@ -341,3 +341,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Decor rule: no prices. Ask location and contact number, supervisor will call.
 - Draft: Walaikum assalam, welcome to Fiorire Exclusive, supervisor will call, ask contact number and event location. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:33 PM): decor step order
+- Owner: on decor enquiries, do not ask for the contact number first. Ask location, then the type of decor, then contact number.
+- Drafts for Marwan Kundi, Hisham Sohail and Haya Asif revised to step order.
