@@ -189,3 +189,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner says these look like a balloon package, not decor. Balloon rates are still pending owner (Nimra entry).
 - Message request not accepted. Message is unclear ("prize"), so possibly a giveaway or spam. Do not accept or click unknown links until owner checks.
 - Status: owner to check. NO reply drafted or sent.
+
+## 30 Oct 2026 (3:32 PM): Nabila Javed, owner approved asking details
+- Owner says to ask for address and time as well.
+- Draft (English + Roman Urdu): ask date and time, delivery address or area, contact number, and event type. No price.
+- Status: draft given to owner to send. Waiting for her reply.
