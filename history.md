@@ -211,3 +211,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner correction: we did not welcome her and did not answer her name. Earlier draft wrongly assumed salam was already done. The "Assalamualaikum" in the chat is HER greeting, not ours.
 - Corrected draft: walaikum assalam, welcome to Fiorire, use her name Dua, confirm it is our pink bouquet, ask budget first, quantity, date and city. No price.
 - Status: corrected draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:38 PM): correction, dua.fatima_ salam
+- Owner correction: the "Assalamualaikum" in the thread is the owner's automated Instagram greeting, not a customer greeting and not a salam to reply to.
+- Reply should only welcome her to Fiorire, use her name Dua, and give the same earlier answer: pink bouquet can be customized to budget, ask budget, quantity, date and city. No price.
+- Status: corrected draft shown to owner, NOT sent.
