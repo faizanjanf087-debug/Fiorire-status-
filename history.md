@@ -351,3 +351,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft: Walaikum assalam, ask if she wants this kind of setup, then event location and occasion. Decor type comes from the setup she picked. Contact number later.
 - Owner: the other drafts (Marwan, Hisham) were already sent earlier. This is the only new one.
 - Status: revised draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (7:44 PM): Maheen Khan, sunflower reference and second flower
+- Asked: reference images, budget for a nice bouquet with 10-12 sunflowers, and baby's breath or another second flower.
+- Owner-confirmed rates: sunflower 600 per stem, imported rose 800 per stem, baby's breath included.
+- Draft: share our designs, sunflower 600 per stem, baby's breath included, imported roses as second option at 800 per stem, ask budget. No total. Do not repeat salam.
+- Owner to confirm sunflower stock and send photos.
+- Status: draft shown to owner, NOT sent.
