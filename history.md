@@ -266,3 +266,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 30 Oct 2026 (3:59 PM): Syeda WhatsApp draft (owner sends on WhatsApp to 03332268886)
 - Owner: he will message her on WhatsApp. Ask her to confirm the order if the supervisor has not spoken with her: order date and time, complete delivery address, cake pounds to customize (2700 per lb, min 4 lb). Also clarify whether 10-15 is budget in thousands.
 - Status: WhatsApp draft shown to owner, NOT sent by assistant.
+
+## 30 Oct 2026 (4:00 PM): Syeda WhatsApp draft, natural tone
+- Owner: the draft sounds like a robot. Use a natural, warm, human shopkeeper tone for WhatsApp.
+- Revised: short message, supervisor will get in touch, ask order date and time, complete address, cake pounds (2700 per lb, min 4 lb), and budget 10-15 thousand.
+- Status: revised draft shown to owner, NOT sent by assistant.
