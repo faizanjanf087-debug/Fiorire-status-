@@ -175,3 +175,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft reply: no total quoted. Say imported bouquet is not possible in 1000. Offer to raise budget a little, or a smaller alternative. Ask date and area.
 - Pending owner: which low-budget alternative to offer (local flowers or artificial) and its price. Do not quote until owner confirms.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:26 PM): Talha (talhariaz_), Fiorire Exclusive decor ad
+- Source: replied to Fiorire Exclusive decor ad (event decor and management pre-bookings, "POV: keep it simple").
+- Asked at 1:45 PM: "Where are you located?"
+- Branch: Fiorire Exclusive, Bahria Town Phase 4.
+- Draft reply: give branch and location. Ask contact number and event location so supervisor can call. No decor prices.
+- Note: this handle (talhariaz_) is different from earlier Talha Arshad (Fiorire.pk, Pink Cruise, 41,000 quoted) and Talha Khan (Fiorire.pk). Owner to confirm if it is the same person.
+- Status: draft shown to owner, NOT sent.
