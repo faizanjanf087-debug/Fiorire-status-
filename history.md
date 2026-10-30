@@ -224,3 +224,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Message request not accepted yet.
 - Draft: welcome, yes we can make this kind of rose bouquet with imported roses, customized to budget. Ask budget first, quantity, date and city. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:39 PM): huzaifa (1xhtn), purchase inquiry
+- Ad inquiry. Asked "Can I make a purchase?" at 11:38 AM.
+- Owner says he asked about the same pink lily and rose bouquet as dua.fatima_. The dua.fatima_ screenshot was only a reference photo, not part of this chat.
+- Draft: welcome, yes ordering is possible, confirm the bouquet, ask budget first, quantity, date and city. No price.
+- Status: draft shown to owner, NOT sent.
