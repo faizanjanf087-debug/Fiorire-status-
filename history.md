@@ -403,3 +403,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - No price quoted (rose count not confirmed by owner). Ask budget first, date and city.
 - Draft: welcome, customize including the name on the scroll, ask budget, date and city.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (8:45 PM): behaviour section cleaned
+- Owner: remove the junk in the behaviour section and keep a professional, natural tone as customer and owner.
+- Replaced the old "Owner preferences / My role / profile template" block in cloud.md with a short Behaviour section. Business data (prices, customers, invoices) not touched.
+- Rule: read rules.md, cloud.md and history.md first, then act.
