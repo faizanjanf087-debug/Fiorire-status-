@@ -200,3 +200,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Customer sent a pink lily and rose bouquet video with a TikTok-style watermark. Not confirmed as our design. Do not claim it is ours.
 - Draft: ask if this is the bouquet she wants, then budget first, quantity, date and city. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:34 PM): dua.fatima_, price of shared Fiorire.pk bouquet reel
+- Customer shared a Fiorire.pk pink lily and rose bouquet reel (Cruise-style design, baby's breath, pink wrap). Asked "Can you check the price of a product?" at 12:55 PM. Previous replies shows "Assalamualaikum".
+- Do not repeat salam. Ask budget first. No price quoted (Cruise bouquet 48,000 still pending owner).
+- Draft: confirm it is our bouquet, ask budget, quantity, date and city.
+- Status: draft shown to owner, NOT sent.
