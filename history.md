@@ -216,3 +216,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner correction: the "Assalamualaikum" in the thread is the owner's automated Instagram greeting, not a customer greeting and not a salam to reply to.
 - Reply should only welcome her to Fiorire, use her name Dua, and give the same earlier answer: pink bouquet can be customized to budget, ask budget, quantity, date and city. No price.
 - Status: corrected draft shown to owner, NOT sent.
+
+## 30 Oct 2026 (3:38 PM): Zahreen (zahreenakhtarkhan), quote for rose bouquet
+- Replied to our story with a pink and white lily and rose bouquet photo (11:05 AM).
+- Sent "Pp?" (meaning unclear, ask owner).
+- Sent a white and pink rose bouquet photo with baby's breath, and asked: "Also can I get a quote for this kind of a bouquet?"
+- Message request not accepted yet.
+- Draft: welcome, yes we can make this kind of rose bouquet with imported roses, customized to budget. Ask budget first, quantity, date and city. No price.
+- Status: draft shown to owner, NOT sent.
