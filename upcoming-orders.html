@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fiorire Upcoming Orders</title>
+<style>
+  :root {
+    --bg: #faf6f4;
+    --card: #ffffff;
+    --ink: #2b2226;
+    --muted: #7a6b72;
+    --rose: #b5476a;
+    --red: #c0392b;
+    --red-bg: #fdecea;
+    --amber: #b9770e;
+    --amber-bg: #fef5e7;
+    --blue: #2e6da4;
+    --blue-bg: #eaf2fb;
+    --green: #1e7d4f;
+    --green-bg: #e9f7ef;
+    --line: #eadfe3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1d1719;
+      --card: #281f22;
+      --ink: #f4ecee;
+      --muted: #b3a2a8;
+      --rose: #e27d9b;
+      --red-bg: #3d2224;
+      --amber-bg: #3a2e1a;
+      --blue-bg: #1f2d3d;
+      --green-bg: #1d3327;
+      --line: #3d3035;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1d1719;
+    --card: #281f22;
+    --ink: #f4ecee;
+    --muted: #b3a2a8;
+    --rose: #e27d9b;
+    --red-bg: #3d2224;
+    --amber-bg: #3a2e1a;
+    --blue-bg: #1f2d3d;
+    --green-bg: #1d3327;
+    --line: #3d3035;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Georgia", "Times New Roman", serif;
+    padding: 16px;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  header {
+    border-bottom: 2px solid var(--rose);
+    padding-bottom: 10px;
+    margin-bottom: 18px;
+  }
+  h1 { margin: 0; font-size: 24px; color: var(--rose); letter-spacing: 0.5px; }
+  .sub { color: var(--muted); font-size: 14px; margin-top: 4px; }
+  h2 { font-size: 18px; margin: 26px 0 10px; }
+  .alert {
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    border-left: 6px solid;
+    background: var(--card);
+  }
+  .alert.red { border-color: var(--red); background: var(--red-bg); }
+  .alert.amber { border-color: var(--amber); background: var(--amber-bg); }
+  .alert.blue { border-color: var(--blue); background: var(--blue-bg); }
+  .alert.green { border-color: var(--green); background: var(--green-bg); }
+  .tag {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin-bottom: 6px;
+    background: var(--card);
+    color: var(--ink);
+  }
+  .title { font-size: 17px; font-weight: bold; margin: 2px 0 6px; }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px 16px;
+    font-size: 14px;
+  }
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: 1fr 1fr; }
+  }
+  .grid div b { color: var(--muted); font-weight: normal; }
+  .action {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px dashed var(--line);
+    font-size: 14px;
+  }
+  .note { font-size: 13px; color: var(--muted); margin-top: 18px; }
+  footer { margin-top: 28px; font-size: 12px; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Fiorire Upcoming Orders</h1>
+  <div class="sub">Updated: 30 October 2026, 6:14 PM (Asia/Karachi). Nearest order first.</div>
+</header>
+
+<h2>Urgent: tomorrow</h2>
+
+<div class="alert red">
+  <span class="tag">TOMORROW, 31 OCT</span>
+  <div class="title">Rbaloch (romaisahassni)</div>
+  <div class="grid">
+    <div><b>Contact:</b> 03001786613 (WhatsApp)</div>
+    <div><b>Branch:</b> not confirmed</div>
+    <div><b>Item:</b> chocolate basket and flowers</div>
+    <div><b>Date:</b> 31 October, needed by tomorrow</div>
+    <div><b>Address:</b> not given</div>
+    <div><b>Budget:</b> not given</div>
+    <div><b>Status:</b> forwarded to supervisor (6:08 PM)</div>
+    <div><b>Note:</b> asked if flowers can go ahead if the cake cannot be ready by tomorrow</div>
+  </div>
+  <div class="action"><b>Next:</b> Supervisor to call today. Confirm branch, address, time, and whether the cake is possible by tomorrow. If not, confirm the flowers-only option.</div>
+</div>
+
+<h2>Upcoming</h2>
+
+<div class="alert amber">
+  <span class="tag">17 NOV (18 DAYS)</span>
+  <div class="title">Syeda (lead)</div>
+  <div class="grid">
+    <div><b>Contact:</b> 03332268886 (WhatsApp)</div>
+    <div><b>Branch:</b> not confirmed</div>
+    <div><b>Item:</b> birthday cake (round cream cake with strawberries, name plaque) and bouquet with card</div>
+    <div><b>Date:</b> 17 November 2026</div>
+    <div><b>Time:</b> not given</div>
+    <div><b>Address:</b> not given</div>
+    <div><b>Budget:</b> 10 to 15 thousand (confirmed "Yes")</div>
+    <div><b>Cake:</b> pounds not given. Min 4 lb, 2700 per lb</div>
+    <div><b>Status:</b> forwarded to supervisor (6:06 PM)</div>
+  </div>
+  <div class="action"><b>Next:</b> Get cake name, pounds, bouquet colour, card message, time, and full address. Owner to confirm if strawberry decoration is extra.</div>
+</div>
+
+<div class="alert blue">
+  <span class="tag">DATE PENDING</span>
+  <div class="title">Zubair (@zubairash_), Exclusive</div>
+  <div class="grid">
+    <div><b>Contact:</b> 03408168606</div>
+    <div><b>Branch:</b> Exclusive (Bahria Town Phase 4)</div>
+    <div><b>Item:</b> birthday room decor</div>
+    <div><b>Location:</b> B17 Islamabad</div>
+    <div><b>Status:</b> forwarded to supervisor</div>
+  </div>
+  <div class="action"><b>Next:</b> Supervisor to handle. Date not in record. Do not quote decor prices.</div>
+</div>
+
+<h2>Delivered (28 Oct)</h2>
+
+<div class="alert green">
+  <span class="tag">DELIVERED</span>
+  <div class="title">Hafsa Mansoor (@hafsamansoorr), Fiorire.pk</div>
+  <div class="grid">
+    <div><b>Contacts:</b> 0336-3910212 (WhatsApp), receiver Fatima Shaikh 0331-3331587</div>
+    <div><b>Branch:</b> Fiorire.pk, F-11 Markaz</div>
+    <div><b>Item:</b> custom bouquet (roses, baby's breath, "28" balloons)</div>
+    <div><b>Time:</b> 28 Oct, 5 to 6 PM</div>
+    <div><b>Address:</b> Appt 208, 2nd floor, Executive Suites, Hilal Road, F-11/1 Markaz, Islamabad</div>
+    <div><b>Payment:</b> 8,000 PAID, plus 800 delivery charge collected separately</div>
+  </div>
+</div>
+
+<div class="alert green">
+  <span class="tag">DELIVERED</span>
+  <div class="title">Ilsa Sajid (@ilsa_.sajid), Fiorire.pk</div>
+  <div class="grid">
+    <div><b>Contact:</b> 03099111444</div>
+    <div><b>Branch:</b> Fiorire.pk, F-11 Markaz</div>
+    <div><b>Item:</b> 4 lilies bouquet and 2 lb cake</div>
+    <div><b>Time:</b> 28 Oct, 11 AM (self pickup)</div>
+    <div><b>Payment:</b> 13,500 PAID</div>
+  </div>
+</div>
+
+<p class="note">Alert colours: red = within 24 hours, amber = within 7 days, blue = date pending, green = delivered.</p>
+
+<footer>Fiorire internal. Keep private. Do not share customer numbers outside the team.</footer>
+
+</div>
+</body>
+</html>
