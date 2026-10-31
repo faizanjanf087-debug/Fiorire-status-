@@ -431,3 +431,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 30 Oct 2026 (11:01 PM): Hisham Sohail, contact saved
 - Shared number 03125814019 at 9:46 PM. Owner sent voice reply at 11:00 PM (supervisor will contact).
 - Missing: event location, decor type. Step order for decor was location, then decor type, then contact. Contact was asked first in the earlier draft.
+
+## 31 Oct 2026 (4:46 PM): angelina_abbi28, cake options
+- We sent 6 cake photos (white and green rose cake with "Dad", blue birthday cakes). Customer: "Any other option".
+- Still missing: pounds, pickup time, complete address in Islamabad. Pickup by driver on 1 Nov.
+- Draft: send more options, ask which style or colour she likes, plus pounds, pickup time and address. No budget.
+- Status: draft shown to owner, NOT sent.
