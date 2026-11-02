@@ -443,3 +443,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: ask whether the customer will provide the bangles (gift items) herself, or we arrange them. Also ask the order date.
 - Draft: yes we can make it, will she provide the bangles or should we arrange, which date. No price.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (7:54 PM): Liblib, Signature Rose bouquet, three volumes
+- Shared Fiorire.pk "Signature Rose bouquet" reel (roses, sunflowers, pink lilies). 4:59 PM we sent owner voice: this bouquet has multiple budgets (low volume, high volume), can be customized by budget and occasion, what is the order date.
+- Customer: "Price please", then "Please give price for all three volumes".
+- Owner has not given the three volume prices yet. Do not quote until he confirms.
+- Draft: explain low, medium and high volume options, ask the order date, and say prices for all three will follow. No prices.
+- Status: draft shown to owner, NOT sent. Owner to provide three volume prices.
