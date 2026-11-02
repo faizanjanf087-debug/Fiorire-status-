@@ -469,3 +469,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Rules: cake 2700 per lb, minimum 4 lb, decoration extra. No total without pounds and budget.
 - Draft: thank her, state 2700 per lb and minimum 4 lb, total depends on pounds and decoration (ribbons), ask pounds and date. No total.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:44 PM): fatimaaa.ha..., totals
+- Owner: 2700 per lb, minimum 4 lb. Totals: one cake of 4 lb = 10,800. Three cakes of 4 lb each = 32,400.
+- Draft: give one-cake total and three-cake total, decoration extra. Ask which design she wants.
+- Status: draft shown to owner, NOT sent.
