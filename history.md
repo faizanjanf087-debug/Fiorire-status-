@@ -474,3 +474,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: 2700 per lb, minimum 4 lb. Totals: one cake of 4 lb = 10,800. Three cakes of 4 lb each = 32,400.
 - Draft: give one-cake total and three-cake total, decoration extra. Ask which design she wants.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:47 PM): fatimaaa.ha..., ribbon included, 6 lb option
+- Owner: the small ribbon decoration is included, do not say it is extra.
+- Owner: ask which design and which pounds. Options: 4 lb (10,800 each, 32,400 for three), and 6 lb (6 x 2700 = 16,200 each).
+- Draft: ribbon decoration included, three 4 lb = 32,400, one 6 lb = 16,200, ask design and pounds.
+- Status: draft shown to owner, NOT sent.
