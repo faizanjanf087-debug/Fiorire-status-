@@ -484,3 +484,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 ## 2 Nov 2026 (8:48 PM): fatimaaa.ha..., final draft
 - Owner: remove the ribbon line and the 6 lb option. Keep: 2700 per lb, minimum 4 lb, one 4 lb cake = 10,800, three 4 lb cakes = 32,400. Ask whether she wants all three or one.
 - Status: final draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:52 PM): fatimaaa.ha..., one cake, lower price request
+- Customer: "Only one cake". "Cant the price be lowered?"
+- One 4 lb cake = 10,800 (2700 per lb). No discount given by owner. Do not promise any lower price.
+- Draft: one 4 lb cake = 10,800 at standard rate, check with the team about a better price, ask which design and pounds. Owner to decide discount.
+- Status: draft shown to owner, NOT sent.
