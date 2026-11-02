@@ -455,3 +455,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner gave ranges: small 25,000 to 30,000; medium 45,000 to 65,000; high 95,000 to 1,20,000. Each has two stages.
 - Draft: give the three ranges, ask her budget to customize, and ask the order date. Saved in rules.md.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:12 PM): _saad._.1, daisy flower crown
+- Old thread (Sep 19 to Sep 20): asked location, single lily availability, "single piece". We asked when they need it.
+- Yesterday 10:53 PM: "Do you make daisies flower crown?"
+- No daisy flower crown in rules. Owner to confirm if we make it.
+- Draft: thank for asking, ask city and date for the single piece, and say we will confirm the crown. No promise, no price.
+- Status: draft shown to owner, NOT sent.
