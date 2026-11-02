@@ -450,3 +450,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner has not given the three volume prices yet. Do not quote until he confirms.
 - Draft: explain low, medium and high volume options, ask the order date, and say prices for all three will follow. No prices.
 - Status: draft shown to owner, NOT sent. Owner to provide three volume prices.
+
+## 2 Nov 2026 (7:56 PM): Liblib, Signature Rose volume prices
+- Owner gave ranges: small 25,000 to 30,000; medium 45,000 to 65,000; high 95,000 to 1,20,000. Each has two stages.
+- Draft: give the three ranges, ask her budget to customize, and ask the order date. Saved in rules.md.
+- Status: draft shown to owner, NOT sent.

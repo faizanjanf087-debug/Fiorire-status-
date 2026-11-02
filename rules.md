@@ -86,3 +86,9 @@
 - Step 2: ask what kind of decor they want.
 - Step 3: after they answer, ask for the contact number and say the supervisor will call.
 - Never give decor prices.
+
+## Signature Rose bouquet volume ranges (owner, 2 Nov 2026, 7:55 PM)
+- Small volume: 25,000 to 30,000. Two stages inside small.
+- Medium volume: 45,000 to 65,000. Two stages inside medium.
+- High (large) volume: 95,000 to 1,20,000. Two stages inside large.
+- Price depends on the volume. Customer can also share her budget and we customize to it.
