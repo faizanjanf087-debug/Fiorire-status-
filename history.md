@@ -437,3 +437,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Still missing: pounds, pickup time, complete address in Islamabad. Pickup by driver on 1 Nov.
 - Draft: send more options, ask which style or colour she likes, plus pounds, pickup time and address. No budget.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (7:41 PM): rn_khanx (Rnk), bangle bouquet
+- Message request. 6:56 PM: shared a bangle and flower bouquet reel (kraft wrap, bangles and flowers). "I to order similar bouquet!! Can you prepare me one like this"
+- Owner: ask whether the customer will provide the bangles (gift items) herself, or we arrange them. Also ask the order date.
+- Draft: yes we can make it, will she provide the bangles or should we arrange, which date. No price.
+- Status: draft shown to owner, NOT sent.
