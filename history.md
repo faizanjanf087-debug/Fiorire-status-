@@ -462,3 +462,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - No daisy flower crown in rules. Owner to confirm if we make it.
 - Draft: thank for asking, ask city and date for the single piece, and say we will confirm the crown. No promise, no price.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:41 PM): fatimaaa.ha..., cake total
+- Sent 3 cake design photos (pink-cream cake, white cake with black ribbon, cream cake with black ribbons and dots). Also two voice notes (not transcribed).
+- Asked: "What will the total of a cake like this be? I haven't finalised yet. Still comparing with other bakers."
+- Rules: cake 2700 per lb, minimum 4 lb, decoration extra. No total without pounds and budget.
+- Draft: thank her, state 2700 per lb and minimum 4 lb, total depends on pounds and decoration (ribbons), ask pounds and date. No total.
+- Status: draft shown to owner, NOT sent.
