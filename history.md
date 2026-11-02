@@ -480,3 +480,7 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: ask which design and which pounds. Options: 4 lb (10,800 each, 32,400 for three), and 6 lb (6 x 2700 = 16,200 each).
 - Draft: ribbon decoration included, three 4 lb = 32,400, one 6 lb = 16,200, ask design and pounds.
 - Status: draft shown to owner, NOT sent.
+
+## 2 Nov 2026 (8:48 PM): fatimaaa.ha..., final draft
+- Owner: remove the ribbon line and the 6 lb option. Keep: 2700 per lb, minimum 4 lb, one 4 lb cake = 10,800, three 4 lb cakes = 32,400. Ask whether she wants all three or one.
+- Status: final draft shown to owner, NOT sent.
