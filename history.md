@@ -502,3 +502,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: fine to reply "ok ma'am". Ask contact number, area, city and date, then forward to the supervisor, who will discuss and send all details.
 - No price given (owner has not confirmed per-piece price or wrap time).
 - Draft: shown to owner, NOT sent.
+
+## 3 Nov 2026 (3:04 PM): Saba Mujeeb (sabamujeeb), balloons with bow, cost
+- Earlier thread: 30 Dec 2:09 AM "Do you have balloons with bow?". Our reply: "Yes mam we have" (voice note, 5:13 PM).
+- Today 12:31 PM: "Do you arrange ballon's?" then "Cost?"
+- Balloon rates still pending owner. No price, no balloon promise beyond "we have balloons with bow".
+- Draft: yes we have balloons with bow, ask quantity, event, date, city and budget, team will confirm the exact cost. Waiting for owner approval.
+- Status: draft shown to owner, NOT sent.
