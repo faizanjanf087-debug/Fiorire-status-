@@ -490,3 +490,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - One 4 lb cake = 10,800 (2700 per lb). No discount given by owner. Do not promise any lower price.
 - Draft: one 4 lb cake = 10,800 at standard rate, check with the team about a better price, ask which design and pounds. Owner to decide discount.
 - Status: draft shown to owner, NOT sent.
+
+## 3 Nov 2026 (2:48 PM): shehla_786 (Shehla Khan), price and wrapping time
+- 2:21 PM: shared fiorire.pk reel (tulle-wrapped flower arrangements, several pieces). Asked: "how much these would cost? And how long are you gonna take to wrap it up?"
+- No price or preparation time in rules. Owner to give the wrap time and per-piece price.
+- Draft: thank her, ask quantity, budget and date. No price, no time promise.
+- Status: draft shown to owner, NOT sent. Owner to confirm the price and wrap time.
