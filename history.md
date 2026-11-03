@@ -496,3 +496,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - No price or preparation time in rules. Owner to give the wrap time and per-piece price.
 - Draft: thank her, ask quantity, budget and date. No price, no time promise.
 - Status: draft shown to owner, NOT sent. Owner to confirm the price and wrap time.
+
+## 3 Nov 2026 (2:53 PM): shehla_786, travelling, supervisor follow-up
+- Customer: needs them Saturday (said Sunday first, then "So Saturday"). Travelling to another city. Will confirm pieces by tonight. Asked for an overview of cost.
+- Owner: fine to reply "ok ma'am". Ask contact number, area, city and date, then forward to the supervisor, who will discuss and send all details.
+- No price given (owner has not confirmed per-piece price or wrap time).
+- Draft: shown to owner, NOT sent.
