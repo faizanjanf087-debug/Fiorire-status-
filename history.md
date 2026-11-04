@@ -515,3 +515,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Rules: cake 2700 per lb, minimum 4 lb. No total without size and budget. Ask budget first. Delivery charges depend on area, ask address after budget.
 - Draft: yes home delivery, charges depend on area, ask budget, cake pounds and design, flower colour, wedding date, city and area, branch. No prices yet.
 - Status: draft shown to owner, NOT sent. Owner to accept the message request first.
+
+## 4 Nov 2026 (5:28 PM): Abisha Abeer (abisha_abeer), reply with reference pictures
+- Shared 2 bouquet pictures from our highlights (one pink rose and baby's breath, one white lily bouquet with black wrap, Fiorire.pk shop). Wants something similar, small and minimal.
+- Cake: bento or 1 lb, simple, "Happy Bride-to-Be" written. CONFLICT: cake minimum is 4 lb (rules). Owner to decide whether a bento or 1 lb cake is allowed.
+- Friend lives in E-11/2, Islamabad (delivery charge depends on area, ask full address after budget).
+- No budget yet, no wedding date yet, no flower colour yet.
+- Draft: thank her, ask budget, wedding date, full address, flower colour preference. No prices. Cake size to owner first.
+- Status: draft to owner, NOT sent. Owner to accept message request first.
