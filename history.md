@@ -530,3 +530,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner: reply should start directly, no "thank you, your references are lovely", natural tone.
 - Draft: start with "We can make something lovely in a small size", state cake rate and 4 lb minimum (3 lb if possible), ask chocolate or without, budget, wedding date, full address in E-11/2.
 - Status: draft to owner, NOT sent.
+
+## 4 Nov 2026 (6:46 PM): hajra.khanx (hajra), birthday room decor at home, pink theme
+- Message request, not accepted yet. 6:37 PM: birthday at home, wants cute aesthetic pink room decor, asks packages, prices and home decor.
+- Rules: decor is Fiorire Exclusive (Bahria Town Phase 4). Never give decor prices. Decor step order: 1 location, 2 decor type, 3 contact number and supervisor will call.
+- Draft: yes we do decor, pink aesthetic noted, ask the event area or city first. No prices.
+- Status: draft to owner, NOT sent. Owner to accept message request first.
