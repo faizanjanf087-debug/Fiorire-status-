@@ -523,3 +523,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - No budget yet, no wedding date yet, no flower colour yet.
 - Draft: thank her, ask budget, wedding date, full address, flower colour preference. No prices. Cake size to owner first.
 - Status: draft to owner, NOT sent. Owner to accept message request first.
+
+## 4 Nov 2026 (5:30 PM): Abisha Abeer, owner decisions on cake and bouquet
+- Owner: cake can be made by pounds. Cake is 2700 per lb, minimum 4 lb, and owner will try a 3 lb cake if possible.
+- Owner: bouquet can be customized, ask with chocolate or without chocolate.
+- Owner: reply should start directly, no "thank you, your references are lovely", natural tone.
+- Draft: start with "We can make something lovely in a small size", state cake rate and 4 lb minimum (3 lb if possible), ask chocolate or without, budget, wedding date, full address in E-11/2.
+- Status: draft to owner, NOT sent.
