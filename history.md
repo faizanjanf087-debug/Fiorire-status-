@@ -509,3 +509,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Balloon rates still pending owner. No price, no balloon promise beyond "we have balloons with bow".
 - Draft: yes we have balloons with bow, ask quantity, event, date, city and budget, team will confirm the exact cost. Waiting for owner approval.
 - Status: draft shown to owner, NOT sent.
+
+## 4 Nov 2026 (4:57 PM): Abisha Abeer (abisha_abeer), cake and tiny bouquet for wedding
+- Message request, not accepted yet. 4:21 PM: wants a cake plus a small minimalist bouquet (3 to 4 flowers) for a friend's wedding, both delivered to the friend's house. Asks options, prices and home delivery.
+- Rules: cake 2700 per lb, minimum 4 lb. No total without size and budget. Ask budget first. Delivery charges depend on area, ask address after budget.
+- Draft: yes home delivery, charges depend on area, ask budget, cake pounds and design, flower colour, wedding date, city and area, branch. No prices yet.
+- Status: draft shown to owner, NOT sent. Owner to accept the message request first.
