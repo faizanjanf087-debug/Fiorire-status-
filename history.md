@@ -536,3 +536,13 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Rules: decor is Fiorire Exclusive (Bahria Town Phase 4). Never give decor prices. Decor step order: 1 location, 2 decor type, 3 contact number and supervisor will call.
 - Draft: yes we do decor, pink aesthetic noted, ask the event area or city first. No prices.
 - Status: draft to owner, NOT sent. Owner to accept message request first.
+
+## 7 Nov 2026 (3:36 PM): Syeda (lead), order details from owner, saved
+- Date: 17 November 2026.
+- Cake: 2 lb, chocolate flavour, green shade, text "Happy Birthday Sikki", no topper. 2 lb x 2700 = 5,400 (owner pricing; rule minimum is 4 lb, owner to confirm).
+- Bouquet: 4 sunflowers 2,600 (owner figure; 4 x 600 = 2,400, owner to check), 4 white roses 3,200, customize 1,000, 2 baby's breath + 2 crazy thumbs 1,800. Bouquet total 8,600.
+- Card: 250 (writing on top).
+- Total without hydraulic box: 14,250 (cake 5,400 + bouquet 8,600 + card 250).
+- Hydraulic box: customer wants bouquet customized inside a hydraulic box. Owner to confirm the price, then update the customer.
+- Still missing: time and full address.
+- Status: saved, owner to send update later.
