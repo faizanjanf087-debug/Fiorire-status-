@@ -565,3 +565,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Cake: 2 lb, chocolate, green shade, "Happy Birthday Sikki", confirmed.
 - Balance: 4,000 + delivery charges, customer to pay Mon or Tue (9 or 10 Nov). Owner to send the final figure with delivery.
 - Summary PDF made for the supervisor (ADVANCE RECEIVED badge, balance due).
+
+## 7 Nov 2026 (3:45 PM): Syeda, hydraulic box cancelled, cake box and theme
+- Hydraulic box cancelled by customer. Removed from the summary.
+- Cake box: customise with ribbon to match the cake and bouquet theme. Charge not stated, owner to confirm.
+- Bouquet theme to match the cake. Ribbon colour to confirm with customer (green, brown or red).
+- Summary PDF updated and sent to owner.
