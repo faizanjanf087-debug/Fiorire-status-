@@ -546,3 +546,14 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Hydraulic box: customer wants bouquet customized inside a hydraulic box. Owner to confirm the price, then update the customer.
 - Still missing: time and full address.
 - Status: saved, owner to send update later.
+
+## 7 Nov 2026 (3:37 PM): Syeda (lead), advance received, delivery details, cards
+- Advance: 10,000 received via HBL, 6 Nov 2026, 9:48 PM. Payer name on transfer: Ayesha Adil (customer gave name Ayesha Ibrahim, same number 03332268886). Owner to check the name matches.
+- Bank details were sent to customer by the shop team. Account number not stored here.
+- Delivery: Basement Rani Arcade 3, F-block Satellite Town, Rawalpindi. Owner to confirm delivery charge for this area (rule: charges depend on area).
+- Customer will pay the remaining amount on Monday or Tuesday (9 or 10 Nov), asked for the total with delivery charges added.
+- Remaining balance before delivery and box: 14,250 - 10,000 = 4,250.
+- Customer asked for a greeting card and to see card options. Owner to send card pictures.
+- Bouquet check: customer's reference picture has pink roses as well as white roses and sunflowers. The quote had only 4 white roses. Owner to confirm the pink roses and their count.
+- Time of delivery still missing.
+- Status: owner to confirm delivery charge and box price, then reply.
