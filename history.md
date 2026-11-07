@@ -557,3 +557,11 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Bouquet check: customer's reference picture has pink roses as well as white roses and sunflowers. The quote had only 4 white roses. Owner to confirm the pink roses and their count.
 - Time of delivery still missing.
 - Status: owner to confirm delivery charge and box price, then reply.
+
+## 7 Nov 2026 (3:41 PM): Syeda, owner clarifications and summary PDF
+- Orderer: Ayesha Ibrahim, 03332268886, ordering from Karachi. Delivery: Basement Rani Arcade 3, F-block Satellite Town, Rawalpindi. Receiver contact to come from customer later.
+- Greeting card 250 removed from the total (already included in customer charges). Total is now 14,000 (cake 5,400 + bouquet 8,600).
+- Bouquet customised: pink roses removed. White roses 4, sunflowers 4, crazy thumbs 2, baby's breath 2 stems.
+- Cake: 2 lb, chocolate, green shade, "Happy Birthday Sikki", confirmed.
+- Balance: 4,000 + delivery charges, customer to pay Mon or Tue (9 or 10 Nov). Owner to send the final figure with delivery.
+- Summary PDF made for the supervisor (ADVANCE RECEIVED badge, balance due).
