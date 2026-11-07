@@ -576,3 +576,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Cake box ribbon: no extra charge. Shown as Included in the summary.
 - Bouquet wrapping sheet and ribbon: brown or green, matching the cake theme, to confirm with customer.
 - Summary PDF updated.
+
+## 7 Nov 2026 (7:43 PM): spamzaezay (علیزے غضنفر), pink-only bouquet at Rs 1000
+- Message request, not accepted. "Aoa. Do you make a bouquet for rs1000, filled with only pink flowers?"
+- Budget 1000 is below our single-stem rates (rose 800, lily bud 1500). Owner to decide whether a pink-only bouquet at this budget is possible.
+- Draft: walaikum assalam, yes we make pink bouquets, ask budget, date and city. No price.
+- Status: draft to owner, NOT sent. Owner to accept message request first.
