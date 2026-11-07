@@ -571,3 +571,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Cake box: customise with ribbon to match the cake and bouquet theme. Charge not stated, owner to confirm.
 - Bouquet theme to match the cake. Ribbon colour to confirm with customer (green, brown or red).
 - Summary PDF updated and sent to owner.
+
+## 7 Nov 2026 (3:48 PM): Syeda, ribbon no charge, wrap sheet theme
+- Cake box ribbon: no extra charge. Shown as Included in the summary.
+- Bouquet wrapping sheet and ribbon: brown or green, matching the cake theme, to confirm with customer.
+- Summary PDF updated.
