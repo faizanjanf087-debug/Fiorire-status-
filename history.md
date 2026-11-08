@@ -591,3 +591,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Delivery: 12 November 2026. Address still changing (construction). Customer will WhatsApp the location and address.
 - Customise: baby's breath to match the reel style (owner instruction).
 - Status: draft to owner, NOT sent. Owner to confirm total and receiver contact.
+
+## 8 Nov 2026 (3:18 PM): Areeba, advance payment received
+- Payment screenshot received: PKR 9,600 sent to M MAHAD ZAFAR (HBL Konnect), Sunday 8 Nov 2026, 3:18 PM. Sender name on the receipt: Areeba Batool (account ending 7828).
+- 9,600 is 80% of about 12,000. Balance about 2,400 plus delivery charges. Owner to confirm the exact total.
+- Still pending: full address (customer will WhatsApp), receiver contact, delivery time, customisation of baby's breath.
+- Status: payment confirmed, owner to be told.
