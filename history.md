@@ -582,3 +582,12 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Budget 1000 is below our single-stem rates (rose 800, lily bud 1500). Owner to decide whether a pink-only bouquet at this budget is possible.
 - Draft: walaikum assalam, yes we make pink bouquets, ask budget, date and city. No price.
 - Status: draft to owner, NOT sent. Owner to accept message request first.
+
+## 8 Nov 2026 (3:19 PM): Areeba (lead, ar...), bouquet 12K, 80% advance
+- Customer chose "12k wala" volume. Bouquet: 6 imported pink lilies with baby's breath, pink tulle wrap, like the fiorire.pk reel she shared ("how much would this be", "and this one").
+- Owner figure: about 12,000. 80% advance = about 9,600 (owner to confirm exact total).
+- Customer will send payment screenshot to owner when paid.
+- Note: customer ID shown as "ar..." in the screenshot, full ID to confirm. Contact: 0300 8566001. Order date: 8 Nov 2026.
+- Delivery: 12 November 2026. Address still changing (construction). Customer will WhatsApp the location and address.
+- Customise: baby's breath to match the reel style (owner instruction).
+- Status: draft to owner, NOT sent. Owner to confirm total and receiver contact.
