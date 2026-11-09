@@ -628,3 +628,4 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Vague inquiry. No product, budget, date or city given.
 - Draft: yes we have flower options, ask what they need (bouquet or arrangement), budget, occasion, date and city. No price.
 - Status: draft to owner, NOT sent. Owner to accept message request first.
+- 9 Nov 2026 (3:05 PM): owner asked for payment details for Andellah. Payment details draft prepared: advance 80% = 12,800 to M MAHAD ZAFAR (HBL). Owner to send. Rule: send bank details only after order is confirmed (owner decision).
