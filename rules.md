@@ -92,3 +92,6 @@
 - Medium volume: 45,000 to 65,000. Two stages inside medium.
 - High (large) volume: 95,000 to 1,20,000. Two stages inside large.
 - Price depends on the volume. Customer can also share her budget and we customize to it.
+
+## Owner language rule (owner, 9 Nov 2026)
+- Always talk to the owner in Roman Urdu (Urdu written in English letters). Do not switch to Urdu script or Hindi.
