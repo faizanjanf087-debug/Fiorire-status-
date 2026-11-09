@@ -597,3 +597,8 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - 9,600 is 80% of about 12,000. Balance about 2,400 plus delivery charges. Owner to confirm the exact total.
 - Still pending: full address (customer will WhatsApp), receiver contact, delivery time, customisation of baby's breath.
 - Status: payment confirmed, owner to be told.
+
+## 9 Nov 2026 (2:25 PM): Fiorire Exclusive order, transfer of 14,000 to M MAHAD ZAFAR
+- Owner made an order at Fiorire Exclusive for a customer. The order charges were higher than expected, so the owner sent the account details to the customer.
+- Transfer screenshot: Rs 14,000 from Faizur Rehman (easypaisa, 03030240392) to M MAHAD ZAFAR (HBL), 8 Nov 2026, 8:55 PM, Transaction ID 58385174378.
+- Customer name for this order: to be confirmed by owner.
