@@ -602,3 +602,4 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Owner made an order at Fiorire Exclusive for a customer. The order charges were higher than expected, so the owner sent the account details to the customer.
 - Transfer screenshot: Rs 14,000 from Faizur Rehman (easypaisa, 03030240392) to M MAHAD ZAFAR (HBL), 8 Nov 2026, 8:55 PM, Transaction ID 58385174378.
 - Customer name for this order: to be confirmed by owner.
+- CORRECTION (owner, 9 Nov 2026, 2:26 PM): the 14,000 was NOT a customer order payment. Owner sent it from owner's own easypaisa to M MAHAD ZAFAR (HBL) to get a marketing plan done. Owner says the money was taken from a customer into the owner's easypaisa. Customer name for this to be confirmed by owner.
