@@ -622,3 +622,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Balloon rates still pending owner. No price, no stock promise.
 - Draft: check butterfly theme matte balloons, ask event date, city or area, and quantity. No budget question yet.
 - Status: draft to owner, NOT sent. Owner to confirm balloon stock and rates.
+
+## 9 Nov 2026 (3:04 PM): Faisal (f.qxk), flower options, Fiorire Exclusive
+- Message request, not accepted. 5:58 AM: "you got flower options?"
+- Vague inquiry. No product, budget, date or city given.
+- Draft: yes we have flower options, ask what they need (bouquet or arrangement), budget, occasion, date and city. No price.
+- Status: draft to owner, NOT sent. Owner to accept message request first.
