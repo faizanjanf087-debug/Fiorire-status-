@@ -614,3 +614,4 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Status: draft to owner, NOT sent.
 - CORRECTION (owner, 9 Nov 2026, 3:00 PM): advance is 80%, not 50%. 80% of 16,000 = 12,800. Balance 3,200 plus delivery charges.
 - UPDATE (owner, 9 Nov 2026, 3:01 PM): customisation charge 2,000 added to the total and kept hidden (not shown as a separate line). Total 18,000. Advance 80% = 14,400.
+- UPDATE (owner, 9 Nov 2026, 3:02 PM): customisation charge removed. Total back to 16,000. Advance 80% = 12,800.
