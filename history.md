@@ -603,3 +603,12 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Transfer screenshot: Rs 14,000 from Faizur Rehman (easypaisa, 03030240392) to M MAHAD ZAFAR (HBL), 8 Nov 2026, 8:55 PM, Transaction ID 58385174378.
 - Customer name for this order: to be confirmed by owner.
 - CORRECTION (owner, 9 Nov 2026, 2:26 PM): the 14,000 was NOT a customer order payment. Owner sent it from owner's own easypaisa to M MAHAD ZAFAR (HBL) to get a marketing plan done. Owner says the money was taken from a customer into the owner's easypaisa. Customer name for this to be confirmed by owner.
+
+## 9 Nov 2026 (2:53 PM): Andellah (andellahabbasi), black roses, Fiorire Exclusive
+- Branch: Fiorire Exclusive (owner confirmed).
+- Wants a bouquet of only black roses (black is made from white roses with oil paint, per owner's voice note).
+- Quantity: 20 roses. Rate per rose: 800 (owner's voice note). Roses total: 16,000 (owner to confirm total).
+- Delivery date: 11 November 2026.
+- Contact: 0336 5084940 (sent by customer).
+- Address: still to be shared by customer. Receiver contact: to confirm.
+- Status: draft to owner, NOT sent.
