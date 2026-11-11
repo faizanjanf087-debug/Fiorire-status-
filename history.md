@@ -629,3 +629,10 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Draft: yes we have flower options, ask what they need (bouquet or arrangement), budget, occasion, date and city. No price.
 - Status: draft to owner, NOT sent. Owner to accept message request first.
 - 9 Nov 2026 (3:05 PM): owner asked for payment details for Andellah. Payment details draft prepared: advance 80% = 12,800 to M MAHAD ZAFAR (HBL). Owner to send. Rule: send bank details only after order is confirmed (owner decision).
+
+## 11 Nov 2026 - Hamza (hamza_aax1), Fiorire.pk F-11
+- Order: 4 imported pink lilies, 15 pink and white roses, 5 sunflowers, 5 crazy thumbs, 5 cruise. Baby's breath removed (owner instruction). Total 25,500 (owner to confirm after removal).
+- Pickup: self pickup, 18 Nov 2026, daytime, F-11 Markaz.
+- Advance: 20,000 received 10 Nov 2026, 10:33 PM, Meezan to HBL (M Mahad Zafar), STAN 780297. Balance 5,500 at pickup. 80% would be 20,400, so 400 short (owner to decide).
+- Contact on lead form: +1 647 613 4604 (WhatsApp), to confirm.
+- Summary PDF made for Mahad bhai (HMZ-18NOV-2026).
