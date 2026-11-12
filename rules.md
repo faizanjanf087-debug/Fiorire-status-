@@ -1,5 +1,9 @@
 # Fiorire Owner Rules (single source of truth)
 
+## Language rule (owner, 12 Nov 2026, top priority)
+- Every reply to the owner is in Roman Urdu or Roman English only (Urdu or English written in English letters).
+- Do not send Hindi words or Devanagari script in any reply, even short ones. Do not add a Hindi version below an English or Urdu line.
+
 ## Rule 1 (top priority)
 - When an order is READY and we are discussing payment and address: delivery charges are EXTRA.
 - Charges depend on area-wise location. Do not quote a fixed charge. Ask for exact address or area, then confirm with the owner.
