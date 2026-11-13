@@ -636,3 +636,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Advance: 20,000 received 10 Nov 2026, 10:33 PM, Meezan to HBL (M Mahad Zafar), STAN 780297. Balance 5,500 at pickup. 80% would be 20,400, so 400 short (owner to decide).
 - Contact on lead form: +1 647 613 4604 (WhatsApp), to confirm.
 - Summary PDF made for Mahad bhai (HMZ-18NOV-2026).
+
+## 13 Nov 2026 (2:51 PM): Mrs Abdullah (memoonah_khan_661), ad inquiry, large rose and lily bouquet
+- Asked price of the "luxury rose bouquet" from the fiorire.pk ad (red roses, Stargazer lilies, Dior-style ribbon).
+- Our voice note (garbled transcript) quoted a range and said volume and customisation can match the budget. Rawalpindi delivery said available.
+- Customer replied: "And you said 8000", "Can I have pictures", "Just to have an idea". The 8000 figure does not match our rule (large volume 95,000 to 1,20,000). Owner to check what was said.
+- Draft: ask budget, offer picture, no price yet. Status: draft to owner, NOT sent.
