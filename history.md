@@ -648,3 +648,12 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Date: 15 Nov 2026, 12 PM. Short notice, owner to confirm the cake can be made in time.
 - Missing: budget, size (min 4 lb, 2700 per lb), flavour, colours and toppers, pickup or delivery, address, contact number, branch (Fiorire.pk F-11 Markaz).
 - Status: draft to owner, NOT sent.
+
+## 14 Nov 2026 (4:05 PM): Ezzah Khan (_ezzahkhan1), lion cake, Islamabad hotel delivery (pending)
+- Reference: black chocolate cake with a sculpted gold lion head on top, black leaves, "Leo Birthday" written in gold on a dark board. Customer asked "is this design possible" (14 Nov, 7:22 PM).
+- Customisation: lion or crown, black and gold theme. Owner's voice note said a lion design with a different look, 3.5 or 4 lb.
+- Flavour: chocolate fudge (customer confirmed). Date: next Friday (20 Nov) or Saturday (21 Nov), to be confirmed.
+- Price: 2,800 per lb. 4 lb = 11,200. 3.5 lb = 9,800. Owner said payment is 80% advance. Delivery charges extra (owner told customer).
+- Delivery: to a hotel, address and hotel name pending. Contact number NOT yet received.
+- Bank details to be sent only after order confirmation (rule). Status: pending confirmation of lb, date, address and contact number.
+- Later: owner to send payment screenshot, then PDF.
