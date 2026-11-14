@@ -642,3 +642,9 @@ Log of key conversations and decisions, newest first. Update after every chat wi
 - Our voice note (garbled transcript) quoted a range and said volume and customisation can match the budget. Rawalpindi delivery said available.
 - Customer replied: "And you said 8000", "Can I have pictures", "Just to have an idea". The 8000 figure does not match our rule (large volume 95,000 to 1,20,000). Owner to check what was said.
 - Draft: ask budget, offer picture, no price yet. Status: draft to owner, NOT sent.
+
+## 14 Nov 2026 (2:05 PM): Samar (samaraktar), custom cake for tomorrow 12 PM, Islamabad
+- Message: "Hi can I get a custom cake for tomorrow 12 pm islamabad". Sent a reference cake: pastel blue and white, striped side, balloons, cake-pop toppers, candles.
+- Date: 15 Nov 2026, 12 PM. Short notice, owner to confirm the cake can be made in time.
+- Missing: budget, size (min 4 lb, 2700 per lb), flavour, colours and toppers, pickup or delivery, address, contact number, branch (Fiorire.pk F-11 Markaz).
+- Status: draft to owner, NOT sent.
