@@ -5,3 +5,4 @@
 - Next: sunflower bouquet post with the owner in frame (Fiorire tag visible).
 - Best timing: Reels around 6 to 8 PM. Weekends are weaker. Use Insights to confirm (see market-research.md).
 - Avoid posting the same bouquet twice in a row.
+- Exclusive post (15 Nov): pink gerbera and cream rose bouquet, Bahria Town Phase 4. Hook options: 'Bahria ki shaam, aapke naam ka phool' and 'Har rang mein ek kahani'. Prompt made with owner's Exclusive shop photo as background if available. Status: prompt given, owner to choose hook.
