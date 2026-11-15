@@ -266,6 +266,7 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 | 15 | Exclusive | Waniya (@_waniyazahid) | 7 lilies, 25 roses | Quoted 30,500. Waiting for reply. |
 | 16 | Exclusive | Q4SIM, Tarab Ali, Eiman Kiani, Maida Khan, Iqra | Event decor | Supervisor coordination. Location and contact requested. |
 | 17 | Exclusive | Nooreyyy (@nooreyy_7) | New inquiry | Welcome sent. Waiting for inquiry details. |
+| 18 | Exclusive | Francis Dolarhyde (reichsfuhrer.fuhrer) | Pink gerbera and cream rose bouquet, asked price | Sorry for late reply. Two options: 18,000 and 12,000, both customisable. Asked volume, budget and date. | Asked "How much is this" (14 Nov, 10:19 PM) | Waiting for reply |
 
 ### Invoices (confirmed)
 - INV-FIORIRE-1028-01: Ilsa Sajid (@ilsa_.sajid), contact 03099111444, Fiorire.pk F-11 Markaz, 28 Oct 2026. Self pickup 11:00 AM. 4 lilies bouquet + 2 lb cake. Total 13,500 PKR. PAID (ref 57781901339). Note: 500 PKR lily charge confusion, supervisor handled it.
