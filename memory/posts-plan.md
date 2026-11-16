@@ -7,3 +7,4 @@
 - Avoid posting the same bouquet twice in a row.
 - Exclusive post (15 Nov): pink gerbera and cream rose bouquet, Bahria Town Phase 4. Hook options: 'Bahria ki shaam, aapke naam ka phool' and 'Har rang mein ek kahani'. Prompt made with owner's Exclusive shop photo as background if available. Status: prompt given, owner to choose hook.
 - 15 Nov: owner rejected hook 'Bahria ki shaam, aapke naam ka phool'. Owner wants a nicely customised bouquet with real flowers and real greenery, no hook text on the image.
+- 16 Nov 2026: owner asked for a quick post prompt (Exclusive pink gerbera bouquet, real greenery, no hook text). Prompt given.
