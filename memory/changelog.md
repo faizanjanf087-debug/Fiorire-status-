@@ -5,3 +5,4 @@
 - 15 Nov 2026: Exclusive post hook rejected by owner. Visual changed to a real, customised bouquet with real greenery.
 - 16 Nov 2026: Hamza pickup moved from 18 Nov to 19 Nov, 12 PM to 1 PM. PDF updated (HMZ-19NOV-2026).
 - 16 Nov 2026: quick post prompt given for Exclusive bouquet.
+- 16 Nov 2026: detailed Italian style bouquet prompt with shop background and logo tag given.
