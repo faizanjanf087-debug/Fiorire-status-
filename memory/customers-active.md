@@ -6,3 +6,4 @@
 - Areeba Batool (areeba_batool2007): bouquet, delivery 12 Nov. Advance 9,600 received 8 Nov. Balance about 2,400 + delivery. Address pending.
 - Andellah (andellahabbasi): 20 black roses, total 16,000, advance 12,800. Address and receiver pending.
 - Samar (samaraktar): custom cake for 15 Nov 12 PM Islamabad. Reply drafted, budget and details pending.
+- 17 Nov 2026: Syeda receiver Sikander, +92 344 4095995 (WhatsApp). Delivery time 7:00 PM. PDF updated (syeda_order_17nov_v2.pdf).
