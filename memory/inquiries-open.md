@@ -8,3 +8,4 @@
 - Sarah Daud: balloon rates and stock pending.
 - Nebela Rehman: address and privacy issue, owner to decide. Do not locate or conceal a third party's address.
 - clayyyslayyy (19 Nov, 2:36 AM): asked price of pink lily bouquet, asked delivery in Wah Cantt, asked lily price options. Owner asked to reply with budget and date. Wah Cantt not on our delivery list: owner to confirm. Draft: ask budget, volume, date, area. No price yet.
+- 20 Nov 2026 clayyyslayyy: asked price of one lily, said budget is low, may choose roses. Draft: single lily bud 1,500, rose 800 per stem, ask budget and volume. Wah Cantt delivery still to confirm.
