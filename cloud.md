@@ -502,3 +502,17 @@ Draft reply (copy box, pending owner approval, only after owner decides):
 - Budget 2,500 to 3,000 PKR is below our smallest bouquet (about 12,000 PKR). Owner to decide what to offer.
 - Draft reply (copy box, pending owner decision):
   "Thank you for the details. Our bouquets start from around 12,000 PKR, so a budget of 2,500 to 3,000 is below our range. We have noted December 1st as your date. Would you like to see our options within your budget, or can you increase the budget?"
+
+## Direct lead: fwavatar (director) (21 Nov 2026, 6:58 PM screenshot)
+- Source: direct message, not an ad reply.
+- Instagram: fwavatar (display name "director").
+- Messages: 6:58 PM "hello do u ship?" and "delivery".
+- Greeting: none in our history. Start with a greeting.
+- Missing: city or area (delivery charges depend on area), bouquet or item, budget, date.
+- Delivery rule: delivery charges are extra and depend on the area. Same-day in Islamabad and Rawalpindi. Do not volunteer Karachi or Lahore unless asked.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, yes, we do delivery. The delivery charge depends on your area. Could you please share your city and area, the bouquet or item you are interested in, your budget, and the date you need it? Then I can confirm the delivery details for you."
+
+Roman Urdu meaning: Jee haan, hum delivery karte hain. Delivery charges aap ke area par depend karte hain. Aap apna city aur area, jo bouquet ya cheez chahiye, budget aur date bata dein, phir main delivery ki details confirm kar doonga.
