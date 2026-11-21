@@ -64,3 +64,4 @@
 - 21 Nov 2026: itss._fazal asked budget for medium bouquet. Draft: medium lily heart 47,500, asks budget and date.
 - 21 Nov 2026: playcarmenbylanadelrey budget up to 5,000, date 1 Dec. Options: 4 imported roses 4,400 or local 2,800 customisable. Draft updated.
 - 21 Nov 2026: minnisblings asked lilies per stem. Not answered (owner rule). Draft asks budget, size, date, address. Owner to decide on continuing.
+- 21 Nov 2026: owner said answer lilies per stem: 3 per stem, 3,500 PKR. minnisblings draft 4 updated.
