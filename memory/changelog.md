@@ -55,3 +55,4 @@
 - 21 Nov 2026: campaign wording removed from drafts (customer does not know it is a campaign). Drafts for wajihablooms and itss._fazal now say: this bouquet is made with pink lilies, red roses and baby's breath.
 - 21 Nov 2026: minnisblings.pk asked price of only the lilies in reel. Draft: price the whole bouquet, not single flowers. Owner to decide (possible competitor).
 - 21 Nov 2026: owner said give stem price for single lily question. minnisblings draft now quotes 3,500 per stem (3 lilies).
+- 21 Nov 2026: minnisblings draft 3: stem price only, asks date and address. No lily count, no budget/size.

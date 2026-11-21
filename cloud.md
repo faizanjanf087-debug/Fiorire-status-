@@ -675,3 +675,9 @@ Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "Our lilies are priced per stem. One stem has 3 lilies and is 3,500 PKR. To suggest the right option for you, could you share your budget, the size you would like, and the date you need the order for?"
 - Roman Urdu meaning: Hamare lilies stem ke hisaab se hain. Ek stem mein 3 lilies hote hain aur uski price 3,500 PKR hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## minnisblings.pk draft 3 (owner, 21 Nov 2026, 7:22 PM)
+- Owner: do not say how many lilies are in a stem. Do not ask budget or size in the stem message (budget does not fit a single stem). Ask the date and the address.
+- Draft reply (copy box, pending owner approval):
+  "Our lilies are priced per stem, and one stem is 3,500 PKR. Could you please share the date you need it and your delivery address?"
+- Roman Urdu meaning: Hamare lilies stem ke hisaab se hain, aur ek stem ki price 3,500 PKR hai. Aap date aur delivery address bata dein?
