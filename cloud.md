@@ -358,3 +358,10 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - Heart bouquet final price: 47,500 (rounded, includes design 2,800).
 - If a customer's budget is around 40,000 or 35,000 or lower: tell them a heart shape is not possible at that budget, and the round (gol) bouquet will be made instead.
 - Round bouquet is for smaller volume and lower budgets.
+
+## Exclusive ad leads (campaign on Fiorire Exclusive, 21 Nov 2026)
+- Campaign: heart lily bouquet ad, Fiorire Exclusive (Bahria Town Phase 4). Heart bouquet final price 47,500. Budget under about 45,000: offer round bouquet.
+- ushneykhurram: asked price (how much). Wants February, medium size. Asked budget and exact date. Greeting already sent. Status: waiting for budget and date.
+- playcarmenbylanadelrey: asked "How much is this" on heart bouquet. Message request not accepted yet. Reply drafted (composition, ask budget, size, date). Status: waiting.
+- Naorin Asif (naorinasif_): asked "Price" (reply to ad, 6:31 PM). Reply sent (composition, ask budget, size, date). No greeting before. Status: waiting.
+- Muhammad Azmeer (azmeer_khan2): asked "How much is it for lilies bouquet" (6:32 PM). Reply drafted (heart bouquet, ask budget, size, date). Status: waiting.
