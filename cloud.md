@@ -762,3 +762,11 @@ Roman Urdu meaning: Medium lily heart bouquet ki price 47,500 PKR hai. Aap apna 
 - Draft reply (copy box, pending owner approval):
   "For up to 5,000 PKR, we can make a bouquet with 4 red roses and baby's breath, including wrapping. We can also make it with local roses and customise it to your choice. A heart bouquet is not possible at this budget. Which colour do you prefer, and can we confirm 1 December?"
 - Roman Urdu meaning: 5,000 PKR tak hum 4 red roses aur baby's breath ka bouquet wrapping ke saath bana sakte hain. Local roses se bhi bana sakte hain aur apki pasand ke mutabiq customise kar sakte hain. Is budget mein heart bouquet mumkin nahi. Aap kaunsa rang pasand karti hain, aur kya hum 1 December confirm kar sakte hain?
+
+## minnisblings.pk update 3 (21 Nov 2026, 7:33 PM screenshot)
+- Customer: "How many lilies per stem?"
+- Owner's rule: do not say how many lilies are in a stem. Our message was sent (price per stem 3,500; asked date and delivery address). Customer asked the lily count next.
+- Customer has not given budget, size, date or address. Account looks like a price-checker (15 followers, 0 posts, asked single-stem price and stem count). Owner to decide whether to continue.
+- Draft reply (copy box, pending owner approval):
+  "Our lily pricing is set per stem, and the stem details depend on the bouquet design. To suggest the right option for you, could you please share your budget, the size you would like, the date you need it, and your delivery address?"
+- Roman Urdu meaning: Hamari lily price stem ke hisaab se hai, aur stem ki details bouquet ke design par depend karti hain. Aap apna budget, size, date aur delivery address bata dein, taake main sahi option suggest kar sakun.
