@@ -544,3 +544,17 @@ Draft reply (copy box, pending owner approval):
 "Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. Could you share your budget, the size you would like, and the date you need the order for? Then I can suggest the best option for you."
 
 Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bante hain. Aap apna budget, size aur date bata dein, phir main behtareen option suggest kar sakti hoon.
+
+## Exclusive ad lead: muhammadhussain_ (21 Nov 2026, 5:13 PM to 7:06 PM screenshots)
+- Source: replied to an ad (Fiorire Exclusive). Shared the heart bouquet reel (pink lilies, red roses, baby's breath).
+- Instagram: muhammadhussain_ (Muhammad Hussain).
+- Messages: 5:13 PM "What types of lilies are available for order?". Our voice note (0:15, transcription not shown). Then "Iski kya price hai" (price of this heart bouquet). Our voice note (0:23). Then "5k ka kis tarah ka banega" (what a 5k bouquet looks like). Our voice note (0:13) and our photo of a small bouquet (3 red roses, baby's breath, black ribbon, grey wrap). Our voice notes (0:02, unable to transcribe; 0:06, transcription in Hindi script, about increasing the amount at 9 o'clock if the bouquet is done on a highway with our reels). Customer then: "Kitna increase" (how much increase).
+- Budget: about 5,000 PKR (customer's words). Our smallest bouquet records: about 12,000 PKR. Owner sent a small example photo for the 5k question.
+- Missing: owner must confirm the exact increase amount and what the 5k option includes. Date, size, area not given.
+- Greeting: already done (our first reply). Do not greet again.
+- Status: waiting for owner's answer on the increase amount.
+
+Draft reply (copy box, pending owner decision on the amount):
+"The increase depends on the bouquet and the reel design. The exact amount is [OWNER TO CONFIRM]. Could you tell me the size you would like and the date you need it?"
+
+Roman Urdu meaning: Increase bouquet aur design par depend karta hai. Exact amount [OWNER CONFIRM] hai. Aap size aur date bata dein?
