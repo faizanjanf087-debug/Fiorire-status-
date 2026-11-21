@@ -863,3 +863,16 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 - Draft reply (copy box, pending owner confirmation of the medium price):
   "For a medium size, the bouquet will be made in a round shape, not a heart. A medium round bouquet starts from around 45,000 PKR. The large heart bouquet is 47,500 PKR. Could you please confirm the date you need it, your contact number, and your delivery address in Chaklala Scheme?"
 - Roman Urdu meaning: Medium size ke liye bouquet round shape mein banega, heart mein nahi. Medium round bouquet lagbhag 45,000 PKR se shuru hota hai. Large heart bouquet 47,500 PKR ka hai. Aap date, contact number aur Chaklala Scheme ka delivery address confirm kar dein.
+
+## ahmed.sheikh073 options (owner, 21 Nov 2026, 7:46 PM)
+- Customer budget for medium: 40,000 PKR.
+- Owner: make a medium round bouquet at around 35,000 (fits 40,000 budget). Tell the stems: roses, lilies, baby's breath.
+- Owner: small, medium and large options with stem counts.
+- Proposed counts (owner to confirm before sending):
+  - Small round, from about 12,000: 12 imported roses (9,600), 2 lilies (2 buds, 2,333), 1 baby's breath stem (450). Total about 12,383.
+  - Medium round, about 35,000: 30 imported roses (24,000), 7 lily buds (8,167), 3 baby's breath stems (1,350). Total about 33,517, rounded to about 35,000.
+  - Large heart, 47,500 (design included): 40 roses, 7 lilies, 10 baby's breath stems (owner's final heart price).
+- Owner's note: large heart is about the same as the 500-rose type price range.
+- Draft reply (copy box, pending owner confirmation of counts):
+  "For a medium round bouquet within your budget, we can make it at around 35,000 PKR with about 30 red roses, 7 pink lilies and 3 baby's breath stems. A small round bouquet starts around 12,000 PKR with about 12 red roses, 2 lilies and baby's breath. A large heart bouquet is 47,500 PKR with 40 red roses, 7 pink lilies and 10 baby's breath stems. Could you please confirm the date you need it and your contact number?"
+- Roman Urdu meaning: Aap ke budget ke andar medium round bouquet lagbhag 35,000 PKR mein ban sakta hai, jis mein lagbhag 30 red roses, 7 pink lilies aur 3 baby's breath stems honge. Chhota round bouquet lagbhag 12,000 PKR se shuru hota hai, jis mein lagbhag 12 red roses, 2 lilies aur baby's breath honge. Bada heart bouquet 47,500 PKR ka hai, jis mein 40 red roses, 7 pink lilies aur 10 baby's breath stems honge. Aap date aur contact number confirm kar dein.
