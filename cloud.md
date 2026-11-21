@@ -558,3 +558,16 @@ Draft reply (copy box, pending owner decision on the amount):
 "The increase depends on the bouquet and the reel design. The exact amount is [OWNER TO CONFIRM]. Could you tell me the size you would like and the date you need it?"
 
 Roman Urdu meaning: Increase bouquet aur design par depend karta hai. Exact amount [OWNER CONFIRM] hai. Aap size aur date bata dein?
+
+## Exclusive ad lead: izza_sardarr (21 Nov 2026, 6:11 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: izza_sardarr (izza, 331 followers, 0 posts).
+- Message: 6:11 PM "What types of lilies are available for order?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area, which bouquet.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. Could you share your budget, the size you would like, and the date you need the order for? Then I can suggest the best option for you."
+
+Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bante hain. Aap apna budget, size aur date bata dein, phir main behtareen option suggest kar sakti hoon.
