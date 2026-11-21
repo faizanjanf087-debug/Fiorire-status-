@@ -9,3 +9,13 @@
 - Artificial white flowers customisation (inside a box): 1,200 extra (14 Nov, Ezzah Khan).
 - Old quotes stay locked unless the customer raises it.
 - Never quote a price the owner has not confirmed. Ask budget first.
+
+## Round lily bouquet (Mahad bhai, supervisor), confirmed calculation 21 Nov 2026
+- Composition: 40 imported roses, 7 single-bud lilies, baby's breath (10 stems).
+- Roses: 40 x 800 = 32,000
+- Lilies: 7 x 1,500 = 10,500 (rate card single bud)
+- Baby's breath: 10 x 450 = 4,500
+- Total: 47,000 (target 45,000 to 50,000)
+- Alternative: lilies at 1,200 each = 8,400, total 44,900 (with 10 baby's breath).
+- Floor price: 45,000 (Mahad bhai's rule, internal, not to tell customers unless owner says).
+- Karachi and Lahore delivery available with separate charges. Our own shops in those cities.
