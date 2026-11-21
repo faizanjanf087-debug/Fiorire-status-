@@ -310,3 +310,23 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - Interest: Fiorire Exclusive "keep it simple" decor setup.
 - Owner sent a voice reply at 11:00 PM (details forwarded to supervisor, supervisor will contact).
 - Still missing: event location and decor type.
+
+## Heart lily bouquet, price rules (owner, 21 Nov 2026)
+- Quote term or package prices only, never single item prices to customers.
+- Design charge 2,800 stays internal. Share only when asked for details.
+- Lily: owner says quote each lily at 3,500, and finalise at 2,500 per lily. Do not use 1,500.
+- Calculation (40 roses, 7 lilies, 10 baby's breath stems):
+  - Roses 40 x 800 = 32,000
+  - Lilies 7 x 2,500 = 17,500
+  - Baby's breath 10 x 450 = 4,500
+  - Subtotal 54,000, plus design 2,800 = 56,800 (internal)
+- Owner's expected cost: about 44,000 to 46,000. Mismatch with 54,000. Owner to confirm.
+- Rule: ask order, budget, volume and date first, professionally. Do not repeat greeting or thanks.
+
+## Customer: ushneykhurram (21 Nov, 6:18 PM)
+- Asked price of heart bouquet (ad reply). Wants February, medium size.
+- Salam already sent. Waiting for budget and exact February date.
+
+## Customer: playcarmenbylanadelrey (21 Nov, 6:01 PM)
+- Asked "How much is this" on heart bouquet. Message request not accepted yet.
+- Reply drafted: composition, ask budget, volume, date.
