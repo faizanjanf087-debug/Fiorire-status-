@@ -726,3 +726,17 @@ Draft reply (copy box, pending owner approval):
 "Hi, this bouquet is made with pink lilies, red roses and baby's breath. The delivery time depends on your area and the date you need it. Could you please share your city and area, your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Delivery ka time aapke area aur date par depend karta hai. Aap apna city aur area, budget, size aur date bata dein.
+
+## Story reply lead: rania.ali24 (21 Nov 2026, 7:19 PM screenshot)
+- Source: replied to our story with the campaign bouquet image (pink lilies, red roses, baby's breath).
+- Instagram: rania.ali24 (Rania).
+- Message: 7:19 PM "how much is this for".
+- Message request: not accepted yet. Owner must tap Accept before we can reply.
+- Greeting: none in our history. Start with a greeting after accepting.
+- Missing: budget, size, date, area, purpose.
+- Status: waiting for owner to accept, then send the draft (no price first).
+
+Draft reply (copy box, pending owner approval):
+"Hi, this bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
