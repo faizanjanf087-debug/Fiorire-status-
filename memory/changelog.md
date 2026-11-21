@@ -58,3 +58,4 @@
 - 21 Nov 2026: minnisblings draft 3: stem price only, asks date and address. No lily count, no budget/size.
 - 21 Nov 2026: ushneykhurram budget 5,000, date 5-8 Feb (exact not sure). Draft: heart not possible, small round with about 6 red roses. Owner to confirm.
 - 21 Nov 2026: ushneykhurram calc: 4 imported roses 3,200 + wrapping 1,200 = 4,400 (fits 5,000). Local roses 400 each, customisable. Draft updated.
+- 21 Nov 2026: new Exclusive ad lead judamayousafzai saved in cloud.md (asked pre-order shipping time). Shipping time pending owner.

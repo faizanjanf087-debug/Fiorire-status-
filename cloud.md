@@ -699,3 +699,16 @@ Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "At 5,000 PKR, we can make a bouquet with 4 red roses and baby's breath, including wrapping. If you choose local roses, we can customise it further for your budget. Please share the exact date in February when you need it, and I will confirm the final details for you."
 - Roman Urdu meaning: 5,000 PKR mein hum 4 red roses aur baby's breath ka bouquet bana sakte hain, wrapping ke saath. Agar aap local roses chunti hain to hum apke budget ke mutabiq aur customise kar sakte hain. Feb ki exact date bata dein, phir main final details confirm kar doonga.
+
+## Exclusive ad lead: judamayousafzai (21 Nov 2026, 7:17 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: judamayousafzai (Judama).
+- Message: 7:17 PM "How long does pre-order take to ship?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: shipping time (owner to confirm), bouquet, budget, size, date, area.
+- Status: waiting for owner to confirm shipping time and approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share the bouquet you are interested in, your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, hamare pre-order ka shipping time bouquet aur date par depend karta hai. Exact time batane ke liye aap jo bouquet chahti hain, budget, size aur date bata dein.
