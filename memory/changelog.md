@@ -31,3 +31,4 @@
 - 21 Nov 2026: new Exclusive ad lead brahumdagh_khaliq saved in cloud.md (asked if we are from Karachi). Draft asks order intent and budget. Owner to confirm Karachi branch.
 - 21 Nov 2026: brahumdagh_khaliq draft corrected per owner: main branch Islamabad, shops also in Karachi.
 - 21 Nov 2026: Naorin Asif replied 'medium sized'. Draft asks budget and date (no greeting, owner already greeted).
+- 21 Nov 2026: new Exclusive ad lead its_asadm saved in cloud.md (asked lily types). Draft greets and asks budget, size, date.

@@ -421,3 +421,14 @@ Draft reply (copy box, pending owner approval):
 - Greeting: already done by owner. Do not greet again.
 - Status: waiting for budget and date. Draft reply (copy box, pending owner approval):
   "Medium size is a good choice. Could you share your budget and the date you need it? The final price depends on the exact size and flowers, and I will confirm it with you."
+
+## Exclusive ad lead: its_asadm (21 Nov 2026, 6:30 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: its_asadm (Asad Muhammad, 541 followers, 1 post).
+- Message: 6:30 PM "What types of lilies are available for order?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area, order intent.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. Could you share your budget, the size you would like, and the date you need the order for? Then I can suggest the best option for you."
