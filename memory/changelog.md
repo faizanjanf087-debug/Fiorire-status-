@@ -13,3 +13,4 @@
 - 20 Nov 2026: clayyyslayyy bouquet options calculated for owner.
 - 20 Nov 2026: ideal.pr collaboration (cake sponsorship, 2 bloggers, 29 Nov) logged.
 - 21 Nov 2026: Mahad bhai ad and round lily bouquet pricing (45k to 50k) saved, owner to confirm.
+- 21 Nov 2026: correction saved: 40 roses, 7 lilies, Karachi and Lahore delivery with extra charges.
