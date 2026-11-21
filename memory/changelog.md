@@ -27,3 +27,4 @@
 - 21 Nov 2026: new Exclusive ad lead m_taitai592 saved in cloud.md (asked for a range and examples, no budget yet). Range reply drafted for owner approval.
 - 21 Nov 2026: new Exclusive ad lead yvanilla3_ saved in cloud.md (asked shipping time, lily types, price). Draft asks budget, size, date. Shipping time pending owner.
 - 21 Nov 2026: new Exclusive ad lead black_qat saved in cloud.md (pink lilies, 8 December, budget about 6k). Draft asks occasion, size, confirms date. Budget decision pending owner.
+- 21 Nov 2026: memory/thinking.md created (checklist before each reply). black_qat draft: removed greeting and thank you because owner's voice note already greeted.

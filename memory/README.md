@@ -28,3 +28,4 @@ How to use: before answering any owner message, read the files that match the to
 | pdf-templates.md | How order PDFs are made |
 | todo.md | Next tasks and improvements |
 | changelog.md | Dated log of every update |
+- thinking.md: checklist to read before every reply (timeline, greeting check, what happened and what did not).
