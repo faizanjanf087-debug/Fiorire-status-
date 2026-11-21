@@ -389,3 +389,15 @@ Draft reply (English, copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, thank you for reaching out! We have lily bouquets with pink and white lilies, mixed with roses and baby's breath, and you can choose the size. For the price, could you tell me your approximate budget, the size or number of flowers you want, and the date you need it? Then I can suggest the best option for you."
+
+## Exclusive ad lead: black_qat (21 Nov 2026, 2:05 PM to 6:36 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: black_qat (67 followers, 0 posts, not following each other).
+- Messages: 2:05 PM "What types of lilies are available for order?". Our voice note reply (0:10, transcription not shown). 6:36 PM "8 December tak / Pink lilies / Budget will be around 6k".
+- Date: 8 December. Lily type: pink. Budget: around 6,000 (below our bouquet range, starting about 12,000). Owner to decide.
+- Greeting: none in our history. Start with a greeting.
+- Owner asked for a reply that mentions lilies, baby's breath and roses, and asks why they want a lily bouquet (occasion).
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, thank you for reaching out! Our bouquets are made with lilies, roses and baby's breath, and the design can be customised. What is the occasion for the lily bouquet? Our bouquets start around 12,000, so at a budget of about 6,000 we may need to suggest a smaller option. Could you also tell me the size you want? Is 8 December the date you need it?"
