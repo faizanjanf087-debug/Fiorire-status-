@@ -463,3 +463,14 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, this heart bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+## Exclusive ad lead: ahmadkamrannn (21 Nov 2026, 6:26 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: ahmadkamrannn (Ahmad, 128 followers, 14 posts).
+- Message: 6:26 PM "How long does pre-order take to ship?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: shipping time (owner to confirm), budget, size, date, area, which bouquet.
+- Status: waiting for owner to confirm shipping time and approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, thank you for your message. Our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share the bouquet you are interested in, your budget, the size you would like, and the date you need the order for?"
