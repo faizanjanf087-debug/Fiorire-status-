@@ -45,3 +45,4 @@
 - 21 Nov 2026: muhammadhussain_ budget about 5k PKR, asked price and how much increase. Owner to confirm the increase amount. Draft has a placeholder.
 - 21 Nov 2026: new Exclusive ad lead izza_sardarr saved in cloud.md (asked lily types). Draft asks budget, size, date.
 - 21 Nov 2026: new Exclusive ad lead iinayazahid saved in cloud.md (asked price). Draft describes bouquet, asks budget, size, date.
+- 21 Nov 2026: iinayazahid draft corrected per owner: about 6 lilies and baby's breath. Price pending owner calc.

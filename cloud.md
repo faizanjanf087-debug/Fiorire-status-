@@ -584,3 +584,11 @@ Draft reply (copy box, pending owner approval):
 "Hi, this bouquet is made with red roses, pink lilies and baby's breath, wrapped in maroon paper. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, ye bouquet red roses, pink lilies aur baby's breath se bana hai, maroon paper mein wrap hai. Aap apna budget, size aur date bata dein, phir main sahi option suggest kar sakti hoon.
+
+## iinayazahid draft correction (owner, 21 Nov 2026, 7:10 PM)
+- Owner: the reel bouquet has about 6 lilies and baby's breath (roses too). The customer asked the price of this exact bouquet.
+- Draft must name the lilies count and baby's breath, not only the general description.
+- Price: owner to confirm the price for the 6-lily version (lily stem count to be confirmed: 3 buds per stem, list 3,500 per stem).
+- Corrected draft (copy box, pending owner approval):
+  "Hi, this bouquet has about 6 pink lilies, red roses and baby's breath, wrapped in maroon paper. To suggest the right price for you, could you please share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hi, is bouquet mein lagbhag 6 pink lilies, red roses aur baby's breath hain, maroon paper mein wrap hai. Aap apna budget, size aur date bata dein, phir main sahi price bata sakti hoon.
