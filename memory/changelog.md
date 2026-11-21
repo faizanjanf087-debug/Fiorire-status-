@@ -72,3 +72,4 @@
 - 21 Nov 2026: owner: no wrapping charge to customers (complimentary on large orders). ushneykhurram draft: stems only, 6 imported or 12 local at 5,000.
 - 21 Nov 2026: new Exclusive ad lead kaz_ajk (Irfan) saved (asked lily types). Draft matches running lily campaign.
 - 21 Nov 2026: new Exclusive ad lead sidequestloifff saved (asked Price?). Draft asks budget, size, date.
+- 21 Nov 2026: ahmed.sheikh073 medium size, Rawalpindi Chaklala. Medium = round (not heart). Draft gives round 45k start and heart 47,500; asks date, contact, address. Medium round price needs owner confirmation.

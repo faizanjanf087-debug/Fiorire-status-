@@ -854,3 +854,12 @@ Draft reply (copy box, pending owner approval):
 "Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. To suggest the right option and price for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bane hote hain. Sahi option aur price batane ke liye aap apna budget, size aur date bata dein.
+
+## ahmed.sheikh073 update (owner, 21 Nov 2026, 7:45 PM)
+- Customer: wants a medium bouquet. Area: Rawalpindi, Chaklala Scheme. Asked price.
+- Owner: medium cannot be a heart. A medium bouquet is customised as a round shape. Large heart bouquet is 47,500 PKR (includes design).
+- Medium round price: not in records. Owner gave a medium range earlier (signature rose medium 45,000 to 65,000). Owner to confirm the medium round price before sending. Draft uses 45,000 as the starting point.
+- Also confirm: date, contact number, delivery address (Rawalpindi same-day delivery exists; delivery charges depend on area).
+- Draft reply (copy box, pending owner confirmation of the medium price):
+  "For a medium size, the bouquet will be made in a round shape, not a heart. A medium round bouquet starts from around 45,000 PKR. The large heart bouquet is 47,500 PKR. Could you please confirm the date you need it, your contact number, and your delivery address in Chaklala Scheme?"
+- Roman Urdu meaning: Medium size ke liye bouquet round shape mein banega, heart mein nahi. Medium round bouquet lagbhag 45,000 PKR se shuru hota hai. Large heart bouquet 47,500 PKR ka hai. Aap date, contact number aur Chaklala Scheme ka delivery address confirm kar dein.
