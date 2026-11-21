@@ -37,3 +37,4 @@
 - 21 Nov 2026: new Exclusive ad lead _urneeb_zahraa saved in cloud.md (asked price only). Draft greets, describes heart bouquet, asks budget, size, date.
 - 21 Nov 2026: new Exclusive ad lead ahmadkamrannn saved in cloud.md (asked pre-order shipping time). Draft asks bouquet, budget, size, date. Shipping time pending owner.
 - 21 Nov 2026: new Exclusive ad lead javeria saved in cloud.md (shared reel, asked pre-order shipping time). Shipping time pending owner.
+- 21 Nov 2026: playcarmenbylanadelrey budget 2,500-3,000 (currency unclear), date 1 Dec. Below our range. Owner decision pending.

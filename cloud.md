@@ -485,3 +485,14 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, thank you for your message. Our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share your budget, the size you would like, and the date you need the order for?"
+
+## playcarmenbylanadelrey update (21 Nov 2026, 6:59 PM screenshot)
+- Owner's reply (heart bouquet: pink lilies, red roses, baby's breath; asked budget, quantity, date) already sent.
+- Customer 6:59 PM: "could the budget be around 2500-3000? and I need it by December 1st".
+- Budget: 2,500 to 3,000 (currency not stated). In PKR this is far below our smallest bouquet (about 12,000). In USD it is about 690,000 to 830,000 PKR, so currency must be confirmed.
+- Date: 1 December.
+- Heart bouquet price is 47,500. Budget under about 45,000 gets the round bouquet (owner's rule). Budget this low: owner to decide.
+- Status: waiting for owner decision on currency and what to offer.
+
+Draft reply (copy box, pending owner approval, only after owner decides):
+"Thank you for the details. Our bouquets start from around 12,000 PKR, so a budget of 2,500 to 3,000 is below our range. Could you confirm if your budget is in PKR or USD? We have noted December 1st as your date."
