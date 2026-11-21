@@ -640,3 +640,10 @@ Draft reply (copy box, pending owner approval):
 "Hi, could you please tell me which bouquet you are interested in from our ad? Also, share your budget, the size you would like, and the date you need the order for, so I can suggest the right price for you."
 
 Roman Urdu meaning: Hi, kya aap bata sakti hain ke aap ad ka kaunsa bouquet chahti hain? Aur apna budget, size aur date bata dein, taake main sahi price bata sakun.
+
+## wajihablooms update (owner, 21 Nov 2026, 7:17 PM)
+- Owner: she came from the campaign reels and asked the price. So the bouquet is the campaign bouquet (pink lilies, red roses, baby's breath), not unknown.
+- Do not ask which bouquet. Describe the campaign bouquet and ask budget, size and date. No price first.
+- Draft reply (copy box, pending owner approval):
+  "Hi, this is the bouquet from our campaign, made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hi, ye hamare campaign wala bouquet hai, jo pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
