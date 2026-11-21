@@ -669,3 +669,9 @@ Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "We price the whole bouquet, not single flowers, because the flowers, wrapping and design together make one arrangement. To suggest the right option for you, could you share your budget, the size you would like, and the date you need the order for?"
 - Roman Urdu meaning: Hum single phoolon ki price nahi batate, poora bouquet ki price batate hain, kyunki phool, wrapping aur design mil kar ek arrangement banate hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## minnisblings.pk update 2 (owner, 21 Nov 2026, 7:21 PM)
+- Owner: if they ask the price of a single lily, give the stem price. Stem = 3 buds, list price 3,500 per stem. Do not quote the 2,500 bargaining minimum.
+- Draft reply (copy box, pending owner approval):
+  "Our lilies are priced per stem. One stem has 3 lilies and is 3,500 PKR. To suggest the right option for you, could you share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hamare lilies stem ke hisaab se hain. Ek stem mein 3 lilies hote hain aur uski price 3,500 PKR hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
