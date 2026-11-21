@@ -330,3 +330,14 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 ## Customer: playcarmenbylanadelrey (21 Nov, 6:01 PM)
 - Asked "How much is this" on heart bouquet. Message request not accepted yet.
 - Reply drafted: composition, ask budget, volume, date.
+
+## CORRECTION (owner, 21 Nov 2026, 6:26 PM): lily pricing
+- List price per lily stem: 3,500 (this is the price to quote first).
+- 2,500 per lily stem is the MINIMUM limit for bargaining only. Do not quote it as the price.
+- List calculation (40 roses, 7 lilies, 10 baby's breath stems):
+  - Roses 40 x 800 = 32,000
+  - Lilies 7 x 3,500 = 24,500
+  - Baby's breath 10 x 450 = 4,500
+  - Subtotal 61,000, plus design 2,800 (hidden) = 63,800
+- Bargaining floor (lilies at 2,500): subtotal 54,000 (design 2,800 is hidden, so not included in the bargaining check unless owner says).
+- Owner's earlier cost expectation: 44,000 to 46,000. Still to confirm.

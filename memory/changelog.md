@@ -19,3 +19,4 @@
 - 21 Nov 2026: corrected round to heart in price and memory files; 40 roses / 7 lilies bouquet is heart (47,000).
 - 21 Nov 2026: customer reply rules saved to owner-preferences.md (no price first, check greeting, ask order and budget).
 - 21 Nov 2026: heart price rules and two customer updates saved in cloud.md. Lily at 2,500 gives 54,000 subtotal, owner to confirm vs 44k to 46k cost.
+- 21 Nov 2026: lily list price 3,500 per stem, 2,500 is bargaining minimum. List subtotal 61,000 (63,800 with hidden design). Floor 54,000.
