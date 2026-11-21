@@ -40,3 +40,4 @@
 - 21 Nov 2026: playcarmenbylanadelrey budget 2,500-3,000 (currency unclear), date 1 Dec. Below our range. Owner decision pending.
 - 21 Nov 2026: owner confirmed playcarmen budget is PKR (2,500-3,000). USD question dropped. Draft updated.
 - 21 Nov 2026: new direct lead fwavatar (director) saved in cloud.md (asked if we ship, delivery). Draft asks city/area, item, budget, date. Roman Urdu meaning added to draft.
+- 21 Nov 2026: yvanilla3_ date 25 Nov, asked approx price. Range given (12,000 small, 47,500 heart). Budget and size still pending.

@@ -516,3 +516,18 @@ Draft reply (copy box, pending owner approval):
 "Hi, yes, we do delivery. The delivery charge depends on your area. Could you please share your city and area, the bouquet or item you are interested in, your budget, and the date you need it? Then I can confirm the delivery details for you."
 
 Roman Urdu meaning: Jee haan, hum delivery karte hain. Delivery charges aap ke area par depend karte hain. Aap apna city aur area, jo bouquet ya cheez chahiye, budget aur date bata dein, phir main delivery ki details confirm kar doonga.
+
+## yvanilla3_ update (21 Nov 2026, 7:04 PM screenshot)
+- Owner's first reply already sent (lily types, budget, size, date).
+- Customer: "25 nov" (date). Then asked "whats the approx price".
+- Date: 25 November.
+- Budget and size: not given yet.
+- Price range (from records, given because customer asked): small bouquet from about 12,000 PKR; lily heart bouquet 47,500 PKR.
+- Owner's "Mark conversation as good for your business?" prompt is still open (owner decision: Yes or No).
+- Greeting: already done. Do not greet again.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"We have noted 25 November as your date. Our prices depend on the size and flowers. A small bouquet starts from around 12,000 PKR, and a bigger lily heart bouquet is about 47,500 PKR. Could you tell me your budget and the size you would like?"
+
+Roman Urdu meaning: Hum ne aap ki date 25 November note kar li hai. Hamari prices size aur phoolon par depend karti hain. Chhota bouquet lagbhag 12,000 PKR se shuru hota hai, aur bada lily heart bouquet lagbhag 47,500 PKR ka hai. Aap apna budget aur size bata dein?
