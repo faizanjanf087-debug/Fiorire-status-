@@ -876,3 +876,14 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 - Draft reply (copy box, pending owner confirmation of counts):
   "For a medium round bouquet within your budget, we can make it at around 35,000 PKR with about 30 red roses, 7 pink lilies and 3 baby's breath stems. A small round bouquet starts around 12,000 PKR with about 12 red roses, 2 lilies and baby's breath. A large heart bouquet is 47,500 PKR with 40 red roses, 7 pink lilies and 10 baby's breath stems. Could you please confirm the date you need it and your contact number?"
 - Roman Urdu meaning: Aap ke budget ke andar medium round bouquet lagbhag 35,000 PKR mein ban sakta hai, jis mein lagbhag 30 red roses, 7 pink lilies aur 3 baby's breath stems honge. Chhota round bouquet lagbhag 12,000 PKR se shuru hota hai, jis mein lagbhag 12 red roses, 2 lilies aur baby's breath honge. Bada heart bouquet 47,500 PKR ka hai, jis mein 40 red roses, 7 pink lilies aur 10 baby's breath stems honge. Aap date aur contact number confirm kar dein.
+
+## Order: 26 Nov 2026, delivery DHA-II (WhatsApp, 21 Nov 2026, 10:58 PM screenshots)
+- Delivery date: 26 November 2026. Area: DHA-II.
+- Receiver: Maryam Sabir, House 2, Street 1, Sector C, DHA 2. Phone 0347 0168125.
+- Sender name on card: Barrah.
+- WhatsApp contact: +92 323 57814... (customer).
+- Price agreed: 14,500 (owner's price, "14500/-"). Customer asked for discount, then said 14K final. Owner: "Ok sir, 500 pending".
+- Payments seen: Rs 14,000 at 20 Nov 2026, 8:26 PM, from Khawaja Zaeem Waseem to M MAHAD ZAFAR (HBL *8203), ref Raast-622932. Rs 300 at 20 Nov 2026, 8:27 PM, same sender and receiver, ref Raast-630172.
+- Balance: 500 pending (owner's message). Confirm whether the 300 is part of the 14,000 or extra.
+- Items: NOT in the chat screenshots. Owner to send item details before the PDF.
+- Status: waiting for item list and confirmation of the 300 payment.
