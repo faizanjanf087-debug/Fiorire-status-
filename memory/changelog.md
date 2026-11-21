@@ -29,3 +29,4 @@
 - 21 Nov 2026: new Exclusive ad lead black_qat saved in cloud.md (pink lilies, 8 December, budget about 6k). Draft asks occasion, size, confirms date. Budget decision pending owner.
 - 21 Nov 2026: memory/thinking.md created (checklist before each reply). black_qat draft: removed greeting and thank you because owner's voice note already greeted.
 - 21 Nov 2026: new Exclusive ad lead brahumdagh_khaliq saved in cloud.md (asked if we are from Karachi). Draft asks order intent and budget. Owner to confirm Karachi branch.
+- 21 Nov 2026: brahumdagh_khaliq draft corrected per owner: main branch Islamabad, shops also in Karachi.
