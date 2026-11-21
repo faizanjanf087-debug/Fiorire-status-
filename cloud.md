@@ -592,3 +592,14 @@ Roman Urdu meaning: Hi, ye bouquet red roses, pink lilies aur baby's breath se b
 - Corrected draft (copy box, pending owner approval):
   "Hi, this bouquet has about 6 pink lilies, red roses and baby's breath, wrapped in maroon paper. To suggest the right price for you, could you please share your budget, the size you would like, and the date you need the order for?"
 - Roman Urdu meaning: Hi, is bouquet mein lagbhag 6 pink lilies, red roses aur baby's breath hain, maroon paper mein wrap hai. Aap apna budget, size aur date bata dein, phir main sahi price bata sakti hoon.
+
+## iinayazahid bouquet composition and price estimate (owner, 21 Nov 2026, 7:12 PM)
+- Owner's composition: 10 to 12 roses (red), 6 imported lilies, 3 baby's breath stems.
+- Rates used (from records): rose 800 per stem (imported rate, owner to confirm for these roses); lily 6 buds at 1,166.67 per bud (3,500 per 3-bud stem); baby's breath 450 per stem.
+- 10 roses: 8,000 + lilies 7,000 + baby's breath 1,350 = 16,350.
+- 12 roses: 9,600 + lilies 7,000 + baby's breath 1,350 = 17,950.
+- Design charge 2,800 is hidden. Do not share it unless the customer asks for details.
+- Range for the customer: about 16,000 to 18,000 PKR (owner to confirm before sending).
+- Draft reply (copy box, pending owner approval):
+  "Hi, this bouquet has about 10 to 12 red roses, 6 imported pink lilies and 3 baby's breath stems, wrapped in maroon paper. The price is around 16,000 to 18,000 PKR. Could you share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hi, is bouquet mein lagbhag 10 se 12 red roses, 6 imported pink lilies aur 3 baby's breath stems hain, maroon paper mein wrap hai. Price lagbhag 16,000 se 18,000 PKR hai. Aap apna budget, size aur date bata dein?

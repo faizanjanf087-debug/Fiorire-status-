@@ -46,3 +46,4 @@
 - 21 Nov 2026: new Exclusive ad lead izza_sardarr saved in cloud.md (asked lily types). Draft asks budget, size, date.
 - 21 Nov 2026: new Exclusive ad lead iinayazahid saved in cloud.md (asked price). Draft describes bouquet, asks budget, size, date.
 - 21 Nov 2026: iinayazahid draft corrected per owner: about 6 lilies and baby's breath. Price pending owner calc.
+- 21 Nov 2026: iinayazahid composition set (10-12 roses, 6 imported lilies, 3 baby's breath). Estimate 16,350 to 17,950 PKR (design hidden). Owner to confirm.
