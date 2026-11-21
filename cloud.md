@@ -660,3 +660,12 @@ Draft reply (copy box, pending owner approval):
 "Hi, this bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## minnisblings.pk update (owner, 21 Nov 2026, 7:20 PM)
+- Customer: "I wanna know what's the price of these specific lilies only shown in the reel".
+- Our earlier reply (sent by owner): lily bouquets with pink lilies, red roses and baby's breath; asked budget, size, date.
+- Concern: account has 15 followers and 0 posts, and asks for single-flower prices. Could be a competitor checking prices. Owner to decide.
+- Rule: no single flower or per-stem price to customers. Price the whole bouquet only after budget, size and date.
+- Draft reply (copy box, pending owner approval):
+  "We price the whole bouquet, not single flowers, because the flowers, wrapping and design together make one arrangement. To suggest the right option for you, could you share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hum single phoolon ki price nahi batate, poora bouquet ki price batate hain, kyunki phool, wrapping aur design mil kar ek arrangement banate hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
