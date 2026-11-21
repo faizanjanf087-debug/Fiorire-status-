@@ -496,3 +496,9 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval, only after owner decides):
 "Thank you for the details. Our bouquets start from around 12,000 PKR, so a budget of 2,500 to 3,000 is below our range. Could you confirm if your budget is in PKR or USD? We have noted December 1st as your date."
+
+## playcarmenbylanadelrey currency note (owner, 21 Nov 2026, 7:01 PM)
+- Owner: the conversation is in PKR, so the budget is 2,500 to 3,000 PKR. No USD question needed.
+- Budget 2,500 to 3,000 PKR is below our smallest bouquet (about 12,000 PKR). Owner to decide what to offer.
+- Draft reply (copy box, pending owner decision):
+  "Thank you for the details. Our bouquets start from around 12,000 PKR, so a budget of 2,500 to 3,000 is below our range. We have noted December 1st as your date. Would you like to see our options within your budget, or can you increase the budget?"
