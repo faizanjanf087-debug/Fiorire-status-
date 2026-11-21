@@ -341,3 +341,10 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
   - Subtotal 61,000, plus design 2,800 (hidden) = 63,800
 - Bargaining floor (lilies at 2,500): subtotal 54,000 (design 2,800 is hidden, so not included in the bargaining check unless owner says).
 - Owner's earlier cost expectation: 44,000 to 46,000. Still to confirm.
+
+## Lily pricing by bud (owner, 21 Nov 2026, 6:28 PM)
+- Lily stem 3,500 = 3 buds. Per bud = 3,500 / 3 = 1,166.67. Bouquet has 7 buds: 7 x 1,166.67 = 8,167.
+- Full bouquet (3-bud basis): roses 32,000 + lilies 8,167 + baby's breath 4,500 = 44,667 (about 44,700). Matches owner's expected cost of 44,000 to 46,000.
+- 2-bud basis (2,500 / 2 = 1,250 per bud): 7 x 1,250 = 8,750, total 45,250.
+- Single bud at 1,500: 7 x 1,500 = 10,500, total 47,000.
+- Design charge 2,800 stays hidden.
