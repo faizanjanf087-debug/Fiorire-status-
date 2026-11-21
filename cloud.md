@@ -782,3 +782,16 @@ Roman Urdu meaning: Medium lily heart bouquet ki price 47,500 PKR hai. Aap apna 
 - Draft reply (copy box, pending owner approval):
   "Each stem has 3 lilies."
 - Roman Urdu meaning: Har stem mein 3 lilies hote hain.
+
+## Exclusive ad lead: abdul_muq33t (21 Nov 2026, 7:27 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: abdul_muq33t (Abdul Muqeet).
+- Message: 7:27 PM "How long does pre-order take to ship?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: shipping time (owner to confirm), bouquet, budget, size, date, area.
+- Status: waiting for owner to confirm shipping time and approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share the bouquet you are interested in, your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, hamare pre-order ka shipping time bouquet aur date par depend karta hai. Exact time batane ke liye aap jo bouquet chahte hain, budget, size aur date bata dein.
