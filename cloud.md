@@ -645,8 +645,8 @@ Roman Urdu meaning: Hi, kya aap bata sakti hain ke aap ad ka kaunsa bouquet chah
 - Owner: she came from the campaign reels and asked the price. So the bouquet is the campaign bouquet (pink lilies, red roses, baby's breath), not unknown.
 - Do not ask which bouquet. Describe the campaign bouquet and ask budget, size and date. No price first.
 - Draft reply (copy box, pending owner approval):
-  "Hi, this is the bouquet from our campaign, made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
-- Roman Urdu meaning: Hi, ye hamare campaign wala bouquet hai, jo pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+  "Hi, this bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+- Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
 
 ## Exclusive ad lead: itss._fazal (21 Nov 2026, 7:10 PM screenshot)
 - Source: shared the campaign reel (pink lilies, red roses, baby's breath) and asked the price of a lily bouquet.
@@ -657,6 +657,6 @@ Roman Urdu meaning: Hi, kya aap bata sakti hain ke aap ad ka kaunsa bouquet chah
 - Status: waiting for owner to approve the draft reply. No price first.
 
 Draft reply (copy box, pending owner approval):
-"Hi, this is the bouquet from our campaign, made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+"Hi, this bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
-Roman Urdu meaning: Hi, ye hamare campaign wala bouquet hai, jo pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
