@@ -348,3 +348,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - 2-bud basis (2,500 / 2 = 1,250 per bud): 7 x 1,250 = 8,750, total 45,250.
 - Single bud at 1,500: 7 x 1,500 = 10,500, total 47,000.
 - Design charge 2,800 stays hidden.
+
+## Total with design charge 2,800 (owner, 21 Nov 2026, 6:29 PM)
+- 3-bud basis: 44,667 + 2,800 = 47,467 (main figure)
+- 2-bud basis: 45,250 + 2,800 = 48,050
+- Single bud at 1,500: 47,000 + 2,800 = 49,800

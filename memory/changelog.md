@@ -21,3 +21,4 @@
 - 21 Nov 2026: heart price rules and two customer updates saved in cloud.md. Lily at 2,500 gives 54,000 subtotal, owner to confirm vs 44k to 46k cost.
 - 21 Nov 2026: lily list price 3,500 per stem, 2,500 is bargaining minimum. List subtotal 61,000 (63,800 with hidden design). Floor 54,000.
 - 21 Nov 2026: lily per-bud calc saved in cloud.md: 3-bud basis gives full bouquet 44,667.
+- 21 Nov 2026: total with design 2,800 = 47,467 (3-bud basis) saved in cloud.md.
