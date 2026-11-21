@@ -19,3 +19,4 @@
 - Alternative: lilies at 1,200 each = 8,400, total 44,900 (with 10 baby's breath).
 - Floor price: 45,000 (Mahad bhai's rule, internal, not to tell customers unless owner says).
 - Karachi and Lahore delivery available with separate charges. Our own shops in those cities.
+- 21 Nov 2026 clarification (owner): the heart-shaped lily bouquet (fiorireexclusive.pk post, pink and red lilies, heart form) is NOT the round one. Heart bouquet is 45,000 and above. If a customer below 45,000 asks, tell them the heart shape is not possible at that budget and offer the round bouquet instead.
