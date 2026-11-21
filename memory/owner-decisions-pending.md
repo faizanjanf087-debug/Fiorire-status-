@@ -8,3 +8,4 @@
 - Rawalpindi delivery charges for future orders.
 - Nebela Rehman: address and privacy issue.
 - Mark conversation "good for business" on Meta: yes or no.
+- 21 Nov 2026 (from Mahad bhai via owner): new ad running in Karachi DHA sectors, Lahore, Islamabad. Round lily bouquet: 14 imported roses plus lilies, 45,000 to 50,000, floor 45,000. Roses can be reduced, lilies at the corner. Karachi queries: delivery only Islamabad and Rawalpindi, owner to decide reply. Confirm: meaning of corner lilies, whether floor price is told to customers.
