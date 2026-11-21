@@ -432,3 +432,14 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. Could you share your budget, the size you would like, and the date you need the order for? Then I can suggest the best option for you."
+
+## its_asadm update (21 Nov 2026, 6:53 PM screenshot)
+- Customer: "I have around fifty dollars for a small bouquet."
+- Budget: about 50 USD (customer's currency). Our prices are in PKR, so the budget needs conversion (owner to confirm the rate).
+- Small bouquet options from our records: 12,000 and 18,000 (Exclusive ad options).
+- Greeting: already done by our reply (6:30 PM). Do not greet again.
+- Missing: size confirmation, date, area.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Our prices are in PKR. For a small bouquet we have options from around 12,000 and 18,000 PKR. Could you tell me the date you need it, and your city or area? Then I can confirm the best option for you."
