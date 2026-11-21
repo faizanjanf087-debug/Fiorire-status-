@@ -690,3 +690,12 @@ Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "Thank you for the details. A heart bouquet is not possible at a budget of 5,000 PKR. At this budget, we can make a small round bouquet with around 6 red roses. Please share the exact date in February when you need it, and I will confirm the final details for you."
 - Roman Urdu meaning: Details ka shukriya. 5,000 PKR ke budget mein heart bouquet mumkin nahi. Is budget mein lagbhag 6 red roses wala chhota round bouquet ban sakta hai. Feb ki exact date bata dein, phir main final details confirm kar doonga.
+
+## ushneykhurram calculation (owner, 21 Nov 2026, 7:25 PM)
+- Owner's rates: imported red rose 800 per stem; local rose 400 per stem; wrapping charge about 1,200; baby's breath included.
+- Option A (imported roses): 4 roses x 800 = 3,200 + wrapping 1,200 = 4,400 (baby's breath included). Fits budget 5,000.
+- Option B (local roses): 4 roses x 400 = 1,600 + wrapping 1,200 = 2,800. Can be customised further (owner says customise in local roses).
+- Customer budget: 5,000 PKR.
+- Draft reply (copy box, pending owner approval):
+  "At 5,000 PKR, we can make a bouquet with 4 red roses and baby's breath, including wrapping. If you choose local roses, we can customise it further for your budget. Please share the exact date in February when you need it, and I will confirm the final details for you."
+- Roman Urdu meaning: 5,000 PKR mein hum 4 red roses aur baby's breath ka bouquet bana sakte hain, wrapping ke saath. Agar aap local roses chunti hain to hum apke budget ke mutabiq aur customise kar sakte hain. Feb ki exact date bata dein, phir main final details confirm kar doonga.
