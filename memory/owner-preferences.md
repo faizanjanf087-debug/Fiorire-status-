@@ -7,3 +7,9 @@
 - Make a PDF when the owner asks (order summary for Mahad bhai).
 - Owner does not want long explanations or Hindi in replies. Keep answers short.
 - Owner wants the assistant to remember past conversations (the "memory expert" idea).
+
+## Customer reply rules (owner, 21 Nov 2026)
+- First check if greeting was already sent in this chat. If yes, do not repeat hi, salam or thanks for interest.
+- Describe what is in the bouquet (roses, lilies, baby's breath) first.
+- Do NOT give the price first. Ask order, budget, volume and date, in a professional and human tone.
+- Price only after the customer shares budget and order details.

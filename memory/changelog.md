@@ -17,3 +17,4 @@
 - 21 Nov 2026: heart lily bouquet calculation saved in prices-rate-card.md (total 47,000).
 - 21 Nov 2026: heart vs round bouquet clarified and saved.
 - 21 Nov 2026: corrected round to heart in price and memory files; 40 roses / 7 lilies bouquet is heart (47,000).
+- 21 Nov 2026: customer reply rules saved to owner-preferences.md (no price first, check greeting, ask order and budget).
