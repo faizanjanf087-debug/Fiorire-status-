@@ -443,3 +443,12 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Our prices are in PKR. For a small bouquet we have options from around 12,000 and 18,000 PKR. Could you tell me the date you need it, and your city or area? Then I can confirm the best option for you."
+
+## its_asadm budget calculation (21 Nov 2026, 6:56 PM)
+- Customer budget: $50 (USD).
+- Rate used: 1 USD = 276.5 PKR (Wise, checked 21 Nov 2026, no timestamp; owner to confirm rate).
+- $50 = about 13,825 PKR.
+- Small bouquet 12,000 PKR = about $43. Fits budget.
+- Small bouquet 18,000 PKR = about $65. Above budget.
+- Draft reply (copy box, pending owner approval):
+  "Our prices are in PKR. Our small bouquet starts at around 12,000 PKR, which is within your budget of about $50. Could you tell me the date you need it, and your city or area? Then I can confirm the best option for you."
