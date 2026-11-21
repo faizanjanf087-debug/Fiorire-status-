@@ -67,3 +67,4 @@
 - 21 Nov 2026: owner said answer lilies per stem: 3 per stem, 3,500 PKR. minnisblings draft 4 updated.
 - 21 Nov 2026: minnisblings draft 5: short answer, each stem has 3 lilies.
 - 21 Nov 2026: new Exclusive ad lead abdul_muq33t saved in cloud.md (asked pre-order shipping time). Shipping time pending owner.
+- 21 Nov 2026: direct lead 06.zazaa sent white-rose reference photos and asked price. Not our campaign bouquet. Owner to decide on making similar design.

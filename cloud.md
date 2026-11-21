@@ -795,3 +795,17 @@ Draft reply (copy box, pending owner approval):
 "Hi, our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share the bouquet you are interested in, your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, hamare pre-order ka shipping time bouquet aur date par depend karta hai. Exact time batane ke liye aap jo bouquet chahte hain, budget, size aur date bata dein.
+
+## Direct lead: 06.zazaa (21 Nov 2026, 7:35 PM screenshot)
+- Source: direct message. Customer sent two reference photos (white roses, pale blue flowers, black wrap, blue ribbon). Not our campaign bouquet. Our voice note (0:32) was sent before; transcription not shown.
+- Instagram: 06.zazaa (no name shown).
+- Messages: 7:27 PM replied to themselves with the photos, then "price" and "pp".
+- Greeting: our voice note may have greeted. Check the voice note transcription before greeting again (owner to confirm).
+- Missing: budget, size, date, area, which design (white rose version).
+- Owner to decide: whether we can make a similar white-rose bouquet.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, we can make a bouquet in a similar style with white roses. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, hum isi style ka bouquet white roses mein bana sakte hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
