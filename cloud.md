@@ -647,3 +647,16 @@ Roman Urdu meaning: Hi, kya aap bata sakti hain ke aap ad ka kaunsa bouquet chah
 - Draft reply (copy box, pending owner approval):
   "Hi, this is the bouquet from our campaign, made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 - Roman Urdu meaning: Hi, ye hamare campaign wala bouquet hai, jo pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## Exclusive ad lead: itss._fazal (21 Nov 2026, 7:10 PM screenshot)
+- Source: shared the campaign reel (pink lilies, red roses, baby's breath) and asked the price of a lily bouquet.
+- Instagram: itss._fazal (Fazal), active now.
+- Message: 7:10 PM "Whats the price for a lilie boquet".
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area.
+- Status: waiting for owner to approve the draft reply. No price first.
+
+Draft reply (copy box, pending owner approval):
+"Hi, this is the bouquet from our campaign, made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, ye hamare campaign wala bouquet hai, jo pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
