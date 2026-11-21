@@ -752,3 +752,13 @@ Draft reply (copy box, pending owner approval):
 "A medium lily heart bouquet is 47,500 PKR. Could you please share the budget you have in mind and the date you need the order for?"
 
 Roman Urdu meaning: Medium lily heart bouquet ki price 47,500 PKR hai. Aap apna budget aur date bata dein jis din order chahiye.
+
+## playcarmenbylanadelrey update (21 Nov 2026, 7:31 PM screenshot)
+- Customer: budget can be up to 5,000 PKR. Wants options near that range. Date: 1 December.
+- Heart bouquet is not possible at 5,000 (heart is 47,500 at medium).
+- Options (owner's rates, same as ushneykhurram calc):
+  - Option A: 4 imported red roses x 800 = 3,200 + wrapping 1,200 = 4,400 (baby's breath included). Fits budget.
+  - Option B: 4 local roses x 400 = 1,600 + wrapping 1,200 = 2,800. Can be customised.
+- Draft reply (copy box, pending owner approval):
+  "For up to 5,000 PKR, we can make a bouquet with 4 red roses and baby's breath, including wrapping. We can also make it with local roses and customise it to your choice. A heart bouquet is not possible at this budget. Which colour do you prefer, and can we confirm 1 December?"
+- Roman Urdu meaning: 5,000 PKR tak hum 4 red roses aur baby's breath ka bouquet wrapping ke saath bana sakte hain. Local roses se bhi bana sakte hain aur apki pasand ke mutabiq customise kar sakte hain. Is budget mein heart bouquet mumkin nahi. Aap kaunsa rang pasand karti hain, aur kya hum 1 December confirm kar sakte hain?

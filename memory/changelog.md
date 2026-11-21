@@ -62,3 +62,4 @@
 - 21 Nov 2026: ahmed.sheikh073 asked price and delivery days; message request not accepted yet. Draft ready after owner accepts. Delivery days pending owner.
 - 21 Nov 2026: rania.ali24 replied to story asking price. Message request pending. Draft ready after owner accepts.
 - 21 Nov 2026: itss._fazal asked budget for medium bouquet. Draft: medium lily heart 47,500, asks budget and date.
+- 21 Nov 2026: playcarmenbylanadelrey budget up to 5,000, date 1 Dec. Options: 4 imported roses 4,400 or local 2,800 customisable. Draft updated.
