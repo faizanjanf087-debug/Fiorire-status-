@@ -48,3 +48,4 @@
 - 21 Nov 2026: iinayazahid draft corrected per owner: about 6 lilies and baby's breath. Price pending owner calc.
 - 21 Nov 2026: iinayazahid composition set (10-12 roses, 6 imported lilies, 3 baby's breath). Estimate 16,350 to 17,950 PKR (design hidden). Owner to confirm.
 - 21 Nov 2026: coco_mel asked price again. Owner: pink and white roses mix, 2 lilies, baby's breath (no 10 roses). Rose count and price pending owner.
+- 21 Nov 2026: coco_mel price estimate 13,850 PKR (8 roses assumed, 2 lily stems, 1 baby's breath). Owner to confirm rose count.

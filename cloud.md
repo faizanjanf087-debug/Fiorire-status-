@@ -619,3 +619,11 @@ Draft reply (copy box, pending owner approval, no price yet):
 "This bouquet has pink and white roses, 2 white lilies and baby's breath, wrapped in pink paper with a ribbon. To suggest the right price, could you share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Is bouquet mein pink aur white roses, 2 white lilies aur baby's breath hain, pink paper aur ribbon mein wrap hai. Sahi price batane ke liye aap apna budget, size aur date bata dein.
+
+## coco_mel price estimate and budget draft (owner, 21 Nov 2026, 7:15 PM)
+- Owner: give the price, ask the customer's budget, and say the bouquet can be customised for high volume to fit the budget.
+- Assumptions (owner to confirm before sending): 8 roses (pink and white mix, count not confirmed), 2 lily stems at 3,500 per stem, 1 baby's breath stem at 450.
+- Rose 8 x 800 = 6,400. Lilies 2 x 3,500 = 7,000. Baby's breath 450. Total 13,850 PKR. Design charge 2,800 hidden (do not share).
+- Draft reply (copy box, pending owner confirmation of the rose count):
+  "This bouquet with pink and white roses, 2 white lilies and baby's breath is around 13,850 PKR. We customise it on multiple budgets, and we can also do high volume orders according to your budget. What is your budget, and which date do you need the order for?"
+- Roman Urdu meaning: Is bouquet (pink aur white roses, 2 white lilies, baby's breath) ki price lagbhag 13,850 PKR hai. Hum apke budget ke hisaab se customise karte hain, aur high volume order bhi apke budget ke mutabiq ho sakta hai. Aapka budget kya hai, aur kis date tak order chahiye?
