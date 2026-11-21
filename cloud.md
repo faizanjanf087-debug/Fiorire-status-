@@ -353,3 +353,8 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - 3-bud basis: 44,667 + 2,800 = 47,467 (main figure)
 - 2-bud basis: 45,250 + 2,800 = 48,050
 - Single bud at 1,500: 47,000 + 2,800 = 49,800
+
+## Final heart price and budget rule (owner, 21 Nov 2026, 6:30 PM)
+- Heart bouquet final price: 47,500 (rounded, includes design 2,800).
+- If a customer's budget is around 40,000 or 35,000 or lower: tell them a heart shape is not possible at that budget, and the round (gol) bouquet will be made instead.
+- Round bouquet is for smaller volume and lower budgets.
