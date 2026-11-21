@@ -820,3 +820,10 @@ Roman Urdu meaning: Hi, hum isi style ka bouquet white roses mein bana sakte hai
 - Draft reply (copy box, pending owner approval):
   "Our rose bouquets come in different sizes, from small to large, up to 500 roses. Prices per stem: imported rose 800 PKR, local rose 400 PKR. Wrapping is 1,200 PKR extra. At around 5,000 PKR, we can make about 4 imported roses or about 9 local roses. A bigger bouquet like 100 roses can also be customised according to your budget. Would you prefer imported or local roses, and what is your budget?"
 - Roman Urdu meaning: Hamare rose bouquets alag size mein ban sakte hain, chhote se bade tak, 500 roses tak. Price per stem: imported rose 800 PKR, local rose 400 PKR. Wrapping 1,200 PKR extra hai. Lagbhag 5,000 PKR mein hum lagbhag 4 imported roses ya lagbhag 9 local roses bana sakte hain. 100 roses wala bada bouquet bhi apke budget ke mutabiq customise ho sakta hai. Aap imported chahti hain ya local, aur budget kya hai?
+
+## ushneykhurram draft correction (owner, 21 Nov 2026, 7:40 PM)
+- Owner: do not mention wrapping charges to the customer. Wrapping is complimentary on large orders. Give stem prices and stem counts only.
+- Stem counts at around 5,000 PKR (stems only): 5,000 / 800 = about 6 imported roses; 5,000 / 400 = about 12 local roses.
+- Corrected draft (copy box, pending owner approval):
+  "Our rose bouquets come in different sizes, from small to large, up to 500 roses. Prices per stem: imported rose 800 PKR, local rose 400 PKR. At around 5,000 PKR, we can make about 6 imported roses or about 12 local roses. A bigger bouquet like 100 roses can also be customised according to your budget. Would you prefer imported or local roses, and what is your budget?"
+- Roman Urdu meaning: Hamare rose bouquets alag size mein ban sakte hain, chhote se bade tak, 500 roses tak. Price per stem: imported rose 800 PKR, local rose 400 PKR. Lagbhag 5,000 PKR mein hum lagbhag 6 imported roses ya lagbhag 12 local roses bana sakte hain. 100 roses wala bada bouquet bhi apke budget ke mutabiq customise ho sakta hai. Aap imported chahti hain ya local, aur budget kya hai?
