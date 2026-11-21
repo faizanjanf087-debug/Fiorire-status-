@@ -627,3 +627,16 @@ Roman Urdu meaning: Is bouquet mein pink aur white roses, 2 white lilies aur bab
 - Draft reply (copy box, pending owner confirmation of the rose count):
   "This bouquet with pink and white roses, 2 white lilies and baby's breath is around 13,850 PKR. We customise it on multiple budgets, and we can also do high volume orders according to your budget. What is your budget, and which date do you need the order for?"
 - Roman Urdu meaning: Is bouquet (pink aur white roses, 2 white lilies, baby's breath) ki price lagbhag 13,850 PKR hai. Hum apke budget ke hisaab se customise karte hain, aur high volume order bhi apke budget ke mutabiq ho sakta hai. Aapka budget kya hai, aur kis date tak order chahiye?
+
+## Exclusive ad lead: wajihablooms (21 Nov 2026, 7:01 PM screenshot)
+- Source: replied to an ad (which bouquet is not clear from the screenshot).
+- Instagram: wajihablooms (Wajiha Ahsan), active 13 min ago.
+- Message: 7:01 PM "Price".
+- Greeting: none in our history. Start with a greeting.
+- Missing: which bouquet, budget, size, date, area.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, could you please tell me which bouquet you are interested in from our ad? Also, share your budget, the size you would like, and the date you need the order for, so I can suggest the right price for you."
+
+Roman Urdu meaning: Hi, kya aap bata sakti hain ke aap ad ka kaunsa bouquet chahti hain? Aur apna budget, size aur date bata dein, taake main sahi price bata sakun.
