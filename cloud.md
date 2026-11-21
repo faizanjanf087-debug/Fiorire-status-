@@ -378,3 +378,14 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 Draft reply (English, copy box, pending owner approval):
 "Hi, thank you for your message! Our bouquets come in different sizes, so the price depends on the number of flowers and the design. For a small arrangement the price starts around 12,000, and for a bigger lily bouquet like the one in our video it goes up to about 47,500. Could you tell me your approximate budget, the size you want, and the date you need it? Then I can suggest the best option for you."
 (Roman Urdu meaning: Assalam o alaikum, message ka shukriya! Bouquets size ke hisaab se alag hote hain. Chhota arrangement lagbhag 12,000 se, aur video wala bada lily bouquet lagbhag 47,500 tak. Budget, size aur date bata dein to best option suggest kar sakti hoon.)
+
+## Exclusive ad lead: yvanilla3_ (21 Nov 2026, 6:39 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: yvanilla3_ (56 followers, 0 posts, not following each other).
+- Messages: 6:39 PM "How long does pre-order take to ship?", then "What types of lilies are available for order?", then "price please".
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size or volume, date. Shipping time not confirmed yet (owner to confirm).
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, thank you for reaching out! We have lily bouquets with pink and white lilies, mixed with roses and baby's breath, and you can choose the size. For the price, could you tell me your approximate budget, the size or number of flowers you want, and the date you need it? Then I can suggest the best option for you."
