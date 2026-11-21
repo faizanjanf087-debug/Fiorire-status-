@@ -841,3 +841,16 @@ Draft reply (copy box, pending owner approval):
 "Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bane hote hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## Exclusive ad lead: sidequestloifff (21 Nov 2026, 7:36 PM screenshot)
+- Source: replied to our Exclusive ad (lily campaign: pink lilies, red roses, baby's breath).
+- Instagram: sidequestloifff (display name ":)").
+- Message: 7:36 PM "Price?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area.
+- Status: waiting for owner to approve the draft reply. No price first.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. To suggest the right option and price for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bane hote hain. Sahi option aur price batane ke liye aap apna budget, size aur date bata dein.
