@@ -809,3 +809,14 @@ Draft reply (copy box, pending owner approval):
 "Hi, we can make a bouquet in a similar style with white roses. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, hum isi style ka bouquet white roses mein bana sakte hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## ushneykhurram update (owner, 21 Nov 2026, 7:39 PM)
+- Customer: "no no, the small roses" then sent the 100 long stem roses campaign image: "like this".
+- Owner's info: our rose bouquets can be made up to 500 roses, and also 250 and 300 roses. Can be customised by budget, from 15 roses up to 100 roses or more. Imported or local roses (customer chooses).
+- Prices per stem: imported rose 800 PKR, local rose 400 PKR. Wrapping about 1,200 extra.
+- At 5,000 PKR: about 4 imported roses (3,200 + 1,200 = 4,400), or about 9 local roses (3,600 + 1,200 = 4,800).
+- 100 roses example: imported 80,000 + wrapping; local 40,000 + wrapping (before design; design charge hidden).
+- Customer's date: 5 to 8 February, exact date not sure yet.
+- Draft reply (copy box, pending owner approval):
+  "Our rose bouquets come in different sizes, from small to large, up to 500 roses. Prices per stem: imported rose 800 PKR, local rose 400 PKR. Wrapping is 1,200 PKR extra. At around 5,000 PKR, we can make about 4 imported roses or about 9 local roses. A bigger bouquet like 100 roses can also be customised according to your budget. Would you prefer imported or local roses, and what is your budget?"
+- Roman Urdu meaning: Hamare rose bouquets alag size mein ban sakte hain, chhote se bade tak, 500 roses tak. Price per stem: imported rose 800 PKR, local rose 400 PKR. Wrapping 1,200 PKR extra hai. Lagbhag 5,000 PKR mein hum lagbhag 4 imported roses ya lagbhag 9 local roses bana sakte hain. 100 roses wala bada bouquet bhi apke budget ke mutabiq customise ho sakta hai. Aap imported chahti hain ya local, aur budget kya hai?

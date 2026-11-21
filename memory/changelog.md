@@ -68,3 +68,4 @@
 - 21 Nov 2026: minnisblings draft 5: short answer, each stem has 3 lilies.
 - 21 Nov 2026: new Exclusive ad lead abdul_muq33t saved in cloud.md (asked pre-order shipping time). Shipping time pending owner.
 - 21 Nov 2026: direct lead 06.zazaa sent white-rose reference photos and asked price. Not our campaign bouquet. Owner to decide on making similar design.
+- 21 Nov 2026: ushneykhurram wants small roses; owner gave rose sizes (up to 500), stem prices 800 imported and 400 local, wrapping 1,200. Draft gives options at 5,000 and asks imported or local, budget.
