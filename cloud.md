@@ -531,3 +531,16 @@ Draft reply (copy box, pending owner approval):
 "We have noted 25 November as your date. Our prices depend on the size and flowers. A small bouquet starts from around 12,000 PKR, and a bigger lily heart bouquet is about 47,500 PKR. Could you tell me your budget and the size you would like?"
 
 Roman Urdu meaning: Hum ne aap ki date 25 November note kar li hai. Hamari prices size aur phoolon par depend karti hain. Chhota bouquet lagbhag 12,000 PKR se shuru hota hai, aur bada lily heart bouquet lagbhag 47,500 PKR ka hai. Aap apna budget aur size bata dein?
+
+## Exclusive ad lead: minnisblings.pk (21 Nov 2026, 6:06 PM screenshot)
+- Source: shared the fiorireexclusive reel (lily bouquet) and asked about lily types.
+- Instagram: minnisblings.pk (Minnis Blings, 15 followers, 0 posts). Looks like a small seller or shop account. Owner to check if it is a competitor or a customer.
+- Message: 6:06 PM "What types of lilies are available for order?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area, which bouquet.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. Could you share your budget, the size you would like, and the date you need the order for? Then I can suggest the best option for you."
+
+Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bante hain. Aap apna budget, size aur date bata dein, phir main behtareen option suggest kar sakti hoon.
