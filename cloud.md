@@ -681,3 +681,12 @@ Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "Our lilies are priced per stem, and one stem is 3,500 PKR. Could you please share the date you need it and your delivery address?"
 - Roman Urdu meaning: Hamare lilies stem ke hisaab se hain, aur ek stem ki price 3,500 PKR hai. Aap date aur delivery address bata dein?
+
+## Exclusive ad lead: ushneykhurram update (owner, 21 Nov 2026, 7:23 PM)
+- Customer: budget 5000 (PKR). Date: around 5 to 8 February, exact date not sure yet. Size: medium (earlier).
+- Customer voice note (0:12, Urdu transcript): asks how many simple red roses can come in this budget (what a single rose-option gives at 5,000).
+- Our records: heart bouquet (pink lilies, red roses, baby's breath) is 47,500 at medium; heart not possible at 5,000. Rose rate 800 per stem (imported rate; owner to confirm for local roses). 5,000 / 800 = about 6 roses before wrapping.
+- Owner to confirm: small round bouquet option at 5,000 and the number of roses.
+- Draft reply (copy box, pending owner approval):
+  "Thank you for the details. A heart bouquet is not possible at a budget of 5,000 PKR. At this budget, we can make a small round bouquet with around 6 red roses. Please share the exact date in February when you need it, and I will confirm the final details for you."
+- Roman Urdu meaning: Details ka shukriya. 5,000 PKR ke budget mein heart bouquet mumkin nahi. Is budget mein lagbhag 6 red roses wala chhota round bouquet ban sakta hai. Feb ki exact date bata dein, phir main final details confirm kar doonga.

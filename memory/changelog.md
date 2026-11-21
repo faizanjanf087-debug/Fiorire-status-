@@ -56,3 +56,4 @@
 - 21 Nov 2026: minnisblings.pk asked price of only the lilies in reel. Draft: price the whole bouquet, not single flowers. Owner to decide (possible competitor).
 - 21 Nov 2026: owner said give stem price for single lily question. minnisblings draft now quotes 3,500 per stem (3 lilies).
 - 21 Nov 2026: minnisblings draft 3: stem price only, asks date and address. No lily count, no budget/size.
+- 21 Nov 2026: ushneykhurram budget 5,000, date 5-8 Feb (exact not sure). Draft: heart not possible, small round with about 6 red roses. Owner to confirm.
