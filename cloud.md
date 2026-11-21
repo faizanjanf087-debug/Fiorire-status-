@@ -365,3 +365,16 @@ Adds to the 27 Oct section above. Where the customer table or invoices differ, t
 - playcarmenbylanadelrey: asked "How much is this" on heart bouquet. Message request not accepted yet. Reply drafted (composition, ask budget, size, date). Status: waiting.
 - Naorin Asif (naorinasif_): asked "Price" (reply to ad, 6:31 PM). Reply sent (composition, ask budget, size, date). No greeting before. Status: waiting.
 - Muhammad Azmeer (azmeer_khan2): asked "How much is it for lilies bouquet" (6:32 PM). Reply drafted (heart bouquet, ask budget, size, date). Status: waiting.
+
+## Exclusive ad lead: m_taitai592 (21 Nov 2026, 6:34 PM screenshot)
+- Campaign: Fiorire Exclusive (Bahria Town Phase 4), lily bouquet ad.
+- Instagram: m_taitai592 (display name Mohammad...). Earlier sent a bouquet reel and asked "How much for this bouquet?" (3:02 PM).
+- Sent a voice note (0:16) in Urdu/English mix, then wrote at 6:33 PM: "I don't have a specific budget as I don't know how much a bouquet costs. Can you give me a range and examples?"
+- Greeting: no greeting in our reply history yet. Start the reply with a greeting.
+- Interest: lily bouquet (the one in the reel: pink-white lilies with red roses and baby's breath, pink wrap).
+- Missing: budget, size or volume, date, area.
+- Status: waiting for owner to approve the range reply. Draft reply below.
+
+Draft reply (English, copy box, pending owner approval):
+"Hi, thank you for your message! Our bouquets come in different sizes, so the price depends on the number of flowers and the design. For a small arrangement the price starts around 12,000, and for a bigger lily bouquet like the one in our video it goes up to about 47,500. Could you tell me your approximate budget, the size you want, and the date you need it? Then I can suggest the best option for you."
+(Roman Urdu meaning: Assalam o alaikum, message ka shukriya! Bouquets size ke hisaab se alag hote hain. Chhota arrangement lagbhag 12,000 se, aur video wala bada lily bouquet lagbhag 47,500 tak. Budget, size aur date bata dein to best option suggest kar sakti hoon.)

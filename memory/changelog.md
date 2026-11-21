@@ -24,3 +24,4 @@
 - 21 Nov 2026: total with design 2,800 = 47,467 (3-bud basis) saved in cloud.md.
 - 21 Nov 2026: heart final price 47,500. Budget under about 45,000: offer round bouquet instead.
 - 21 Nov 2026: Exclusive ad leads added to cloud.md (ushneykhurram, playcarmenbylanadelrey, Naorin Asif, Muhammad Azmeer).
+- 21 Nov 2026: new Exclusive ad lead m_taitai592 saved in cloud.md (asked for a range and examples, no budget yet). Range reply drafted for owner approval.
