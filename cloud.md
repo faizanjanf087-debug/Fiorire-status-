@@ -603,3 +603,19 @@ Roman Urdu meaning: Hi, ye bouquet red roses, pink lilies aur baby's breath se b
 - Draft reply (copy box, pending owner approval):
   "Hi, this bouquet has about 10 to 12 red roses, 6 imported pink lilies and 3 baby's breath stems, wrapped in maroon paper. The price is around 16,000 to 18,000 PKR. Could you share your budget, the size you would like, and the date you need the order for?"
 - Roman Urdu meaning: Hi, is bouquet mein lagbhag 10 se 12 red roses, 6 imported pink lilies aur 3 baby's breath stems hain, maroon paper mein wrap hai. Price lagbhag 16,000 se 18,000 PKR hai. Aap apna budget, size aur date bata dein?
+
+## Exclusive ad lead: coco_mel (21 Nov 2026, 6:22 PM and 7:13 PM screenshots)
+- Source: replied to the fiorireexclusive ad (pink and white roses bouquet with 2 white lilies and baby's breath, pink wrap and ribbon).
+- Instagram: coco_mel (active 41 min ago).
+- Our earlier reply (6:22 PM): lilies as main flowers, pink roses and baby's breath; customised on multiple budgets; asked budget and order date.
+- Customer 7:13 PM: "Price" (asked price again).
+- Owner's composition: pink and white roses mixed (do not write 10 roses; roses count to be confirmed by owner), 2 white lilies, baby's breath.
+- Missing: rose count, budget, date, area.
+- Price: not calculated yet. Owner to confirm rose count and price before quoting.
+- Greeting: already done (our 6:22 PM reply). Do not greet again.
+- Status: waiting for owner's rose count and price.
+
+Draft reply (copy box, pending owner approval, no price yet):
+"This bouquet has pink and white roses, 2 white lilies and baby's breath, wrapped in pink paper with a ribbon. To suggest the right price, could you share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Is bouquet mein pink aur white roses, 2 white lilies aur baby's breath hain, pink paper aur ribbon mein wrap hai. Sahi price batane ke liye aap apna budget, size aur date bata dein.
