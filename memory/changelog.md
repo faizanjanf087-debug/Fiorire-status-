@@ -61,3 +61,4 @@
 - 21 Nov 2026: new Exclusive ad lead judamayousafzai saved in cloud.md (asked pre-order shipping time). Shipping time pending owner.
 - 21 Nov 2026: ahmed.sheikh073 asked price and delivery days; message request not accepted yet. Draft ready after owner accepts. Delivery days pending owner.
 - 21 Nov 2026: rania.ali24 replied to story asking price. Message request pending. Draft ready after owner accepts.
+- 21 Nov 2026: itss._fazal asked budget for medium bouquet. Draft: medium lily heart 47,500, asks budget and date.

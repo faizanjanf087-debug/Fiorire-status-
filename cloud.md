@@ -740,3 +740,15 @@ Draft reply (copy box, pending owner approval):
 "Hi, this bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
+
+## itss._fazal update (21 Nov 2026, 7:30 PM screenshot)
+- Our reply (6:33 PM-7:30 PM, owner) sent: bouquet made with pink lilies, red roses, baby's breath; asked budget, size, date.
+- Customer 7:30 PM: "I jus want to take a budget for a medium bouquet" (asks what budget is needed for a medium bouquet).
+- Size: medium. Budget: not given yet. Date: not given yet.
+- Price: medium lily heart bouquet is 47,500 PKR (includes design, owner's campaign price). Heart bouquet needs budget 45,000 or above.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"A medium lily heart bouquet is 47,500 PKR. Could you please share the budget you have in mind and the date you need the order for?"
+
+Roman Urdu meaning: Medium lily heart bouquet ki price 47,500 PKR hai. Aap apna budget aur date bata dein jis din order chahiye.
