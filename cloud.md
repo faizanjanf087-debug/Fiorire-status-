@@ -401,3 +401,15 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, thank you for reaching out! Our bouquets are made with lilies, roses and baby's breath, and the design can be customised. What is the occasion for the lily bouquet? Our bouquets start around 12,000, so at a budget of about 6,000 we may need to suggest a smaller option. Could you also tell me the size you want? Is 8 December the date you need it?"
+
+## Exclusive ad lead: brahumdagh_khaliq (21 Nov 2026, 6:46 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: brahumdagh_khaliq. Profile photo: a child with a dog.
+- Message: 6:46 PM "Are you from Karachi".
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, order intent, size, date.
+- Owner to confirm: whether we have a branch in Karachi (owner's note said "main branch yahan"; records say Islamabad F-11 and Bahria Town Phase 4).
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, yes, we are from Karachi, and we also have branches in Islamabad. We have a few stalls in between as well. Are you looking to place an order? If yes, may I know your budget?"
