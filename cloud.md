@@ -413,3 +413,11 @@ Draft reply (copy box, pending owner approval):
 
 Draft reply (copy box, pending owner approval):
 "Hi, yes, we are from Karachi, and we also have branches in Islamabad. We have a few stalls in between as well. Are you looking to place an order? If yes, may I know your budget?"
+
+## Naorin Asif update (21 Nov 2026, 6:50 PM screenshot)
+- Owner's reply (6:31 PM follow-up): heart bouquet made with pink lilies, red roses and baby's breath; asked budget, size and date.
+- Customer 6:50 PM: "I was thinking something medium sized."
+- Size: medium. Budget: not given yet. Date: not given yet.
+- Greeting: already done by owner. Do not greet again.
+- Status: waiting for budget and date. Draft reply (copy box, pending owner approval):
+  "Medium size is a good choice. Could you share your budget and the date you need it? The final price depends on the exact size and flowers, and I will confirm it with you."
