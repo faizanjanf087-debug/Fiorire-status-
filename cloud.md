@@ -827,3 +827,17 @@ Roman Urdu meaning: Hi, hum isi style ka bouquet white roses mein bana sakte hai
 - Corrected draft (copy box, pending owner approval):
   "Our rose bouquets come in different sizes, from small to large, up to 500 roses. Prices per stem: imported rose 800 PKR, local rose 400 PKR. At around 5,000 PKR, we can make about 6 imported roses or about 12 local roses. A bigger bouquet like 100 roses can also be customised according to your budget. Would you prefer imported or local roses, and what is your budget?"
 - Roman Urdu meaning: Hamare rose bouquets alag size mein ban sakte hain, chhote se bade tak, 500 roses tak. Price per stem: imported rose 800 PKR, local rose 400 PKR. Lagbhag 5,000 PKR mein hum lagbhag 6 imported roses ya lagbhag 12 local roses bana sakte hain. 100 roses wala bada bouquet bhi apke budget ke mutabiq customise ho sakta hai. Aap imported chahti hain ya local, aur budget kya hai?
+
+## Exclusive ad lead: kaz_ajk (Irfan) (21 Nov 2026, 7:39 PM screenshot)
+- Source: replied to our Exclusive ad (lily campaign: pink lilies, red roses, baby's breath).
+- Instagram: kaz_ajk (Irfan), active now.
+- Message: 7:39 PM "What types of lilies are available for order?"
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area.
+- Rule (owner, 21 Nov): ad leads should get the reply that matches the running campaign (lily heart bouquet campaign on Exclusive).
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, our lily bouquets are made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's breath se bane hote hain. Aap apna budget, size aur date bata dein, taake main sahi option suggest kar sakun.
