@@ -452,3 +452,14 @@ Draft reply (copy box, pending owner approval):
 - Small bouquet 18,000 PKR = about $65. Above budget.
 - Draft reply (copy box, pending owner approval):
   "Our prices are in PKR. Our small bouquet starts at around 12,000 PKR, which is within your budget of about $50. Could you tell me the date you need it, and your city or area? Then I can confirm the best option for you."
+
+## Exclusive ad lead: _urneeb_zahraa (21 Nov 2026, 6:28 PM screenshot)
+- Source: replied to an ad (Fiorire Exclusive campaign).
+- Instagram: _urneeb_zahraa (28 followers, 6 posts).
+- Message: 6:28 PM "Price".
+- Greeting: none in our history. Start with a greeting.
+- Missing: budget, size, date, area, which bouquet.
+- Status: waiting for owner to approve the draft reply.
+
+Draft reply (copy box, pending owner approval):
+"Hi, this heart bouquet is made with pink lilies, red roses and baby's breath. To suggest the right option for you, could you please share your budget, the size you would like, and the date you need the order for?"

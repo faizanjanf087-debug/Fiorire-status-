@@ -34,3 +34,4 @@
 - 21 Nov 2026: new Exclusive ad lead its_asadm saved in cloud.md (asked lily types). Draft greets and asks budget, size, date.
 - 21 Nov 2026: its_asadm budget about 50 USD for small bouquet. Draft shows PKR options (12k, 18k) and asks date and area. Owner to confirm exchange rate.
 - 21 Nov 2026: its_asadm $50 = about 13,825 PKR (rate 276.5). Small 12,000 PKR option fits. Draft updated.
+- 21 Nov 2026: new Exclusive ad lead _urneeb_zahraa saved in cloud.md (asked price only). Draft greets, describes heart bouquet, asks budget, size, date.
