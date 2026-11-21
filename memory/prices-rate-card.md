@@ -10,7 +10,7 @@
 - Old quotes stay locked unless the customer raises it.
 - Never quote a price the owner has not confirmed. Ask budget first.
 
-## Round lily bouquet (Mahad bhai, supervisor), confirmed calculation 21 Nov 2026
+## Heart lily bouquet (Exclusive ad) (Mahad bhai, supervisor), confirmed calculation 21 Nov 2026
 - Composition: 40 imported roses, 7 single-bud lilies, baby's breath (10 stems).
 - Roses: 40 x 800 = 32,000
 - Lilies: 7 x 1,500 = 10,500 (rate card single bud)
@@ -20,3 +20,4 @@
 - Floor price: 45,000 (Mahad bhai's rule, internal, not to tell customers unless owner says).
 - Karachi and Lahore delivery available with separate charges. Our own shops in those cities.
 - 21 Nov 2026 clarification (owner): the heart-shaped lily bouquet (fiorireexclusive.pk post, pink and red lilies, heart form) is NOT the round one. Heart bouquet is 45,000 and above. If a customer below 45,000 asks, tell them the heart shape is not possible at that budget and offer the round bouquet instead.
+- CORRECTION (owner, 21 Nov 2026): the 40 roses, 7 lilies, baby's breath bouquet is the HEART bouquet (Exclusive ad, 45,000 and above), not round. Price 47,000 applies to the heart bouquet.
