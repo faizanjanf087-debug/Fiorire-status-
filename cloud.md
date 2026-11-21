@@ -776,3 +776,9 @@ Roman Urdu meaning: Medium lily heart bouquet ki price 47,500 PKR hai. Aap apna 
 - Draft reply (copy box, pending owner approval):
   "Each stem has 3 lilies and is 3,500 PKR. To suggest the right option for you, could you please share your budget, the size you would like, the date you need it, and your delivery address?"
 - Roman Urdu meaning: Har stem mein 3 lilies hote hain aur uski price 3,500 PKR hai. Aap apna budget, size, date aur delivery address bata dein, taake main sahi option suggest kar sakun.
+
+## minnisblings.pk draft 5 (owner, 21 Nov 2026, 7:34 PM)
+- Owner: just tell them one stem has 3 lilies. Short answer only.
+- Draft reply (copy box, pending owner approval):
+  "Each stem has 3 lilies."
+- Roman Urdu meaning: Har stem mein 3 lilies hote hain.
