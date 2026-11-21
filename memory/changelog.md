@@ -59,3 +59,4 @@
 - 21 Nov 2026: ushneykhurram budget 5,000, date 5-8 Feb (exact not sure). Draft: heart not possible, small round with about 6 red roses. Owner to confirm.
 - 21 Nov 2026: ushneykhurram calc: 4 imported roses 3,200 + wrapping 1,200 = 4,400 (fits 5,000). Local roses 400 each, customisable. Draft updated.
 - 21 Nov 2026: new Exclusive ad lead judamayousafzai saved in cloud.md (asked pre-order shipping time). Shipping time pending owner.
+- 21 Nov 2026: ahmed.sheikh073 asked price and delivery days; message request not accepted yet. Draft ready after owner accepts. Delivery days pending owner.

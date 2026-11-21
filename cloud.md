@@ -712,3 +712,17 @@ Draft reply (copy box, pending owner approval):
 "Hi, our pre-order shipping time depends on the bouquet and the date. To tell you the exact time, could you please share the bouquet you are interested in, your budget, the size you would like, and the date you need the order for?"
 
 Roman Urdu meaning: Hi, hamare pre-order ka shipping time bouquet aur date par depend karta hai. Exact time batane ke liye aap jo bouquet chahti hain, budget, size aur date bata dein.
+
+## Exclusive ad lead: ahmed.sheikh073 (21 Nov 2026, 7:17 PM screenshot)
+- Source: shared the campaign reel (pink lilies, red roses, baby's breath).
+- Instagram: ahmed.sheikh073 (Ahmed Sheikh).
+- Message: 7:17 PM "Price of this bouquet and in how many days can I receive it".
+- Message request: not accepted yet. Owner must tap Accept before we can reply.
+- Greeting: none in our history. Start with a greeting after accepting.
+- Missing: budget, size, date, area (delivery days depend on area), owner's delivery days to confirm.
+- Status: waiting for owner to accept the request, and to confirm delivery days. Draft ready (no price first).
+
+Draft reply (copy box, pending owner approval):
+"Hi, this bouquet is made with pink lilies, red roses and baby's breath. The delivery time depends on your area and the date you need it. Could you please share your city and area, your budget, the size you would like, and the date you need the order for?"
+
+Roman Urdu meaning: Hi, ye bouquet pink lilies, red roses aur baby's breath se bana hai. Delivery ka time aapke area aur date par depend karta hai. Aap apna city aur area, budget, size aur date bata dein.
