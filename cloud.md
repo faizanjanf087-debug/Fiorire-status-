@@ -887,3 +887,12 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 - Balance: 500 pending (owner's message). Confirm whether the 300 is part of the 14,000 or extra.
 - Items: NOT in the chat screenshots. Owner to send item details before the PDF.
 - Status: waiting for item list and confirmation of the 300 payment.
+
+## Order update: 26 Nov 2026, DHA-II (owner, 22 Nov 2026, 3:21 PM)
+- Bouquet price: 13,500 (10 roses, pink and white mix; 2 imported lilies, single bud; baby's breath).
+- Delivery charge: 800 (DHA-II).
+- Total due: 14,300 (13,500 + 800).
+- Payments received: Rs 14,000 (20 Nov, 8:26 PM, Raast-622932) and Rs 300 (20 Nov, 8:27 PM, Raast-630172). Total received: 14,300.
+- Balance: 0. Status: paid in full.
+- Owner's earlier "500 pending" was changed to 300 by customer (short of money). Now paid in full.
+- Next: owner to confirm the PDF and delivery time.
