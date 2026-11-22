@@ -78,3 +78,4 @@
 - 22 Nov 2026: DHA-II 26 Nov order paid in full: total 14,300 (13,500 bouquet + 800 delivery), received 14,000 + 300.
 - 22 Nov 2026: 26 Nov order PDF updated with booker contact (Zaeem Waseem, +92 323 5781441).
 - 22 Nov 2026: 26 Nov PDF heading changed to 'BARRAH - DHA PHASE 2 - 26 NOV' (owner request).
+- 22 Nov 2026: 26 Nov PDF heading reverted to ORDER SUMMARY (owner: keep the earlier format).
