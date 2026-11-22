@@ -896,3 +896,9 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 - Balance: 0. Status: paid in full.
 - Owner's earlier "500 pending" was changed to 300 by customer (short of money). Now paid in full.
 - Next: owner to confirm the PDF and delivery time.
+
+## 26 Nov DHA-II order: buyer contact added (owner, 22 Nov 2026, 3:24 PM)
+- Booked by: Zaeem Waseem (Khawaja Zaeem Waseem), +92 323 5781441 (WhatsApp, as in the payment screenshots).
+- Receiver: Maryam Sabir, 0347 0168125, House 2, Street 1, Sector C, DHA 2.
+- Bouquet photo from owner: pink and white roses, white lilies, baby's breath, eucalyptus, pink wrap with satin ribbon and Fiorire tag. Matches the order.
+- PDF updated: DHA-26NOV-2026, booked-by line added.

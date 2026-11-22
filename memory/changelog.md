@@ -76,3 +76,4 @@
 - 21 Nov 2026: ahmed.sheikh073 options: small round ~12k, medium round ~35k (budget 40k), large heart 47,500 with stem counts. Counts pending owner confirmation.
 - 21 Nov 2026: 26 Nov DHA-II order saved (Maryam Sabir). Price 14,500, paid 14,000 (+300 seen), 500 pending. Items missing, PDF on hold.
 - 22 Nov 2026: DHA-II 26 Nov order paid in full: total 14,300 (13,500 bouquet + 800 delivery), received 14,000 + 300.
+- 22 Nov 2026: 26 Nov order PDF updated with booker contact (Zaeem Waseem, +92 323 5781441).
