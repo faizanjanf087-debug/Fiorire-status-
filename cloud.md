@@ -902,3 +902,6 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 - Receiver: Maryam Sabir, 0347 0168125, House 2, Street 1, Sector C, DHA 2.
 - Bouquet photo from owner: pink and white roses, white lilies, baby's breath, eucalyptus, pink wrap with satin ribbon and Fiorire tag. Matches the order.
 - PDF updated: DHA-26NOV-2026, booked-by line added.
+
+## 26 Nov DHA-II order: delivery time pending (owner, 22 Nov 2026, 3:30 PM)
+- Delivery time: pending. Owner has asked the customer. Add to the PDF once confirmed.

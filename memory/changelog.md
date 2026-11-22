@@ -79,3 +79,4 @@
 - 22 Nov 2026: 26 Nov order PDF updated with booker contact (Zaeem Waseem, +92 323 5781441).
 - 22 Nov 2026: 26 Nov PDF heading changed to 'BARRAH - DHA PHASE 2 - 26 NOV' (owner request).
 - 22 Nov 2026: 26 Nov PDF heading reverted to ORDER SUMMARY (owner: keep the earlier format).
+- 22 Nov 2026: 26 Nov PDF shows delivery time as pending; owner asked customer.
