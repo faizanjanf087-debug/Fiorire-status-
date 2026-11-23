@@ -921,3 +921,17 @@ Draft reply (copy box, pending owner approval):
 "Yes, we can make a medium bouquet with 7 to 8 lilies within 35,000 PKR. Roses are also available with the lilies. Do you want lilies with roses too, or lilies only? If roses, which colour: pink, white or red? Please also share the date you need it and your city or area."
 
 Roman Urdu meaning: Jee haan, 35,000 PKR ke andar 7 se 8 lilies wala medium bouquet ban sakta hai. Lilies ke saath roses bhi available hain. Aap ko lilies ke saath roses chahiye ya sirf lilies? Roses chahiye to kaunsa rang: pink, white ya red? Date aur city ya area bhi bata dein.
+
+## Exclusive ad lead: ch.saweramubeen (23 Nov 2026, 6:21 PM to 8:35 PM screenshots)
+- Source: replied to our Exclusive ad (lily bouquet inquiry, cost, pre-order time, lily types).
+- Instagram: ch.saweramubeen (Sawera M.), WhatsApp contact too.
+- Order: 1 single birthday bouquet, imported lily with baby's breath, customised. Plus 1 mini birthday card.
+- Delivery area: I-9/3, I-9 Islamabad, Fazal Software Technology Park. Asked: delivery tomorrow (24 Nov) 6 to 7 PM possible? (owner to confirm).
+- Customer will send: account details request answered (owner said account is OK), full contact and address details, and the birthday card text (owner will share card photo).
+- Price: not agreed in the chat yet. Owner to confirm the price (single imported bud 1,500, baby's breath 450 per stem, card charge if any).
+- Status: waiting for owner's price and card photo, and customer's details. Draft below (copy box, pending owner approval).
+
+Draft reply (copy box, pending owner approval):
+"Thank you! Please share the following: 1) the message you want written on the birthday card, 2) the receiver's name, full address and contact number, 3) the delivery date and time. Delivery to I-9 is possible tomorrow between 6 and 7 PM [OWNER TO CONFIRM], and delivery charges will apply. Once your order is confirmed, we will share the account details for the advance payment."
+
+Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 2) receiver ka naam, poora address aur contact number, 3) delivery ki date aur time. I-9 mein kal 6 se 7 PM tak delivery mumkin hai [owner confirm], aur delivery charges alag honge. Order confirm hone ke baad hum advance payment ki details bhej denge.

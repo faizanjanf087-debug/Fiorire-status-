@@ -81,3 +81,4 @@
 - 22 Nov 2026: 26 Nov PDF heading reverted to ORDER SUMMARY (owner: keep the earlier format).
 - 22 Nov 2026: 26 Nov PDF shows delivery time as pending; owner asked customer.
 - 23 Nov 2026: bkpriv.11 budget 35k, medium, 7-8 lilies. Draft asks roses (yes/no, colour), date, city/area. Calc: ~30 imported roses + 8 lily buds + baby's breath = about 35k (owner to confirm).
+- 23 Nov 2026: ch.saweramubeen single imported lily bouquet + mini birthday card, I-9 delivery tomorrow 6-7 PM (owner to confirm). Price and card text pending.
