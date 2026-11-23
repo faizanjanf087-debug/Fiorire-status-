@@ -945,3 +945,10 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Delivery date/time: 24 Nov 2026, 6 to 7 PM (to be confirmed).
 - PDF: order_saweramubeen.pdf (Order ref SAW-24NOV-2026), status advance due.
 - Bank details sent to owner in copy box (not stored in repo).
+
+## ch.saweramubeen payment received (23 Nov 2026, 8:44 PM screenshot)
+- Advance received: PKR 2,200 (80% of 2,750), Raast transfer, 23 Nov 2026, 8:43 PM, STAN 204306.
+- From: Sawera Mubeen (Meezan Bank). To: M Mahad Zafar (HBL).
+- Balance: 550 plus delivery (I-9 delivery charge still to be confirmed by owner).
+- PDF updated: status "ADVANCE RECEIVED".
+- Next: confirm delivery time (24 Nov, 6 to 7 PM) and delivery charge.

@@ -83,3 +83,4 @@
 - 23 Nov 2026: bkpriv.11 budget 35k, medium, 7-8 lilies. Draft asks roses (yes/no, colour), date, city/area. Calc: ~30 imported roses + 8 lily buds + baby's breath = about 35k (owner to confirm).
 - 23 Nov 2026: ch.saweramubeen single imported lily bouquet + mini birthday card, I-9 delivery tomorrow 6-7 PM (owner to confirm). Price and card text pending.
 - 23 Nov 2026: ch.saweramubeen order complete: 2,500 bouquet + 250 card = 2,750; advance 80% = 2,200; delivery extra (amount pending). PDF made.
+- 23 Nov 2026: ch.saweramubeen advance 2,200 received (Raast STAN 204306). PDF status updated. Balance 550 plus delivery.
