@@ -905,3 +905,19 @@ Roman Urdu meaning: Hi, hamare lily bouquets pink lilies, red roses aur baby's b
 
 ## 26 Nov DHA-II order: delivery time pending (owner, 22 Nov 2026, 3:30 PM)
 - Delivery time: pending. Owner has asked the customer. Add to the PDF once confirmed.
+
+## Exclusive ad lead: bkpriv.11 (23 Nov 2026, 3:05 PM to 4:23 PM screenshots)
+- Source: replied to our Exclusive ad (lily reel).
+- Instagram: bkpriv.11.
+- Messages: 3:05 PM "What types of lilies are available for order?". Our voice note (0:18). Then "I have 35k". "Can you send me the pictures?". Our 7 photos and voice note (0:05, 0:04). 4:23 PM: "How much are the lillies for. I need a medium one not too big not too small but lillies should be included". Our 10 photos. Customer: "This one but with 7 to 8 lillies?" (pink roses and lilies bouquet reference).
+- Budget: 35,000 PKR.
+- Size: medium. Lilies: 7 to 8. Roses: customer has not said yet whether roses are needed (lilies only, or lilies with roses).
+- Owner's note: the reference bouquet has pink roses and lilies.
+- Calc (owner to confirm): 8 lily buds x 1,166.67 = 9,333. Baby's breath 3 stems = 1,350. Remaining 24,317 / 800 = about 30 imported roses. Total about 35,000 (before design; design hidden).
+- Greeting: already done by owner earlier (voice notes). Do not greet again.
+- Status: waiting for customer's answer on roses and the date.
+
+Draft reply (copy box, pending owner approval):
+"Yes, we can make a medium bouquet with 7 to 8 lilies within 35,000 PKR. Roses are also available with the lilies. Do you want lilies with roses too, or lilies only? If roses, which colour: pink, white or red? Please also share the date you need it and your city or area."
+
+Roman Urdu meaning: Jee haan, 35,000 PKR ke andar 7 se 8 lilies wala medium bouquet ban sakta hai. Lilies ke saath roses bhi available hain. Aap ko lilies ke saath roses chahiye ya sirf lilies? Roses chahiye to kaunsa rang: pink, white ya red? Date aur city ya area bhi bata dein.
