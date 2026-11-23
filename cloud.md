@@ -935,3 +935,13 @@ Draft reply (copy box, pending owner approval):
 "Thank you! Please share the following: 1) the message you want written on the birthday card, 2) the receiver's name, full address and contact number, 3) the delivery date and time. Delivery to I-9 is possible tomorrow between 6 and 7 PM [OWNER TO CONFIRM], and delivery charges will apply. Once your order is confirmed, we will share the account details for the advance payment."
 
 Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 2) receiver ka naam, poora address aur contact number, 3) delivery ki date aur time. I-9 mein kal 6 se 7 PM tak delivery mumkin hai [owner confirm], aur delivery charges alag honge. Order confirm hone ke baad hum advance payment ki details bhej denge.
+
+## ch.saweramubeen order: details complete (owner, 23 Nov 2026, 8:38 PM)
+- Receiver: Attique Ahmed, 0304 5952183. Address: I-9/3, I-9 Islamabad, Fazal Software Technology Park.
+- Bouquet: single imported lily with baby's breath, customised, small size: 2,500.
+- Mini birthday card: 250. Card text: "HAPPY BIRTHDAY PRINCESS".
+- Delivery: I-9, charged separately (amount to be confirmed by owner).
+- Total excluding delivery: 2,750. Advance 80%: 2,200. Balance: 550 plus delivery at delivery.
+- Delivery date/time: 24 Nov 2026, 6 to 7 PM (to be confirmed).
+- PDF: order_saweramubeen.pdf (Order ref SAW-24NOV-2026), status advance due.
+- Bank details sent to owner in copy box (not stored in repo).
