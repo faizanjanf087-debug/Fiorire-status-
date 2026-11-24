@@ -20,3 +20,4 @@
 - Owner's voice note 1: "Be a part of Pakistan's first Italian floral boutique, which is now working all over Pakistan, the first ever boutique of its kind. Sales and designer team apply. The best fit is artistic people who love art or nature. This is the best opportunity."
 - Owner's voice note 2: script from Mahad bhai (copy box in chat).
 - Phone number and email: not in records. Owner to send. Design shows [PHONE NUMBER] placeholder.
+- 24 Nov 2026: hiring post contact number from owner: 0328 5000421 (use in post prompt).
