@@ -15,3 +15,8 @@
 - Header line: "Fiorire Pakistan's first Italian floral boutique. Be a part of our team."
 - Contact number: owner will send; placeholder [PHONE NUMBER] in design until then.
 - Design: HTML file hiring_post.html (scratchpad), 1080x1350 PNG rendered.
+
+## Hiring post copy (owner, 24 Nov 2026, 7:12 PM)
+- Owner's voice note 1: "Be a part of Pakistan's first Italian floral boutique, which is now working all over Pakistan, the first ever boutique of its kind. Sales and designer team apply. The best fit is artistic people who love art or nature. This is the best opportunity."
+- Owner's voice note 2: script from Mahad bhai (copy box in chat).
+- Phone number and email: not in records. Owner to send. Design shows [PHONE NUMBER] placeholder.
