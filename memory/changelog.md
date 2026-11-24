@@ -88,3 +88,4 @@
 - 24 Nov 2026: hiring post copy and design updated with owner's voice-note lines. Phone number and email pending from owner.
 - 24 Nov 2026: hiring post contact number saved (0328 5000421).
 - 24 Nov 2026: hiring post prompt v2 (advanced, editorial style) given to owner.
+- 24 Nov 2026: hiring post v3 direction saved (Colosseum Rome background, fewer flowers, realistic, no store list).

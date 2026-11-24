@@ -22,3 +22,9 @@
 - Phone number and email: not in records. Owner to send. Design shows [PHONE NUMBER] placeholder.
 - 24 Nov 2026: hiring post contact number from owner: 0328 5000421 (use in post prompt).
 - 24 Nov 2026: owner asked for a more advanced, elegant, different hiring post prompt for ChatGPT. Prompt v2 given (same text, contact 0328 5000421).
+
+## Hiring post v3 (owner feedback, 24 Nov 2026, 7:37 PM)
+- Owner: remove the two bouquet images. Flowers should be fewer and not look too local. Use an Italian background: Colosseum, Rome (the old arena of fights). Show it as a background, not plastic or cartoon.
+- Job location: Bahria Town Phase 4, Rawalpindi. Do not list store cities (Riyadh, Jeddah, Lahore, Karachi, Islamabad) under the post. Confirm with owner if he wants them.
+- Text unchanged. Contact: 0328 5000421.
+- Prompt v3: Colosseum background, realistic photo look, small floral accent only.
