@@ -21,3 +21,4 @@
 - Owner's voice note 2: script from Mahad bhai (copy box in chat).
 - Phone number and email: not in records. Owner to send. Design shows [PHONE NUMBER] placeholder.
 - 24 Nov 2026: hiring post contact number from owner: 0328 5000421 (use in post prompt).
+- 24 Nov 2026: owner asked for a more advanced, elegant, different hiring post prompt for ChatGPT. Prompt v2 given (same text, contact 0328 5000421).
