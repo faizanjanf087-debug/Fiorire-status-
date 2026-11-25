@@ -958,3 +958,13 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Note: 12:00 PM today has already passed (time now 2:04 PM). Owner to confirm the new time with the receiver.
 - PDF updated: delivery date 25 Nov 2026, time 12:00 PM.
 - Next: delivery confirmation and video.
+
+## 25 Nov 2026 - noraa_7077 (Noor Ibrahim) - ORDER BOOKED
+- Customer: Noor Ibrahim, 0300 5509212, House 641, E-11/4 Islamabad (E-11 maij double road)
+- Date: 26 Nov 2026 (kal), morning delivery wanted; she asked to see the bouquet by 12 PM
+- Bouquet: 11 imported red roses + baby's breath, NO lilies, NO pink or white roses
+- Size: small (imported roses bouquet)
+- Total: 12,100 (11 x 800 + 1,500 + 1,800)
+- Delivery charges: separate
+- Payment: customer said online transfer after confirmation
+- Status: booked, customising
