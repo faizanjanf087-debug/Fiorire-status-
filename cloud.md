@@ -952,3 +952,9 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Balance: 550 plus delivery (I-9 delivery charge still to be confirmed by owner).
 - PDF updated: status "ADVANCE RECEIVED".
 - Next: confirm delivery time (24 Nov, 6 to 7 PM) and delivery charge.
+
+## 26 Nov DHA-II order: delivery moved to 25 Nov, 12:00 PM (owner, 25 Nov 2026, 2:04 PM)
+- Owner: deliver today (25 Nov) at 12:00 PM, then send the delivery video.
+- Note: 12:00 PM today has already passed (time now 2:04 PM). Owner to confirm the new time with the receiver.
+- PDF updated: delivery date 25 Nov 2026, time 12:00 PM.
+- Next: delivery confirmation and video.
