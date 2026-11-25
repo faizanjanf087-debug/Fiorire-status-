@@ -968,3 +968,10 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Delivery charges: separate
 - Payment: customer said online transfer after confirmation
 - Status: booked, customising
+
+## 25 Nov 2026 22:08 - noraa_7077 (Noor Ibrahim) - ADVANCE RECEIVED
+- Advance: PKR 9,680 (80% of 12,100) received via Faysal Bank to M Mahad Zafar HBL, Transaction ID 395202, 25/11/2026 22:08:32. Sender: Noor Ayesha.
+- Customer said: "make sure it is not small or short". Sent a reference picture (red roses with baby's breath, bigger bouquet with card).
+- Customer said: ready by 2 PM tomorrow (26 Nov), she will confirm delivery time later.
+- Open point for owner: booked size is small; customer wants bigger look. Owner to decide before promising size.
+- Delivery charges separate.
