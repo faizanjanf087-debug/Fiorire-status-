@@ -975,3 +975,13 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Customer said: ready by 2 PM tomorrow (26 Nov), she will confirm delivery time later.
 - Open point for owner: booked size is small; customer wants bigger look. Owner to decide before promising size.
 - Delivery charges separate.
+
+## 26 Nov 2026 16:19 - wannafwsilv (1%) - ORDER NOTED, PAYMENT PENDING
+- Contact: +966 50 301 9519 (WhatsApp)
+- Bouquet: 10 roses, pink and white mix, baby's breath, 1 imported lily stem
+- Wrapping: black jute wrapping
+- Price: 17,900 (owner quoted)
+- Delivery charges: separate, told on delivery day
+- Payment account sent to customer: M Mahad Zafar, HBL, 06027992698203
+- Open: customer's delivery address, city and date not yet shared
+- Status: waiting for payment and delivery details
