@@ -985,3 +985,8 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Payment account sent to customer: M Mahad Zafar, HBL, 06027992698203
 - Open: customer's delivery address, city and date not yet shared
 - Status: waiting for payment and delivery details
+
+## ch.saweramubeen - own contact number (26 Nov 2026, 6:29 PM chat)
+- Sawera's own number (sent in chat when asked for contact): 0342 0050550
+- Receiver for the order remains Attique Ahmed, 0304 5952183.
+- She asked: when lilies will be available again. Balance and final answer still pending from owner.
