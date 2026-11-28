@@ -1006,3 +1006,12 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Subtotal before wrapping: 33,100 to 33,700
 - Pickup: self, from FLM (F-11 Markaz)
 - Next: owner confirms chrysanthemum count, then total and payment details in copy box.
+
+## 28 Nov 2026 18:46 - Adnan (+92 343 0460411) - FINAL BILL, FULL PAYMENT
+- Tulips: 3 x 4,800 = 14,400
+- Imported lilies: 4 x 4,300 = 17,200
+- Chrysanthemums (purple and white mix): 10 x 300 = 3,000
+- Total: 34,600 (wrapping not included, owner to confirm if any)
+- Payment: full amount, not 80%. Customer to pay and send screenshot.
+- Account: M Mahad Zafar, HBL, 06027992698203
+- Pickup: self, FLM (F-11 Markaz)

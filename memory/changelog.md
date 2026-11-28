@@ -96,3 +96,4 @@
 - 26 Nov 2026 16:19: wannafwsilv (1%) order noted, 17,900, 10 mixed roses + baby's breath + 1 imported lily, black jute. Payment pending.
 - 26 Nov 2026: owner cash ledger saved in memory/owner-cash-ledger.md (9,720 taken, 4,440 pending).
 - 28 Nov 2026: Adnan (+92 343 0460411) order being confirmed. Tulip 4,800, lily 4,300, chrysanthemum 300 per stem. Pickup FLM branch.
+- 28 Nov 2026: Adnan final bill 34,600 (full payment). Account sent in copy box.
