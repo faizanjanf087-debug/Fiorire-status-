@@ -998,3 +998,11 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Pickup: customer will pick up himself from the FLM branch (assumed F-11 Markaz; owner to confirm).
 - Payment: assistant to send payment details in copy box after owner confirms total.
 - Status: waiting for owner's confirmed quantities.
+
+## 28 Nov 2026 18:40 - Adnan (+92 343 0460411) - quantities from owner
+- Tulips: 3 stems x 4,800 = 14,400
+- Imported lilies: 4 stems x 4,300 = 17,200
+- Chrysanthemums: 5 to 7 stems x 300 = 1,500 to 2,100 (owner to confirm exact count with customer)
+- Subtotal before wrapping: 33,100 to 33,700
+- Pickup: self, from FLM (F-11 Markaz)
+- Next: owner confirms chrysanthemum count, then total and payment details in copy box.
