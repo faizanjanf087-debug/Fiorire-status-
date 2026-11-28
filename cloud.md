@@ -990,3 +990,11 @@ Roman Urdu meaning: Shukriya! Ye details bhej dein: 1) card par kya likhna hai, 
 - Sawera's own number (sent in chat when asked for contact): 0342 0050550
 - Receiver for the order remains Attique Ahmed, 0304 5952183.
 - She asked: when lilies will be available again. Balance and final answer still pending from owner.
+
+## 28 Nov 2026 - Adnan (+92 343 0460411) - ORDER BEING CONFIRMED
+- Contact: +92 343 0460411 (name saved as Adnan)
+- Prices given by owner: tulips 4,800 per stem, imported lily 4,300 per stem, chrysanthemums 300 per stem.
+- Quantities: owner to confirm with customer, then owner will share sizes and totals.
+- Pickup: customer will pick up himself from the FLM branch (assumed F-11 Markaz; owner to confirm).
+- Payment: assistant to send payment details in copy box after owner confirms total.
+- Status: waiting for owner's confirmed quantities.
